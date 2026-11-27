@@ -1,76 +1,76 @@
-01 | 2010/Young Gods 2010-08-14 Zofingen/02 Young Gods-Heitere 2010.flac | 4:27
-02 | 2010/Young Gods 2010-08-14 Zofingen/04 Young Gods-Heitere 2010.flac | 3:01
-03 | 2010/Young Gods 2010-08-14 Zofingen/07 Young Gods-Heitere 2010.flac | 2:45
-04 | 2010/Young Gods 2010-08-14 Zofingen/09 Young Gods-Heitere 2010.flac | 2:08
-05 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t01.flac | 3:56
-06 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t03.flac | 1:55
-07 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t06.flac | 8:21
-08 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t08.flac | 2:03
-09 | 2010/Young Gods 2010-11-16 Lausanne/04-no land's man.flac | 3:42
-10 | 2010/Young Gods 2010-11-16 Lausanne/06-about time.flac | 4:14
-11 | 2010/Young Gods 2010-11-16 Lausanne/09-everythere.flac | 3:08
-12 | 2010/Young Gods 2010-11-16 Lausanne/11-skinflower.flac | 3:28
-13 | 2010/Young Gods 2010-08-14 Zofingen/01 Young Gods-Heitere 2010.flac | 0:47
-14 | 2010/Young Gods 2010-08-14 Zofingen/03 Young Gods-Heitere 2010.flac | 0:41
-15 | 2010/Young Gods 2010-08-14 Zofingen/05 Young Gods-Heitere 2010.flac | 0:53
-16 | 2010/Young Gods 2010-08-14 Zofingen/06 Young Gods-Heitere 2010.flac | 0:48
-17 | 2010/Young Gods 2010-08-14 Zofingen/08 Young Gods-Heitere 2010.flac | 0:38
-18 | 2010/Young Gods 2010-08-14 Zofingen/10 Young Gods-Heitere 2010.flac | 1:14
-19 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t02.flac | 0:42
-20 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t04.flac | 0:49
-21 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t05.flac | 0:46
-22 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t07.flac | 0:37
-23 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t09.flac | 0:49
-24 | 2010/Young Gods 2010-11-16 Lausanne/03-blooming.flac | 0:46
-25 | 2010/Young Gods 2010-11-16 Lausanne/05-supersonic.flac | 0:41
-26 | 2010/Young Gods 2010-11-16 Lausanne/07-mister sunshine.flac | 1:01
-27 | 2010/Young Gods 2010-11-16 Lausanne/08-tenter le grillage.flac | 1:02
-28 | 2010/Young Gods 2010-11-16 Lausanne/10-once again - encore.flac | 1:34
-29 | 2010/Young Gods 2010-11-16 Lausanne/12-kissing the sun.flac | 0:46
-30 | 2010/Young Gods 2010-08-14 Zofingen/02 Young Gods-Heitere 2010.flac | 1:00
-31 | 2010/Young Gods 2010-08-14 Zofingen/04 Young Gods-Heitere 2010.flac | 0:40
-32 | 2010/Young Gods 2010-08-14 Zofingen/07 Young Gods-Heitere 2010.flac | 0:37
-33 | 2010/Young Gods 2010-08-14 Zofingen/09 Young Gods-Heitere 2010.flac | 0:29
-34 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t01.flac | 0:53
-35 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t03.flac | 0:26
-36 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t06.flac | 1:53
-37 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t08.flac | 0:27
-38 | 2010/Young Gods 2010-11-16 Lausanne/04-no land's man.flac | 0:50
-39 | 2010/Young Gods 2010-11-16 Lausanne/06-about time.flac | 0:57
-40 | 2010/Young Gods 2010-11-16 Lausanne/09-everythere.flac | 0:42
-41 | 2010/Young Gods 2010-11-16 Lausanne/11-skinflower.flac | 0:47
-42 | 2010/Young Gods 2010-08-14 Zofingen/01 Young Gods-Heitere 2010.flac | 2:56
-43 | 2010/Young Gods 2010-08-14 Zofingen/03 Young Gods-Heitere 2010.flac | 2:35
-44 | 2010/Young Gods 2010-08-14 Zofingen/05 Young Gods-Heitere 2010.flac | 3:21
-45 | 2010/Young Gods 2010-08-14 Zofingen/06 Young Gods-Heitere 2010.flac | 3:00
-46 | 2010/Young Gods 2010-08-14 Zofingen/08 Young Gods-Heitere 2010.flac | 2:22
-47 | 2010/Young Gods 2010-08-14 Zofingen/10 Young Gods-Heitere 2010.flac | 4:39
-48 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t02.flac | 2:37
-49 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t04.flac | 3:05
-50 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t05.flac | 2:55
-51 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t07.flac | 2:19
-52 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t09.flac | 3:06
-53 | 2010/Young Gods 2010-11-16 Lausanne/03-blooming.flac | 2:52
-54 | 2010/Young Gods 2010-11-16 Lausanne/05-supersonic.flac | 2:35
-55 | 2010/Young Gods 2010-11-16 Lausanne/07-mister sunshine.flac | 3:50
-56 | 2010/Young Gods 2010-11-16 Lausanne/08-tenter le grillage.flac | 3:52
-57 | 2010/Young Gods 2010-11-16 Lausanne/10-once again - encore.flac | 5:51
-58 | 2010/Young Gods 2010-11-16 Lausanne/12-kissing the sun.flac | 2:52
-59 | 2010/Young Gods 2010-08-14 Zofingen/02 Young Gods-Heitere 2010.flac | 3:46
-60 | 2010/Young Gods 2010-08-14 Zofingen/04 Young Gods-Heitere 2010.flac | 2:33
-61 | 2010/Young Gods 2010-08-14 Zofingen/07 Young Gods-Heitere 2010.flac | 2:19
-62 | 2010/Young Gods 2010-08-14 Zofingen/09 Young Gods-Heitere 2010.flac | 1:48
-63 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t01.flac | 3:19
-64 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t03.flac | 1:38
-65 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t06.flac | 7:03
-66 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t08.flac | 1:44
-67 | 2010/Young Gods 2010-11-16 Lausanne/04-no land's man.flac | 3:07
-68 | 2010/Young Gods 2010-11-16 Lausanne/06-about time.flac | 3:35
-69 | 2010/Young Gods 2010-11-16 Lausanne/09-everythere.flac | 2:38
-70 | 2010/Young Gods 2010-11-16 Lausanne/11-skinflower.flac | 2:55
-71 | 2010/Young Gods 2010-08-14 Zofingen/01 Young Gods-Heitere 2010.flac | 1:52
-72 | 2010/Young Gods 2010-08-14 Zofingen/03 Young Gods-Heitere 2010.flac | 1:38
-73 | 2010/Young Gods 2010-08-14 Zofingen/05 Young Gods-Heitere 2010.flac | 2:07
-74 | 2010/Young Gods 2010-08-14 Zofingen/06 Young Gods-Heitere 2010.flac | 1:54
-75 | 2010/Young Gods 2010-08-14 Zofingen/08 Young Gods-Heitere 2010.flac | 1:30
-76 | 2010/Young Gods 2010-08-14 Zofingen/10 Young Gods-Heitere 2010.flac | 2:57
+01 | 2011/AUDIO/THE YOUNG GODS 12.04.11 - SKINFLOWERS.wav | 1:03
+02 | 2011/AUDIO/THE YOUNG GODS 12.04.11.wav | 19:45
+03 | 2011/AUDIO/Tenter lr grillage Master by Nino.wav | 1:05
+04 | 2011/AUDIO/THE YOUNG GODS 12.04.11 - SKINFLOWERS.wav | 4:20
+05 | 2011/AUDIO/THE YOUNG GODS 12.04.11.wav | 80:46
+06 | 2011/AUDIO/Tenter lr grillage Master by Nino.wav | 4:28
+07 | 2011/AUDIO/THE YOUNG GODS 12.04.11 - SKINFLOWERS.wav | 2:18
+08 | 2011/AUDIO/THE YOUNG GODS 12.04.11.wav | 43:03
+09 | 2011/AUDIO/Tenter lr grillage Master by Nino.wav | 2:23
+10 | 2011/AUDIO/THE YOUNG GODS 12.04.11 - SKINFLOWERS.wav | 0:17
+11 | 2011/AUDIO/THE YOUNG GODS 12.04.11.wav | 5:19
+12 | 2011/AUDIO/Tenter lr grillage Master by Nino.wav | 0:17
+13 | 2011/AUDIO/THE YOUNG GODS 12.04.11 - SKINFLOWERS.wav | 3:34
+14 | 2011/AUDIO/THE YOUNG GODS 12.04.11.wav | 66:21
+15 | 2011/AUDIO/Tenter lr grillage Master by Nino.wav | 3:40
+16 | 2011/AUDIO/THE YOUNG GODS 12.04.11 - SKINFLOWERS.wav | 1:32
+17 | 2011/AUDIO/THE YOUNG GODS 12.04.11.wav | 28:38
+18 | 2011/AUDIO/Tenter lr grillage Master by Nino.wav | 1:35
+19 | 2011/AUDIO/THE YOUNG GODS 12.04.11 - SKINFLOWERS.wav | 4:49
+20 | 2011/AUDIO/THE YOUNG GODS 12.04.11.wav | 89:40
+21 | 2011/AUDIO/Tenter lr grillage Master by Nino.wav | 4:57
+22 | 2011/AUDIO/THE YOUNG GODS 12.04.11 - SKINFLOWERS.wav | 2:47
+23 | 2011/AUDIO/THE YOUNG GODS 12.04.11.wav | 51:56
+24 | 2011/AUDIO/Tenter lr grillage Master by Nino.wav | 2:52
+25 | 2011/AUDIO/THE YOUNG GODS 12.04.11 - SKINFLOWERS.wav | 0:45
+26 | 2011/AUDIO/THE YOUNG GODS 12.04.11.wav | 14:13
+27 | 2011/AUDIO/Tenter lr grillage Master by Nino.wav | 0:47
+28 | 2011/AUDIO/THE YOUNG GODS 12.04.11 - SKINFLOWERS.wav | 4:02
+29 | 2011/AUDIO/THE YOUNG GODS 12.04.11.wav | 75:15
+30 | 2011/AUDIO/Tenter lr grillage Master by Nino.wav | 4:09
+31 | 2011/AUDIO/THE YOUNG GODS 12.04.11 - SKINFLOWERS.wav | 2:01
+32 | 2011/AUDIO/THE YOUNG GODS 12.04.11.wav | 37:31
+33 | 2011/AUDIO/Tenter lr grillage Master by Nino.wav | 2:04
+34 | 2011/AUDIO/THE YOUNG GODS 12.04.11 - SKINFLOWERS.wav | 5:17
+35 | 2011/AUDIO/THE YOUNG GODS 12.04.11.wav | 98:33
+36 | 2011/AUDIO/Tenter lr grillage Master by Nino.wav | 5:27
+37 | 2011/AUDIO/THE YOUNG GODS 12.04.11 - SKINFLOWERS.wav | 3:16
+38 | 2011/AUDIO/THE YOUNG GODS 12.04.11.wav | 60:49
+39 | 2011/AUDIO/Tenter lr grillage Master by Nino.wav | 3:22
+40 | 2011/AUDIO/THE YOUNG GODS 12.04.11 - SKINFLOWERS.wav | 1:14
+41 | 2011/AUDIO/THE YOUNG GODS 12.04.11.wav | 23:06
+42 | 2011/AUDIO/Tenter lr grillage Master by Nino.wav | 1:16
+43 | 2011/AUDIO/THE YOUNG GODS 12.04.11 - SKINFLOWERS.wav | 4:31
+44 | 2011/AUDIO/THE YOUNG GODS 12.04.11.wav | 84:08
+45 | 2011/AUDIO/Tenter lr grillage Master by Nino.wav | 4:39
+46 | 2011/AUDIO/THE YOUNG GODS 12.04.11 - SKINFLOWERS.wav | 2:29
+47 | 2011/AUDIO/THE YOUNG GODS 12.04.11.wav | 46:24
+48 | 2011/AUDIO/Tenter lr grillage Master by Nino.wav | 2:34
+49 | 2011/AUDIO/THE YOUNG GODS 12.04.11 - SKINFLOWERS.wav | 0:28
+50 | 2011/AUDIO/THE YOUNG GODS 12.04.11.wav | 8:41
+51 | 2011/AUDIO/Tenter lr grillage Master by Nino.wav | 0:28
+52 | 2011/AUDIO/THE YOUNG GODS 12.04.11 - SKINFLOWERS.wav | 3:44
+53 | 2011/AUDIO/THE YOUNG GODS 12.04.11.wav | 69:43
+54 | 2011/AUDIO/Tenter lr grillage Master by Nino.wav | 3:51
+55 | 2011/AUDIO/THE YOUNG GODS 12.04.11 - SKINFLOWERS.wav | 1:43
+56 | 2011/AUDIO/THE YOUNG GODS 12.04.11.wav | 31:59
+57 | 2011/AUDIO/Tenter lr grillage Master by Nino.wav | 1:46
+58 | 2011/AUDIO/THE YOUNG GODS 12.04.11 - SKINFLOWERS.wav | 5:00
+59 | 2011/AUDIO/THE YOUNG GODS 12.04.11.wav | 93:01
+60 | 2011/AUDIO/Tenter lr grillage Master by Nino.wav | 5:08
+61 | 2011/AUDIO/THE YOUNG GODS 12.04.11 - SKINFLOWERS.wav | 2:58
+62 | 2011/AUDIO/THE YOUNG GODS 12.04.11.wav | 55:18
+63 | 2011/AUDIO/Tenter lr grillage Master by Nino.wav | 3:03
+64 | 2011/AUDIO/THE YOUNG GODS 12.04.11 - SKINFLOWERS.wav | 0:56
+65 | 2011/AUDIO/THE YOUNG GODS 12.04.11.wav | 17:34
+66 | 2011/AUDIO/Tenter lr grillage Master by Nino.wav | 0:58
+67 | 2011/AUDIO/THE YOUNG GODS 12.04.11 - SKINFLOWERS.wav | 4:13
+68 | 2011/AUDIO/THE YOUNG GODS 12.04.11.wav | 78:36
+69 | 2011/AUDIO/Tenter lr grillage Master by Nino.wav | 4:21
+70 | 2011/AUDIO/THE YOUNG GODS 12.04.11 - SKINFLOWERS.wav | 2:11
+71 | 2011/AUDIO/THE YOUNG GODS 12.04.11.wav | 40:53
+72 | 2011/AUDIO/Tenter lr grillage Master by Nino.wav | 2:15
+73 | 2011/AUDIO/THE YOUNG GODS 12.04.11 - SKINFLOWERS.wav | 0:10
+74 | 2011/AUDIO/THE YOUNG GODS 12.04.11.wav | 3:09
+75 | 2011/AUDIO/Tenter lr grillage Master by Nino.wav | 0:10
+76 | 2011/AUDIO/THE YOUNG GODS 12.04.11 - SKINFLOWERS.wav | 3:27

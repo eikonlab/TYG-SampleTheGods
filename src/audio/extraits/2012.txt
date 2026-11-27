@@ -1,76 +1,76 @@
-01 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t02.flac | 1:39
-02 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t04.flac | 1:57
-03 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t05.flac | 1:51
-04 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t07.flac | 1:28
-05 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t09.flac | 1:57
-06 | 2010/Young Gods 2010-11-16 Lausanne/03-blooming.flac | 1:49
-07 | 2010/Young Gods 2010-11-16 Lausanne/05-supersonic.flac | 1:38
-08 | 2010/Young Gods 2010-11-16 Lausanne/07-mister sunshine.flac | 2:26
-09 | 2010/Young Gods 2010-11-16 Lausanne/08-tenter le grillage.flac | 2:27
-10 | 2010/Young Gods 2010-11-16 Lausanne/10-once again - encore.flac | 3:43
-11 | 2010/Young Gods 2010-11-16 Lausanne/12-kissing the sun.flac | 1:49
-12 | 2010/Young Gods 2010-08-14 Zofingen/02 Young Gods-Heitere 2010.flac | 2:23
-13 | 2010/Young Gods 2010-08-14 Zofingen/04 Young Gods-Heitere 2010.flac | 1:36
-14 | 2010/Young Gods 2010-08-14 Zofingen/07 Young Gods-Heitere 2010.flac | 1:28
-15 | 2010/Young Gods 2010-08-14 Zofingen/09 Young Gods-Heitere 2010.flac | 1:08
-16 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t01.flac | 2:06
-17 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t03.flac | 1:02
-18 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t06.flac | 4:28
-19 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t08.flac | 1:06
-20 | 2010/Young Gods 2010-11-16 Lausanne/04-no land's man.flac | 1:58
-21 | 2010/Young Gods 2010-11-16 Lausanne/06-about time.flac | 2:16
-22 | 2010/Young Gods 2010-11-16 Lausanne/09-everythere.flac | 1:40
-23 | 2010/Young Gods 2010-11-16 Lausanne/11-skinflower.flac | 1:51
-24 | 2010/Young Gods 2010-08-14 Zofingen/01 Young Gods-Heitere 2010.flac | 4:01
-25 | 2010/Young Gods 2010-08-14 Zofingen/03 Young Gods-Heitere 2010.flac | 3:32
-26 | 2010/Young Gods 2010-08-14 Zofingen/05 Young Gods-Heitere 2010.flac | 4:35
-27 | 2010/Young Gods 2010-08-14 Zofingen/06 Young Gods-Heitere 2010.flac | 4:06
-28 | 2010/Young Gods 2010-08-14 Zofingen/08 Young Gods-Heitere 2010.flac | 3:14
-29 | 2010/Young Gods 2010-08-14 Zofingen/10 Young Gods-Heitere 2010.flac | 6:22
-30 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t02.flac | 3:35
-31 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t04.flac | 4:12
-32 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t05.flac | 3:59
-33 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t07.flac | 3:11
-34 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t09.flac | 4:14
-35 | 2010/Young Gods 2010-11-16 Lausanne/03-blooming.flac | 3:56
-36 | 2010/Young Gods 2010-11-16 Lausanne/05-supersonic.flac | 3:32
-37 | 2010/Young Gods 2010-11-16 Lausanne/07-mister sunshine.flac | 5:15
-38 | 2010/Young Gods 2010-11-16 Lausanne/08-tenter le grillage.flac | 5:17
-39 | 2010/Young Gods 2010-11-16 Lausanne/10-once again - encore.flac | 8:00
-40 | 2010/Young Gods 2010-11-16 Lausanne/12-kissing the sun.flac | 3:55
-41 | 2010/Young Gods 2010-08-14 Zofingen/02 Young Gods-Heitere 2010.flac | 5:09
-42 | 2010/Young Gods 2010-08-14 Zofingen/04 Young Gods-Heitere 2010.flac | 3:29
-43 | 2010/Young Gods 2010-08-14 Zofingen/07 Young Gods-Heitere 2010.flac | 3:11
-44 | 2010/Young Gods 2010-08-14 Zofingen/09 Young Gods-Heitere 2010.flac | 2:28
-45 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t01.flac | 4:32
-46 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t03.flac | 2:13
-47 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t06.flac | 9:39
-48 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t08.flac | 2:22
-49 | 2010/Young Gods 2010-11-16 Lausanne/04-no land's man.flac | 4:16
-50 | 2010/Young Gods 2010-11-16 Lausanne/06-about time.flac | 4:54
-51 | 2010/Young Gods 2010-11-16 Lausanne/09-everythere.flac | 3:37
-52 | 2010/Young Gods 2010-11-16 Lausanne/11-skinflower.flac | 4:00
-53 | 2010/Young Gods 2010-08-14 Zofingen/01 Young Gods-Heitere 2010.flac | 0:31
-54 | 2010/Young Gods 2010-08-14 Zofingen/03 Young Gods-Heitere 2010.flac | 0:27
-55 | 2010/Young Gods 2010-08-14 Zofingen/05 Young Gods-Heitere 2010.flac | 0:35
-56 | 2010/Young Gods 2010-08-14 Zofingen/06 Young Gods-Heitere 2010.flac | 0:31
-57 | 2010/Young Gods 2010-08-14 Zofingen/08 Young Gods-Heitere 2010.flac | 0:25
-58 | 2010/Young Gods 2010-08-14 Zofingen/10 Young Gods-Heitere 2010.flac | 0:49
-59 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t02.flac | 0:27
-60 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t04.flac | 0:32
-61 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t05.flac | 0:30
-62 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t07.flac | 0:24
-63 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t09.flac | 0:32
-64 | 2010/Young Gods 2010-11-16 Lausanne/03-blooming.flac | 0:30
-65 | 2010/Young Gods 2010-11-16 Lausanne/05-supersonic.flac | 0:27
-66 | 2010/Young Gods 2010-11-16 Lausanne/07-mister sunshine.flac | 0:40
-67 | 2010/Young Gods 2010-11-16 Lausanne/08-tenter le grillage.flac | 0:40
-68 | 2010/Young Gods 2010-11-16 Lausanne/10-once again - encore.flac | 1:01
-69 | 2010/Young Gods 2010-11-16 Lausanne/12-kissing the sun.flac | 0:30
-70 | 2010/Young Gods 2010-08-14 Zofingen/02 Young Gods-Heitere 2010.flac | 0:39
-71 | 2010/Young Gods 2010-08-14 Zofingen/04 Young Gods-Heitere 2010.flac | 0:26
-72 | 2010/Young Gods 2010-08-14 Zofingen/07 Young Gods-Heitere 2010.flac | 0:24
-73 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t01.flac | 0:35
-74 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t06.flac | 1:14
-75 | 2010/Young Gods 2010-11-16 Lausanne/02-sirius business.flac | 0:03
-76 | 2010/Young Gods 2010-11-16 Lausanne/04-no land's man.flac | 0:33
+01 | 2012/AUDIO/13 CSCLDF 1994 hw Master.wav | 1:00
+02 | 2012/AUDIO/Th Young Gods - 09 - THE YOUNG GODS - SI TU GARDES__44k-16b.wav | 1:09
+03 | 2012/AUDIO/The Young Gods - 01 - THE YOUNG GODS - NOUS DE LA LUNE__44k-16b.wav | 0:52
+04 | 2012/AUDIO/The Young Gods - 02 - THE YOUNG GODS - JUSQU AU BOUT__44k-16b.wav | 0:28
+05 | 2012/AUDIO/The Young Gods - 03 - THE YOUNG GODS - A CIEL OUVERT__44k-16b.wav | 0:19
+06 | 2012/AUDIO/The Young Gods - 04 - THE YOUNG GODS - JIMMY__44k-16b.wav | 0:30
+07 | 2012/AUDIO/The Young Gods - 05 - THE YOUNG GODS - FAIS LA MOUETTE__44k-16b.wav | 0:55
+08 | 2012/AUDIO/The Young Gods - 06 - THE YOUNG GODS - PERCUSSIONNE__44k-16b.wav | 1:03
+09 | 2012/AUDIO/The Young Gods - 07 - THE YOUNG GODS - FEU__44k-16b.wav | 0:34
+10 | 2012/AUDIO/The Young Gods - 08 - THE YOUNG GODS - DID YOU MISS ME__44k-16b.wav | 0:38
+11 | 2012/AUDIO/The Young Gods - 09 - THE YOUNG GODS - SI TU GARDES__44k-16b.wav | 1:09
+12 | 2012/AUDIO/The Young Gods - 10 - THE YOUNG GODS - THE IRRTUM BOYS__44k-16b.wav | 0:30
+13 | 2012/AUDIO/The Young Gods - 11 - THE YOUNG GODS - ENVOYE__44k-16b.wav | 0:25
+14 | 2012/AUDIO/The Young Gods - 12 - THE YOUNG GODS - SOUL IDIOT__44k-16b.wav | 0:50
+15 | 2012/AUDIO/The Young Gods - 13 - THE YOUNG GODS - CSCLDF__44k-16b.wav | 1:00
+16 | 2012/AUDIO/YOUNG_GODS_K01 CH_Rockfest 87.WAV | 5:07
+17 | 2012/AUDIO/YOUNG_GODS_K02 CH-Rockfest 87.WAV | 5:42
+18 | 2012/AUDIO/13 CSCLDF 1994 hw Master.wav | 4:05
+19 | 2012/AUDIO/Th Young Gods - 09 - THE YOUNG GODS - SI TU GARDES__44k-16b.wav | 4:44
+20 | 2012/AUDIO/The Young Gods - 01 - THE YOUNG GODS - NOUS DE LA LUNE__44k-16b.wav | 3:36
+21 | 2012/AUDIO/The Young Gods - 02 - THE YOUNG GODS - JUSQU AU BOUT__44k-16b.wav | 1:57
+22 | 2012/AUDIO/The Young Gods - 03 - THE YOUNG GODS - A CIEL OUVERT__44k-16b.wav | 1:18
+23 | 2012/AUDIO/The Young Gods - 04 - THE YOUNG GODS - JIMMY__44k-16b.wav | 2:03
+24 | 2012/AUDIO/The Young Gods - 05 - THE YOUNG GODS - FAIS LA MOUETTE__44k-16b.wav | 3:47
+25 | 2012/AUDIO/The Young Gods - 06 - THE YOUNG GODS - PERCUSSIONNE__44k-16b.wav | 4:20
+26 | 2012/AUDIO/The Young Gods - 07 - THE YOUNG GODS - FEU__44k-16b.wav | 2:22
+27 | 2012/AUDIO/The Young Gods - 08 - THE YOUNG GODS - DID YOU MISS ME__44k-16b.wav | 2:37
+28 | 2012/AUDIO/The Young Gods - 09 - THE YOUNG GODS - SI TU GARDES__44k-16b.wav | 4:44
+29 | 2012/AUDIO/The Young Gods - 10 - THE YOUNG GODS - THE IRRTUM BOYS__44k-16b.wav | 2:03
+30 | 2012/AUDIO/The Young Gods - 11 - THE YOUNG GODS - ENVOYE__44k-16b.wav | 1:42
+31 | 2012/AUDIO/The Young Gods - 12 - THE YOUNG GODS - SOUL IDIOT__44k-16b.wav | 3:28
+32 | 2012/AUDIO/The Young Gods - 13 - THE YOUNG GODS - CSCLDF__44k-16b.wav | 4:05
+33 | 2012/AUDIO/YOUNG_GODS_K01 CH_Rockfest 87.WAV | 20:57
+34 | 2012/AUDIO/YOUNG_GODS_K02 CH-Rockfest 87.WAV | 23:19
+35 | 2012/AUDIO/13 CSCLDF 1994 hw Master.wav | 2:10
+36 | 2012/AUDIO/Th Young Gods - 09 - THE YOUNG GODS - SI TU GARDES__44k-16b.wav | 2:31
+37 | 2012/AUDIO/The Young Gods - 01 - THE YOUNG GODS - NOUS DE LA LUNE__44k-16b.wav | 1:55
+38 | 2012/AUDIO/The Young Gods - 02 - THE YOUNG GODS - JUSQU AU BOUT__44k-16b.wav | 1:02
+39 | 2012/AUDIO/The Young Gods - 03 - THE YOUNG GODS - A CIEL OUVERT__44k-16b.wav | 0:42
+40 | 2012/AUDIO/The Young Gods - 04 - THE YOUNG GODS - JIMMY__44k-16b.wav | 1:05
+41 | 2012/AUDIO/The Young Gods - 05 - THE YOUNG GODS - FAIS LA MOUETTE__44k-16b.wav | 2:01
+42 | 2012/AUDIO/The Young Gods - 06 - THE YOUNG GODS - PERCUSSIONNE__44k-16b.wav | 2:18
+43 | 2012/AUDIO/The Young Gods - 07 - THE YOUNG GODS - FEU__44k-16b.wav | 1:16
+44 | 2012/AUDIO/The Young Gods - 08 - THE YOUNG GODS - DID YOU MISS ME__44k-16b.wav | 1:23
+45 | 2012/AUDIO/The Young Gods - 09 - THE YOUNG GODS - SI TU GARDES__44k-16b.wav | 2:31
+46 | 2012/AUDIO/The Young Gods - 10 - THE YOUNG GODS - THE IRRTUM BOYS__44k-16b.wav | 1:05
+47 | 2012/AUDIO/The Young Gods - 11 - THE YOUNG GODS - ENVOYE__44k-16b.wav | 0:54
+48 | 2012/AUDIO/The Young Gods - 12 - THE YOUNG GODS - SOUL IDIOT__44k-16b.wav | 1:50
+49 | 2012/AUDIO/The Young Gods - 13 - THE YOUNG GODS - CSCLDF__44k-16b.wav | 2:10
+50 | 2012/AUDIO/YOUNG_GODS_K01 CH_Rockfest 87.WAV | 11:10
+51 | 2012/AUDIO/YOUNG_GODS_K02 CH-Rockfest 87.WAV | 12:25
+52 | 2012/AUDIO/13 CSCLDF 1994 hw Master.wav | 0:16
+53 | 2012/AUDIO/Th Young Gods - 09 - THE YOUNG GODS - SI TU GARDES__44k-16b.wav | 0:18
+54 | 2012/AUDIO/The Young Gods - 01 - THE YOUNG GODS - NOUS DE LA LUNE__44k-16b.wav | 0:14
+55 | 2012/AUDIO/The Young Gods - 02 - THE YOUNG GODS - JUSQU AU BOUT__44k-16b.wav | 0:07
+56 | 2012/AUDIO/The Young Gods - 03 - THE YOUNG GODS - A CIEL OUVERT__44k-16b.wav | 0:05
+57 | 2012/AUDIO/The Young Gods - 04 - THE YOUNG GODS - JIMMY__44k-16b.wav | 0:08
+58 | 2012/AUDIO/The Young Gods - 05 - THE YOUNG GODS - FAIS LA MOUETTE__44k-16b.wav | 0:14
+59 | 2012/AUDIO/The Young Gods - 06 - THE YOUNG GODS - PERCUSSIONNE__44k-16b.wav | 0:17
+60 | 2012/AUDIO/The Young Gods - 07 - THE YOUNG GODS - FEU__44k-16b.wav | 0:09
+61 | 2012/AUDIO/The Young Gods - 08 - THE YOUNG GODS - DID YOU MISS ME__44k-16b.wav | 0:10
+62 | 2012/AUDIO/The Young Gods - 09 - THE YOUNG GODS - SI TU GARDES__44k-16b.wav | 0:18
+63 | 2012/AUDIO/The Young Gods - 10 - THE YOUNG GODS - THE IRRTUM BOYS__44k-16b.wav | 0:08
+64 | 2012/AUDIO/The Young Gods - 11 - THE YOUNG GODS - ENVOYE__44k-16b.wav | 0:06
+65 | 2012/AUDIO/The Young Gods - 12 - THE YOUNG GODS - SOUL IDIOT__44k-16b.wav | 0:13
+66 | 2012/AUDIO/The Young Gods - 13 - THE YOUNG GODS - CSCLDF__44k-16b.wav | 0:16
+67 | 2012/AUDIO/YOUNG_GODS_K01 CH_Rockfest 87.WAV | 1:23
+68 | 2012/AUDIO/YOUNG_GODS_K02 CH-Rockfest 87.WAV | 1:32
+69 | 2012/AUDIO/13 CSCLDF 1994 hw Master.wav | 3:21
+70 | 2012/AUDIO/Th Young Gods - 09 - THE YOUNG GODS - SI TU GARDES__44k-16b.wav | 3:53
+71 | 2012/AUDIO/The Young Gods - 01 - THE YOUNG GODS - NOUS DE LA LUNE__44k-16b.wav | 2:57
+72 | 2012/AUDIO/The Young Gods - 02 - THE YOUNG GODS - JUSQU AU BOUT__44k-16b.wav | 1:36
+73 | 2012/AUDIO/The Young Gods - 03 - THE YOUNG GODS - A CIEL OUVERT__44k-16b.wav | 1:04
+74 | 2012/AUDIO/The Young Gods - 04 - THE YOUNG GODS - JIMMY__44k-16b.wav | 1:41
+75 | 2012/AUDIO/The Young Gods - 05 - THE YOUNG GODS - FAIS LA MOUETTE__44k-16b.wav | 3:06
+76 | 2012/AUDIO/The Young Gods - 06 - THE YOUNG GODS - PERCUSSIONNE__44k-16b.wav | 3:34

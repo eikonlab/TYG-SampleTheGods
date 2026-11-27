@@ -1,76 +1,76 @@
-01 | 2008/Young Gods 2008-04-26 Zurich/03.flac | 0:13
-02 | 2008/Young Gods 2008-04-26 Zurich/04.flac | 0:04
-03 | 2008/Young Gods 2008-04-26 Zurich/08.flac | 0:59
-04 | 2008/Young Gods 2008-04-26 Zurich/09.flac | 0:51
-05 | 2008/Young Gods 2008-04-26 Zurich/08.flac | 6:34
-06 | 2008/Young Gods 2008-04-26 Zurich/09.flac | 5:41
-07 | 2008/Young Gods 2008-04-26 Zurich/08.flac | 3:47
-08 | 2008/Young Gods 2008-04-26 Zurich/09.flac | 3:16
-09 | 2008/Young Gods 2008-04-26 Zurich/08.flac | 9:22
-10 | 2008/Young Gods 2008-04-26 Zurich/09.flac | 8:06
-11 | 2008/Young Gods 2008-04-26 Zurich/08.flac | 2:23
-12 | 2008/Young Gods 2008-04-26 Zurich/09.flac | 2:04
-13 | 2008/Young Gods 2008-04-26 Zurich/08.flac | 7:58
-14 | 2008/Young Gods 2008-04-26 Zurich/09.flac | 6:54
-15 | 2008/Young Gods 2008-04-26 Zurich/08.flac | 5:11
-16 | 2008/Young Gods 2008-04-26 Zurich/09.flac | 4:29
-17 | 2008/Young Gods 2008-04-26 Zurich/08.flac | 10:46
-18 | 2008/Young Gods 2008-04-26 Zurich/09.flac | 9:19
-19 | 2008/Young Gods 2008-04-26 Zurich/08.flac | 1:41
-20 | 2008/Young Gods 2008-04-26 Zurich/09.flac | 1:27
-21 | 2008/Young Gods 2008-04-26 Zurich/08.flac | 7:16
-22 | 2008/Young Gods 2008-04-26 Zurich/09.flac | 6:17
-23 | 2008/Young Gods 2008-04-26 Zurich/08.flac | 4:29
-24 | 2008/Young Gods 2008-04-26 Zurich/09.flac | 3:52
-25 | 2008/Young Gods 2008-04-26 Zurich/08.flac | 10:04
-26 | 2008/Young Gods 2008-04-26 Zurich/09.flac | 8:43
-27 | 2008/Young Gods 2008-04-26 Zurich/08.flac | 3:05
-28 | 2008/Young Gods 2008-04-26 Zurich/09.flac | 2:40
-29 | 2008/Young Gods 2008-04-26 Zurich/08.flac | 8:40
-30 | 2008/Young Gods 2008-04-26 Zurich/09.flac | 7:30
-31 | 2008/Young Gods 2008-04-26 Zurich/08.flac | 5:53
-32 | 2008/Young Gods 2008-04-26 Zurich/09.flac | 5:05
-33 | 2008/Young Gods 2008-04-26 Zurich/03.flac | 2:41
-34 | 2008/Young Gods 2008-04-26 Zurich/04.flac | 0:55
-35 | 2008/Young Gods 2008-04-26 Zurich/08.flac | 11:28
-36 | 2008/Young Gods 2008-04-26 Zurich/09.flac | 9:55
-37 | 2008/Young Gods 2008-04-26 Zurich/01.flac | 0:22
-38 | 2008/Young Gods 2008-04-26 Zurich/02.flac | 0:18
-39 | 2008/Young Gods 2008-04-26 Zurich/05.flac | 0:21
-40 | 2008/Young Gods 2008-04-26 Zurich/06.flac | 0:20
-41 | 2008/Young Gods 2008-04-26 Zurich/10.flac | 0:19
-42 | 2008/Young Gods 2008-04-26 Zurich/12.flac | 0:21
-43 | 2006/Young Gods 2006-12-23 Fribourg/02 Our House.flac | 4:59
-44 | 2006/Young Gods 2006-12-23 Fribourg/03 Everythere.flac | 4:14
-45 | 2006/Young Gods 2006-12-23 Fribourg/04 Im The Drug.flac | 2:31
-46 | 2006/Young Gods 2006-12-23 Fribourg/05 Gasoline Man.flac | 4:52
-47 | 2006/Young Gods 2006-12-23 Fribourg/06 Speak Low.flac | 4:27
-48 | 2006/Young Gods 2006-12-23 Fribourg/07 Charlotte.flac | 1:50
-49 | 2006/Young Gods 2006-12-23 Fribourg/08 Gardez Les Esprits - Ghost Rider.flac | 11:40
-50 | 2006/Young Gods 2006-12-23 Fribourg/09 Longue Route.flac | 4:20
-51 | 2006/Young Gods 2006-12-23 Fribourg/10 She Rains.flac | 5:35
-52 | 2006/Young Gods 2006-12-23 Fribourg/11 Freedom.flac | 6:32
-53 | 2006/Young Gods 2006-12-23 Fribourg/12 Everything In Its Right Place.flac | 3:49
-54 | 2006/Young Gods 2006-12-23 Fribourg/13 Skinflowers.flac | 3:51
-55 | 2006/Young Gods 2006-12-23 Fribourg/14 Stay With Us.flac | 7:03
-56 | 2006/Young Gods 2006-12-23 Fribourg/02 Our House.flac | 0:38
-57 | 2006/Young Gods 2006-12-23 Fribourg/03 Everythere.flac | 0:32
-58 | 2006/Young Gods 2006-12-23 Fribourg/05 Gasoline Man.flac | 0:37
-59 | 2006/Young Gods 2006-12-23 Fribourg/06 Speak Low.flac | 0:34
-60 | 2006/Young Gods 2006-12-23 Fribourg/08 Gardez Les Esprits - Ghost Rider.flac | 1:30
-61 | 2006/Young Gods 2006-12-23 Fribourg/09 Longue Route.flac | 0:33
-62 | 2006/Young Gods 2006-12-23 Fribourg/10 She Rains.flac | 0:43
-63 | 2006/Young Gods 2006-12-23 Fribourg/11 Freedom.flac | 0:50
-64 | 2006/Young Gods 2006-12-23 Fribourg/12 Everything In Its Right Place.flac | 0:29
-65 | 2006/Young Gods 2006-12-23 Fribourg/13 Skinflowers.flac | 0:29
-66 | 2006/Young Gods 2006-12-23 Fribourg/14 Stay With Us.flac | 0:54
-67 | 2006/Young Gods 2006-12-23 Fribourg/02 Our House.flac | 3:19
-68 | 2006/Young Gods 2006-12-23 Fribourg/03 Everythere.flac | 2:49
-69 | 2006/Young Gods 2006-12-23 Fribourg/05 Gasoline Man.flac | 3:14
-70 | 2006/Young Gods 2006-12-23 Fribourg/06 Speak Low.flac | 2:57
-71 | 2006/Young Gods 2006-12-23 Fribourg/08 Gardez Les Esprits - Ghost Rider.flac | 7:45
-72 | 2006/Young Gods 2006-12-23 Fribourg/09 Longue Route.flac | 2:52
-73 | 2006/Young Gods 2006-12-23 Fribourg/10 She Rains.flac | 3:42
-74 | 2006/Young Gods 2006-12-23 Fribourg/11 Freedom.flac | 4:20
-75 | 2006/Young Gods 2006-12-23 Fribourg/12 Everything In Its Right Place.flac | 2:32
-76 | 2006/Young Gods 2006-12-23 Fribourg/13 Skinflowers.flac | 2:33
+01 | 2022/AUDIO/Mix Part2_01.wav | 1:13
+02 | 2022/AUDIO/Mix Part3_03.wav | 1:43
+03 | 2022/AUDIO/Mix Part4_01.wav | 1:22
+04 | 2022/AUDIO/Mix Part5.wav | 1:33
+05 | 2022/AUDIO/Mix Part5Bis.wav | 1:32
+06 | 2022/AUDIO/Mix Part6_01.wav | 1:01
+07 | 2022/AUDIO/Mix Part7.wav | 1:10
+08 | 2022/AUDIO/Mix PartFin_02.wav | 1:14
+09 | 2022/AUDIO/Mix_03.wav | 0:39
+10 | 2022/AUDIO/Mix_04.wav | 0:39
+11 | 2022/AUDIO/Montage1FabFL2.wav | 11:33
+12 | 2022/AUDIO/TYG play In C  A.wav | 11:32
+13 | 2022/AUDIO/TYG play In C  B.wav | 11:32
+14 | 2022/AUDIO/Mix Part2_01.wav | 5:02
+15 | 2022/AUDIO/Mix Part3_03.wav | 7:04
+16 | 2022/AUDIO/Mix Part4_01.wav | 5:38
+17 | 2022/AUDIO/Mix Part5.wav | 6:23
+18 | 2022/AUDIO/Mix Part5Bis.wav | 6:18
+19 | 2022/AUDIO/Mix Part6_01.wav | 4:11
+20 | 2022/AUDIO/Mix Part7.wav | 4:49
+21 | 2022/AUDIO/Mix PartFin_02.wav | 5:02
+22 | 2022/AUDIO/Mix_03.wav | 2:42
+23 | 2022/AUDIO/Mix_04.wav | 2:42
+24 | 2022/AUDIO/Montage1FabFL2.wav | 47:17
+25 | 2022/AUDIO/TYG play In C  A.wav | 47:10
+26 | 2022/AUDIO/TYG play In C  B.wav | 47:10
+27 | 2022/AUDIO/Mix Part2_01.wav | 2:41
+28 | 2022/AUDIO/Mix Part3_03.wav | 3:46
+29 | 2022/AUDIO/Mix Part4_01.wav | 3:00
+30 | 2022/AUDIO/Mix Part5.wav | 3:24
+31 | 2022/AUDIO/Mix Part5Bis.wav | 3:21
+32 | 2022/AUDIO/Mix Part6_01.wav | 2:14
+33 | 2022/AUDIO/Mix Part7.wav | 2:34
+34 | 2022/AUDIO/Mix PartFin_02.wav | 2:41
+35 | 2022/AUDIO/Mix_03.wav | 1:26
+36 | 2022/AUDIO/Mix_04.wav | 1:26
+37 | 2022/AUDIO/Montage1FabFL2.wav | 25:12
+38 | 2022/AUDIO/TYG play In C  A.wav | 25:08
+39 | 2022/AUDIO/TYG play In C  B.wav | 25:08
+40 | 2022/AUDIO/Mix Part2_01.wav | 0:19
+41 | 2022/AUDIO/Mix Part3_03.wav | 0:28
+42 | 2022/AUDIO/Mix Part4_01.wav | 0:22
+43 | 2022/AUDIO/Mix Part5.wav | 0:25
+44 | 2022/AUDIO/Mix Part5Bis.wav | 0:25
+45 | 2022/AUDIO/Mix Part6_01.wav | 0:16
+46 | 2022/AUDIO/Mix Part7.wav | 0:19
+47 | 2022/AUDIO/Mix PartFin_02.wav | 0:19
+48 | 2022/AUDIO/Mix_03.wav | 0:10
+49 | 2022/AUDIO/Mix_04.wav | 0:10
+50 | 2022/AUDIO/Montage1FabFL2.wav | 3:07
+51 | 2022/AUDIO/TYG play In C  A.wav | 3:06
+52 | 2022/AUDIO/TYG play In C  B.wav | 3:06
+53 | 2022/AUDIO/Mix Part2_01.wav | 4:08
+54 | 2022/AUDIO/Mix Part3_03.wav | 5:48
+55 | 2022/AUDIO/Mix Part4_01.wav | 4:38
+56 | 2022/AUDIO/Mix Part5.wav | 5:15
+57 | 2022/AUDIO/Mix Part5Bis.wav | 5:11
+58 | 2022/AUDIO/Mix Part6_01.wav | 3:26
+59 | 2022/AUDIO/Mix Part7.wav | 3:58
+60 | 2022/AUDIO/Mix PartFin_02.wav | 4:08
+61 | 2022/AUDIO/Mix_03.wav | 2:13
+62 | 2022/AUDIO/Mix_04.wav | 2:13
+63 | 2022/AUDIO/Montage1FabFL2.wav | 38:51
+64 | 2022/AUDIO/TYG play In C  A.wav | 38:45
+65 | 2022/AUDIO/TYG play In C  B.wav | 38:45
+66 | 2022/AUDIO/Mix Part2_01.wav | 1:47
+67 | 2022/AUDIO/Mix Part3_03.wav | 2:30
+68 | 2022/AUDIO/Mix Part4_01.wav | 2:00
+69 | 2022/AUDIO/Mix Part5.wav | 2:16
+70 | 2022/AUDIO/Mix Part5Bis.wav | 2:14
+71 | 2022/AUDIO/Mix Part6_01.wav | 1:29
+72 | 2022/AUDIO/Mix Part7.wav | 1:42
+73 | 2022/AUDIO/Mix PartFin_02.wav | 1:47
+74 | 2022/AUDIO/Mix_03.wav | 0:57
+75 | 2022/AUDIO/Mix_04.wav | 0:57
+76 | 2022/AUDIO/Montage1FabFL2.wav | 16:45

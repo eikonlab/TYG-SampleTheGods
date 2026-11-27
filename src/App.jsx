@@ -13,10 +13,10 @@ import { preloadItems } from "./data/preload.js";
 import { LangContext } from "./i18n.js";
 import { useKeyboard } from "./hooks/useKeyboard.js";
 import { useMidi } from "./hooks/useMidi.js";
-import { setSamplerYear, setSynthVolume, synthNoteOff, synthNoteOn } from "./audio/synth.js";
+import { setSamplerYear, setSynthDistortion, setSynthVolume, synthNoteOff, synthNoteOn } from "./audio/synth.js";
 import { useWheelRepeat } from "./hooks/useWheelRepeat.js";
 import { archivesReducer, createInitialState, itemForKey } from "./state/archivesReducer.js";
-import { defaultSettings, effectCssVars, loadSettings, saveSettings } from "./state/fxSettings.js";
+import { DESTROY_STEP, defaultSettings, effectCssVars, effectValue, loadSettings, saveSettings, wreckLevel } from "./state/fxSettings.js";
 
 /*F
  * App.jsx — LE CHEF D'ORCHESTRE
@@ -200,7 +200,11 @@ export default function App() {
     if (action.type === "noteOn") wake();
     dispatch(action);
   });
-  const midi = useMidi(noteDispatch, isVideoKey, keepAwake);
+  // Molette de modulation MIDI : en bas → propre, en haut → écran détruit (voir fxSettings.js).
+  const [setFxAmountFromWheel] = useState(() => (value) =>
+    setFx((current) => ({ ...current, destroy: Math.round(value * 100) / 100 })),
+  );
+  const midi = useMidi(noteDispatch, isVideoKey, keepAwake, setFxAmountFromWheel);
 
   useKeyboard(noteDispatch, isVideoKey);
   useWheelRepeat(state.wheelValue, dispatch);
@@ -346,6 +350,23 @@ export default function App() {
     return () => window.removeEventListener("keydown", handleFirstKey);
   }, []);
 
+  // 1 / 2 : moins / plus de destruction (comme la molette de modulation MIDI).
+  // On garde la touche enfoncée pour changer en continu.
+  useEffect(() => {
+    function handleAmount(event) {
+      if (event.key !== "1" && event.key !== "2") return;
+      if (event.ctrlKey || event.metaKey || event.altKey) return;
+      const step = event.key === "2" ? DESTROY_STEP : -DESTROY_STEP;
+      setFx((current) => {
+        const destroy = Math.round(Math.min(1, Math.max(0, current.destroy + step)) * 100) / 100;
+        return { ...current, destroy };
+      });
+    }
+
+    window.addEventListener("keydown", handleAmount);
+    return () => window.removeEventListener("keydown", handleAmount);
+  }, []);
+
   // § : active / désactive l'effet écran cathodique (vieux moniteur).
   useEffect(() => {
     function handleCrt(event) {
@@ -366,18 +387,11 @@ export default function App() {
   clearGlitch.current = () => {
     if (!crt) return;
     playYearChangeGlitch();
-    if (fxRef.current.glitch > 0) {
+    if (effectValue(fxRef.current, "glitch") > 0) {
       setGlitch({ top: `${Math.round(20 + Math.random() * 50)}%` });
       setTimeout(() => setGlitch(null), 550);
     }
-    if (!window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
-      const s = shake.current;
-      s.energy = Math.min(ENERGY_MAX, s.energy + 4);
-      if (!s.frame) {
-        s.lastTime = performance.now();
-        s.frame = requestAnimationFrame(runShake);
-      }
-    }
+    bumpShake(4);
   };
 
   const shownYear = useRef(state.selectedYear); // année déjà affichée (pas de bug à l'ouverture de la page)
@@ -386,7 +400,8 @@ export default function App() {
     shownYear.current = state.selectedYear;
     if (!crt) return;
     playYearChangeGlitch();
-    if (fxRef.current.glitch <= 0) return; // bug visuel coupé dans le panneau
+    bumpShake(2); // changement d'année = interaction : secoue l'écran
+    if (effectValue(fxRef.current, "glitch") <= 0) return; // bug visuel coupé dans le panneau
     const GLITCH_LENGTH = [180, 650];
     const [min, max] = GLITCH_LENGTH;
     setGlitch({ top: `${Math.round(Math.random() * 80)}%` });
@@ -423,27 +438,97 @@ export default function App() {
   const BASE_FORCE = 0.35; // force pour UNE seule touche (1 = ancienne force) : plus petit = plus doux au départ
   const RUSH_CURVE = 1.5; // accélération de la violence avec le nombre de touches (1 = régulière, 2 = explose vite)
   const DISTORT_ROLL = 220;
+  // Destruction (molette de modulation / 1-2), au-dessus du réglage normal.
+  // Les gros mouvements ne partent QUE sur une interaction (note, clic, changement d'année)
+  // et retombent ensuite : au repos, l'écran reste immobile.
+  //   WRECK_KICK   = décrochages brusques en plus, et plus forts
+  //   WRECK_RGB_PX = séparation rouge / bleu des images (px) au maximum
+  //                  (30 % fixe au repos, le reste seulement pendant le mouvement)
+  const WRECK_KICK = 0.15;
+  const WRECK_RGB_PX = 3;
+  //   WRECK_TEAR_PX = déchirure des couleurs : le rouge et le bleu glissent en bandes horizontales (px)
+  //   WRECK_HUE_DEG = la teinte des images oscille de ± ce nombre de degrés
+  //   WRECK_GHOST_PX = image fantôme (écho décalé à droite, comme un câble ou une antenne abîmés)
+  //   WRECK_VHOLD    = probabilité qu'un décrochage fasse décrocher la synchro verticale :
+  //                    l'image défile vers le bas (on voit la bande noire entre deux images),
+  //                    puis se raccroche d'un coup, avec un petit rebond — comme une vraie télé
+  //   WRECK_ROLL_SPEED = vitesse de ce défilement (hauteurs d'écran par seconde)
+  //   WRECK_SKEW_DEG = l'image se penche (synchro horizontale déréglée)
+  //   WRECK_PUMP     = la luminosité "pompe" (alimentation fatiguée) et l'image "respire" avec :
+  //                    plus claire = un peu plus grande (WRECK_BREATHE), surtout en hauteur
+  const WRECK_TEAR_PX = 12;
+  const WRECK_HUE_DEG = 4;
+  const WRECK_GHOST_PX = 14;
+  const WRECK_VHOLD = 0.5;
+  const WRECK_ROLL_SPEED = 0.9;
+  const WRECK_SKEW_DEG = 2.5;
+  const WRECK_PUMP = 0.3;
+  const WRECK_BREATHE = 0.025;
+  //   WRECK_HUM      = bande sombre de ronflement secteur (50 Hz) qui remonte lentement l'écran
+  //   WRECK_INTERF   = barres d'interférence verticales (parasite radio) qui dérivent sur le côté
+  const WRECK_HUM = 0.45;
+  const WRECK_INTERF = 0.35;
 
   const mainRef = useRef(null);
   const distortMap = useRef(null); // <feDisplacementMap> : force des lignes de distorsion
   const distortRoll = useRef(null); // <feOffset> : fait défiler les bandes
-  const shake = useRef({ energy: 0, shown: 0, frame: 0, lastTime: 0, roll: 0, kick: 0 });
+  const shake = useRef({ energy: 0, shown: 0, frame: 0, lastTime: 0, roll: 0, kick: 0, vhold: 0, rollLeft: 0, hum: 0, interf: 0 });
+  const humRef = useRef(null); // bande de ronflement secteur
+  const interfRef = useRef(null); // barres d'interférence verticales
+  const rgbRed = useRef(null); // <feOffset> du canal rouge (séparation RGB)
+  const rgbBlue = useRef(null); // <feOffset> du canal bleu
+  const tearRed = useRef(null); // <feDisplacementMap> : déchirure du canal rouge
+  const tearBlue = useRef(null); // <feDisplacementMap> : déchirure du canal bleu
+  const tearRoll = useRef(null); // <feOffset> : fait défiler les bandes de déchirure
+  const ghost = useRef(null); // <feOffset> : décalage de l'image fantôme
+
+  // Séparation rouge / bleu des images (px).
+  // (et image fantôme : écho décalé, proportionnel à la destruction)
+  function setRgbSplit(px) {
+    rgbRed.current?.setAttribute("dx", px.toFixed(1));
+    rgbBlue.current?.setAttribute("dx", (-px).toFixed(1));
+    ghost.current?.setAttribute("dx", (wreckLevel(fxRef.current) * WRECK_GHOST_PX + px).toFixed(1));
+  }
+
+  // Distorsion des couleurs : déchirure (px) et décalage de teinte (degrés).
+  function setColorDistort(element, tear, hue) {
+    tearRed.current?.setAttribute("scale", tear.toFixed(1));
+    tearBlue.current?.setAttribute("scale", (-tear).toFixed(1));
+    element?.style.setProperty("--wreck-hue", `${hue.toFixed(1)}deg`);
+  }
 
   function resetShake(element) {
+    setRgbSplit(wreckLevel(fxRef.current) * WRECK_RGB_PX * 0.3); // au repos : écart fixe, sans mouvement
+    setColorDistort(element, 0, 0);
     if (!element) return;
     element.style.translate = "";
     element.style.transform = "";
     element.style.filter = "";
     distortMap.current?.setAttribute("scale", "0");
+    if (humRef.current) humRef.current.style.opacity = "0";
+    if (interfRef.current) interfRef.current.style.opacity = "0";
   }
 
-  // Boucle d'animation : tourne seulement tant qu'il reste de l'énergie.
+  // Une interaction ajoute de l'énergie au tremblement (et lance la boucle si besoin).
+  function bumpShake(amount) {
+    if (!crt) return;
+    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+    const s = shake.current;
+    s.energy = Math.min(ENERGY_MAX, s.energy + amount);
+    if (!s.frame) {
+      s.lastTime = performance.now();
+      s.frame = requestAnimationFrame(runShake);
+    }
+  }
+
+  // Boucle d'animation : tourne seulement tant qu'il reste de l'énergie (après une interaction).
   function runShake(time) {
     const s = shake.current;
     const element = mainRef.current;
     const dt = time - s.lastTime;
     s.lastTime = time;
     s.energy *= Math.pow(0.5, dt / HALF_LIFE);
+    const wreck = wreckLevel(fxRef.current); // 0 = normal ou propre, 1 = détruit
 
     if (!element || (s.energy < 0.03 && s.shown < 0.03)) {
       s.energy = 0;
@@ -464,16 +549,72 @@ export default function App() {
     const t = (time / 1000) * JITTER_SPEED * 2 * Math.PI;
     const wobble = 0.6 * Math.sin(t) + 0.3 * Math.sin(t * 2.3 + 1.7) + 0.1 * Math.sin(t * 5.1 + 0.4);
     // De temps en temps, un décrochage brusque qui revient vite (perte de synchro).
-    if (Math.random() < KICK_CHANCE * Math.min(1, force)) s.kick = (Math.random() < 0.5 ? -1 : 1) * KICK_PX;
+    if (Math.random() < (KICK_CHANCE + wreck * WRECK_KICK) * Math.min(1, force)) {
+      s.kick = (Math.random() < 0.5 ? -1 : 1) * KICK_PX * (1 + wreck * 3);
+    }
     s.kick *= 0.6;
-    const { jitter, distort } = fxRef.current; // intensités réglées dans le panneau Ctrl
-    element.style.translate = `${((wobble * JITTER_PX + s.kick) * force * jitter).toFixed(2)}px 0`;
+    // Perte de synchro verticale : sur un décrochage, l'image se met à défiler vers le bas
+    // (la bande noire entre deux images apparaît en haut), puis se raccroche d'un coup.
+    if (wreck > 0 && !s.rollLeft && Math.abs(s.kick) > KICK_PX && Math.random() < WRECK_VHOLD * wreck) {
+      s.rollLeft = 120 + Math.random() * 450 * wreck; // durée du défilement (ms)
+    }
+    if (s.rollLeft > 0) {
+      s.vhold += WRECK_ROLL_SPEED * element.clientHeight * (0.5 + 0.5 * wreck) * (dt / 1000);
+      s.rollLeft -= dt;
+      if (s.rollLeft <= 0) {
+        s.rollLeft = 0;
+        s.vhold = -6 * wreck; // raccroché : petit rebond vers le haut
+      }
+    } else {
+      s.vhold *= Math.pow(0.5, dt / 40);
+      if (Math.abs(s.vhold) < 0.3) s.vhold = 0;
+    }
+    // intensités réglées dans le panneau Ctrl (× force du tremblement : molette / 1-2)
+    const jitter = effectValue(fxRef.current, "jitter");
+    const distort = effectValue(fxRef.current, "distort");
+    element.style.translate = `${((wobble * JITTER_PX + s.kick) * force * jitter).toFixed(2)}px ${s.vhold.toFixed(1)}px`;
 
     // Lignes de distorsion : des bandes horizontales glissent sur le côté et défilent vers le bas.
     s.roll = (s.roll + (DISTORT_ROLL * dt) / 1000) % (3 * element.clientHeight || 2000);
-    element.style.filter = distort > 0 ? "url(#crt-hdistort)" : "";
+    const motion = Math.min(1, force);
+    // Synchro horizontale déréglée : l'image se penche.
+    // Luminosité qui pompe, et l'image "respire" avec (plus claire = plus grande, surtout en hauteur).
+    const swell = wreck * motion * Math.sin(t * 0.21 + 0.8);
+    const pump = 1 + WRECK_PUMP * swell;
+    element.style.transform =
+      wreck > 0
+        ? `skewX(${(wreck * motion * WRECK_SKEW_DEG * wobble).toFixed(2)}deg) scale(${(1 + WRECK_BREATHE * 0.4 * swell).toFixed(4)}, ${(1 + WRECK_BREATHE * swell).toFixed(4)})`
+        : "";
+    const filters = [];
+    if (distort > 0) filters.push("url(#crt-hdistort)");
+    if (wreck > 0) filters.push(`brightness(${pump.toFixed(3)})`);
+    element.style.filter = filters.join(" ");
     distortMap.current?.setAttribute("scale", (DISTORT_PX * force * distort).toFixed(1));
     distortRoll.current?.setAttribute("dy", s.roll.toFixed(1));
+
+    // Séparation rouge / bleu des images (convergence déréglée) : petit écart fixe, qui s'ouvre pendant le mouvement.
+    setRgbSplit(wreck * WRECK_RGB_PX * (0.3 + 0.7 * motion * Math.abs(wobble)));
+
+    // Distorsion des couleurs pendant le mouvement : bandes où le rouge et le bleu se
+    // déchirent (dans des sens opposés), et teinte qui oscille, plus fort aux décrochages.
+    const tear = wreck * motion * (WRECK_TEAR_PX + Math.abs(s.kick) * 3);
+    const hue = wreck * motion * WRECK_HUE_DEG * (0.7 * wobble + 0.3 * Math.sign(s.kick) * Math.min(1, Math.abs(s.kick) / KICK_PX));
+    setColorDistort(element, tear, hue);
+    tearRoll.current?.setAttribute("dy", (-s.roll * 0.6).toFixed(1));
+
+    // Bande de ronflement secteur : large bande sombre et floue qui remonte lentement.
+    const height = element.clientHeight || 800;
+    s.hum = (s.hum + 0.12 * height * (dt / 1000)) % (height * 1.6);
+    if (humRef.current) {
+      humRef.current.style.opacity = (wreck * motion * WRECK_HUM).toFixed(3);
+      humRef.current.style.transform = `translateY(${(height - s.hum).toFixed(1)}px)`;
+    }
+    // Barres d'interférence verticales : douces, elles dérivent sur le côté et frémissent.
+    s.interf += (dt / 1000) * (25 + 60 * wreck) * (1 + 0.5 * wobble);
+    if (interfRef.current) {
+      interfRef.current.style.opacity = (wreck * motion * WRECK_INTERF * (0.8 + 0.2 * Math.random())).toFixed(3);
+      interfRef.current.style.backgroundPosition = `${s.interf.toFixed(1)}px 0`;
+    }
     s.frame = requestAnimationFrame(runShake);
   }
 
@@ -484,16 +625,40 @@ export default function App() {
   useEffect(() => {
     if (shownMedia.current === mediaSignature) return;
     shownMedia.current = mediaSignature;
-    if (!crt) return;
-    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
-
-    const s = shake.current;
-    s.energy = Math.min(ENERGY_MAX, s.energy + 1); // +1 touche
-    if (!s.frame) {
-      s.lastTime = performance.now();
-      s.frame = requestAnimationFrame(runShake);
-    }
+    bumpShake(1); // +1 touche
   }, [mediaSignature]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  // Destruction au-dessus du normal : effets fixes (couleurs, neige, écart RGB au repos).
+  const wrecked = crt && wreckLevel(fx) > 0;
+  // Petits bugs spontanés, même sans interaction : de temps en temps l'écran frémit un peu
+  // tout seul (léger tremblement, petite déchirure…). Plus la destruction est haute, plus
+  // ils sont fréquents. Les GROS mouvements restent réservés aux interactions.
+  //   IDLE_BUG_EVERY = attente entre deux petits bugs (ms) : [molette juste au-dessus du normal, molette en haut]
+  //   IDLE_BUG_FORCE = force d'un petit bug (1 = une touche jouée)
+  const IDLE_BUG_EVERY = [6000, 1200];
+  const IDLE_BUG_FORCE = [0.25, 0.6];
+  useEffect(() => {
+    if (!wrecked) return;
+    let timer = 0;
+    function next() {
+      const wreck = wreckLevel(fxRef.current);
+      const [slow, fast] = IDLE_BUG_EVERY;
+      const wait = (slow + (fast - slow) * wreck) * (0.4 + Math.random() * 1.2);
+      timer = setTimeout(() => {
+        const [low, high] = IDLE_BUG_FORCE;
+        bumpShake(low + Math.random() * (high - low) * wreckLevel(fxRef.current));
+        next();
+      }, wait);
+    }
+    next();
+    return () => clearTimeout(timer);
+  }, [wrecked]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  // Le son du sampler sature aussi (coupé avec l'effet cathodique, touche §).
+  useEffect(() => setSynthDistortion(crt ? wreckLevel(fx) : 0), [crt, fx.destroy]); // eslint-disable-line react-hooks/exhaustive-deps
+  useEffect(() => {
+    if (!shake.current.frame) setRgbSplit(wreckLevel(fx) * WRECK_RGB_PX * 0.3);
+  }, [fx.destroy]); // eslint-disable-line react-hooks/exhaustive-deps
 
   // Arrête le tremblement si l'effet cathodique est coupé ou si la page se ferme.
   useEffect(() => {
@@ -501,6 +666,8 @@ export default function App() {
     const element = mainRef.current;
     return () => {
       cancelAnimationFrame(s.frame);
+      s.rollLeft = 0;
+      s.vhold = 0;
       s.frame = 0;
       s.energy = 0;
       s.shown = 0;
@@ -512,9 +679,12 @@ export default function App() {
     <LangContext.Provider value={state.lang}>
     <main
       ref={mainRef}
-      className={`app${chromeHidden ? " is-chrome-hidden" : ""}${crt ? " is-crt" : ""}${glitch ? " is-glitch" : ""}`}
+      className={`app${chromeHidden ? " is-chrome-hidden" : ""}${crt ? " is-crt" : ""}${glitch ? " is-glitch" : ""}${wrecked ? " is-wrecked" : ""}`}
       style={effectCssVars(fx)}
-      onPointerDown={() => dispatch({ type: "start" })}
+      onPointerDown={() => {
+        dispatch({ type: "start" });
+        bumpShake(1); // clic = interaction : secoue l'écran
+      }}
     >
       {!chromeHidden && <TopBar midi={midi} />}
 
@@ -550,6 +720,11 @@ export default function App() {
         />
       )}
 
+      {/* Toujours visible (même avec Échap) : descend en bas de l'écran quand le piano est masqué.
+          Dans <main>, sous le calque cathodique : subit les mêmes effets que le reste de l'écran
+          (lignes, masque, lueur, tremblement, distorsion…). */}
+      <SamplerHud targetRef={mainRef} isMidi={midi.connected} low={chromeHidden} />
+
       {/* Filtre des lignes de distorsion horizontales (utilisé pendant le tremblement).
           baseFrequency "0 0.025" : 0 = bandes parfaitement horizontales, 0.025 = hauteur des bandes. */}
       <svg width="0" height="0" style={{ position: "absolute" }} aria-hidden="true">
@@ -560,6 +735,29 @@ export default function App() {
           {/* Canal vert fixé au milieu : aucun décalage vertical, seulement horizontal */}
           <feColorMatrix in="bands" type="matrix" values="1 0 0 0 0  0 0 0 0 0.5  0 0 0 0 0  0 0 0 0 1" result="map" />
           <feDisplacementMap ref={distortMap} in="SourceGraphic" in2="map" scale="0" xChannelSelector="R" yChannelSelector="G" />
+</filter>
+        {/* Séparation rouge / vert / bleu des images (destruction) : le rouge part à droite,
+            le bleu à gauche, le vert reste en place ; dx réglé à chaque image par runShake. */}
+        <filter id="crt-rgbsplit" x="-5%" y="0" width="110%" height="100%" colorInterpolationFilters="sRGB">
+          {/* Bandes horizontales qui servent à déchirer le rouge et le bleu (scale réglé par runShake) */}
+          <feTurbulence type="fractalNoise" baseFrequency="0 0.045" numOctaves="1" seed="7" result="tearNoise" />
+          <feOffset ref={tearRoll} in="tearNoise" dy="0" result="tearBands" />
+          <feColorMatrix in="tearBands" type="matrix" values="1 0 0 0 0  0 0 0 0 0.5  0 0 0 0 0  0 0 0 0 1" result="tearMap" />
+          <feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 1 0" result="red" />
+          <feOffset ref={rgbRed} in="red" dx="0" result="redShifted" />
+          <feDisplacementMap ref={tearRed} in="redShifted" in2="tearMap" scale="0" xChannelSelector="R" yChannelSelector="G" result="redMoved" />
+          <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0  0 1 0 0 0  0 0 0 0 0  0 0 0 1 0" result="green" />
+          <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 1 0 0  0 0 0 1 0" result="blue" />
+          <feOffset ref={rgbBlue} in="blue" dx="0" result="blueShifted" />
+          <feDisplacementMap ref={tearBlue} in="blueShifted" in2="tearMap" scale="0" xChannelSelector="R" yChannelSelector="G" result="blueMoved" />
+          <feBlend in="redMoved" in2="green" mode="screen" result="redGreen" />
+          <feBlend in="redGreen" in2="blueMoved" mode="screen" result="rgb" />
+          {/* Image fantôme : écho faible décalé à droite */}
+          <feOffset ref={ghost} in="rgb" dx="0" result="ghostMoved" />
+          <feComponentTransfer in="ghostMoved" result="ghostFaint">
+            <feFuncA type="linear" slope="0.35" />
+          </feComponentTransfer>
+          <feBlend in="rgb" in2="ghostFaint" mode="screen" />
         </filter>
       </svg>
 
@@ -571,15 +769,16 @@ export default function App() {
           {/* Fréquence plus haute que la vitesse : plusieurs bandes à l'écran en même temps */}
           <div className={fx.rollRate > fx.rollSpeed ? "crt-roll crt-roll--multi" : "crt-roll"} />
           <div className="crt-vignette" />
+          {wrecked && <div className="crt-purity" />}
+          {wrecked && <div className="crt-noise" />}
           {glitch && <div className="crt-glitch" style={{ top: glitch.top }} />}
+          {wrecked && <div ref={humRef} className="crt-hum" />}
+          {wrecked && <div ref={interfRef} className="crt-interference" />}
         </div>
       )}
     </main>
 
     {perf && <PerfHud />}
-
-    {/* Toujours visible (même avec Échap) : descend en bas de l'écran quand le piano est masqué. */}
-    <SamplerHud targetRef={mainRef} isMidi={midi.connected} low={chromeHidden} />
 
     {fxOpen && (
       <FxPanel

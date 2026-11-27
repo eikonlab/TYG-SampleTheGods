@@ -1,76 +1,76 @@
-01 | 2006/Young Gods 2006-12-23 Fribourg/02 Our House.flac | 2:59
-02 | 2006/Young Gods 2006-12-23 Fribourg/03 Everythere.flac | 2:32
-03 | 2006/Young Gods 2006-12-23 Fribourg/04 Im The Drug.flac | 1:30
-04 | 2006/Young Gods 2006-12-23 Fribourg/05 Gasoline Man.flac | 2:54
-05 | 2006/Young Gods 2006-12-23 Fribourg/06 Speak Low.flac | 2:39
-06 | 2006/Young Gods 2006-12-23 Fribourg/07 Charlotte.flac | 1:05
-07 | 2006/Young Gods 2006-12-23 Fribourg/08 Gardez Les Esprits - Ghost Rider.flac | 6:58
-08 | 2006/Young Gods 2006-12-23 Fribourg/09 Longue Route.flac | 2:35
-09 | 2006/Young Gods 2006-12-23 Fribourg/10 She Rains.flac | 3:20
-10 | 2006/Young Gods 2006-12-23 Fribourg/11 Freedom.flac | 3:54
-11 | 2006/Young Gods 2006-12-23 Fribourg/12 Everything In Its Right Place.flac | 2:17
-12 | 2006/Young Gods 2006-12-23 Fribourg/13 Skinflowers.flac | 2:18
-13 | 2006/Young Gods 2006-12-23 Fribourg/14 Stay With Us.flac | 4:13
-14 | 2006/Young Gods 2006-12-23 Fribourg/02 Our House.flac | 1:38
-15 | 2006/Young Gods 2006-12-23 Fribourg/03 Everythere.flac | 1:24
-16 | 2006/Young Gods 2006-12-23 Fribourg/04 Im The Drug.flac | 0:49
-17 | 2006/Young Gods 2006-12-23 Fribourg/05 Gasoline Man.flac | 1:36
-18 | 2006/Young Gods 2006-12-23 Fribourg/06 Speak Low.flac | 1:28
-19 | 2006/Young Gods 2006-12-23 Fribourg/07 Charlotte.flac | 0:36
-20 | 2006/Young Gods 2006-12-23 Fribourg/08 Gardez Les Esprits - Ghost Rider.flac | 3:50
-21 | 2006/Young Gods 2006-12-23 Fribourg/09 Longue Route.flac | 1:25
-22 | 2006/Young Gods 2006-12-23 Fribourg/10 She Rains.flac | 1:50
-23 | 2006/Young Gods 2006-12-23 Fribourg/11 Freedom.flac | 2:09
-24 | 2006/Young Gods 2006-12-23 Fribourg/12 Everything In Its Right Place.flac | 1:15
-25 | 2006/Young Gods 2006-12-23 Fribourg/13 Skinflowers.flac | 1:16
-26 | 2006/Young Gods 2006-12-23 Fribourg/14 Stay With Us.flac | 2:19
-27 | 2006/Young Gods 2006-12-23 Fribourg/02 Our House.flac | 4:19
-28 | 2006/Young Gods 2006-12-23 Fribourg/03 Everythere.flac | 3:40
-29 | 2006/Young Gods 2006-12-23 Fribourg/04 Im The Drug.flac | 2:10
-30 | 2006/Young Gods 2006-12-23 Fribourg/05 Gasoline Man.flac | 4:13
-31 | 2006/Young Gods 2006-12-23 Fribourg/06 Speak Low.flac | 3:51
-32 | 2006/Young Gods 2006-12-23 Fribourg/07 Charlotte.flac | 1:35
-33 | 2006/Young Gods 2006-12-23 Fribourg/08 Gardez Les Esprits - Ghost Rider.flac | 10:06
-34 | 2006/Young Gods 2006-12-23 Fribourg/09 Longue Route.flac | 3:45
-35 | 2006/Young Gods 2006-12-23 Fribourg/10 She Rains.flac | 4:50
-36 | 2006/Young Gods 2006-12-23 Fribourg/11 Freedom.flac | 5:39
-37 | 2006/Young Gods 2006-12-23 Fribourg/12 Everything In Its Right Place.flac | 3:18
-38 | 2006/Young Gods 2006-12-23 Fribourg/13 Skinflowers.flac | 3:20
-39 | 2006/Young Gods 2006-12-23 Fribourg/14 Stay With Us.flac | 6:06
-40 | 2006/Young Gods 2006-12-23 Fribourg/02 Our House.flac | 0:58
-41 | 2006/Young Gods 2006-12-23 Fribourg/03 Everythere.flac | 0:49
-42 | 2006/Young Gods 2006-12-23 Fribourg/04 Im The Drug.flac | 0:29
-43 | 2006/Young Gods 2006-12-23 Fribourg/05 Gasoline Man.flac | 0:57
-44 | 2006/Young Gods 2006-12-23 Fribourg/06 Speak Low.flac | 0:52
-45 | 2006/Young Gods 2006-12-23 Fribourg/07 Charlotte.flac | 0:21
-46 | 2006/Young Gods 2006-12-23 Fribourg/08 Gardez Les Esprits - Ghost Rider.flac | 2:17
-47 | 2006/Young Gods 2006-12-23 Fribourg/09 Longue Route.flac | 0:50
-48 | 2006/Young Gods 2006-12-23 Fribourg/10 She Rains.flac | 1:05
-49 | 2006/Young Gods 2006-12-23 Fribourg/11 Freedom.flac | 1:16
-50 | 2006/Young Gods 2006-12-23 Fribourg/12 Everything In Its Right Place.flac | 0:44
-51 | 2006/Young Gods 2006-12-23 Fribourg/13 Skinflowers.flac | 0:45
-52 | 2006/Young Gods 2006-12-23 Fribourg/14 Stay With Us.flac | 1:22
-53 | 2006/Young Gods 2006-12-23 Fribourg/02 Our House.flac | 3:39
-54 | 2006/Young Gods 2006-12-23 Fribourg/03 Everythere.flac | 3:06
-55 | 2006/Young Gods 2006-12-23 Fribourg/04 Im The Drug.flac | 1:50
-56 | 2006/Young Gods 2006-12-23 Fribourg/05 Gasoline Man.flac | 3:34
-57 | 2006/Young Gods 2006-12-23 Fribourg/06 Speak Low.flac | 3:15
-58 | 2006/Young Gods 2006-12-23 Fribourg/07 Charlotte.flac | 1:20
-59 | 2006/Young Gods 2006-12-23 Fribourg/08 Gardez Les Esprits - Ghost Rider.flac | 8:32
-60 | 2006/Young Gods 2006-12-23 Fribourg/09 Longue Route.flac | 3:10
-61 | 2006/Young Gods 2006-12-23 Fribourg/10 She Rains.flac | 4:05
-62 | 2006/Young Gods 2006-12-23 Fribourg/11 Freedom.flac | 4:47
-63 | 2006/Young Gods 2006-12-23 Fribourg/12 Everything In Its Right Place.flac | 2:47
-64 | 2006/Young Gods 2006-12-23 Fribourg/13 Skinflowers.flac | 2:49
-65 | 2006/Young Gods 2006-12-23 Fribourg/14 Stay With Us.flac | 5:09
-66 | 2006/Young Gods 2006-12-23 Fribourg/02 Our House.flac | 2:19
-67 | 2006/Young Gods 2006-12-23 Fribourg/03 Everythere.flac | 1:58
-68 | 2006/Young Gods 2006-12-23 Fribourg/04 Im The Drug.flac | 1:10
-69 | 2006/Young Gods 2006-12-23 Fribourg/05 Gasoline Man.flac | 2:15
-70 | 2006/Young Gods 2006-12-23 Fribourg/06 Speak Low.flac | 2:03
-71 | 2006/Young Gods 2006-12-23 Fribourg/07 Charlotte.flac | 0:51
-72 | 2006/Young Gods 2006-12-23 Fribourg/08 Gardez Les Esprits - Ghost Rider.flac | 5:24
-73 | 2006/Young Gods 2006-12-23 Fribourg/09 Longue Route.flac | 2:00
-74 | 2006/Young Gods 2006-12-23 Fribourg/10 She Rains.flac | 2:35
-75 | 2006/Young Gods 2006-12-23 Fribourg/11 Freedom.flac | 3:01
-76 | 2006/Young Gods 2006-12-23 Fribourg/12 Everything In Its Right Place.flac | 1:46
+01 | 2006/AUDIO/01 Introduction.flac | 0:34
+02 | 2006/AUDIO/02 Our House.flac | 1:13
+03 | 2006/AUDIO/03 Everythere.flac | 1:02
+04 | 2006/AUDIO/04 Im The Drug.flac | 0:37
+05 | 2006/AUDIO/05 Gasoline Man.flac | 1:12
+06 | 2006/AUDIO/06 Speak Low.flac | 1:05
+07 | 2006/AUDIO/07 Charlotte.flac | 0:27
+08 | 2006/AUDIO/08 Gardez Les Esprits - Ghost Rider.flac | 2:52
+09 | 2006/AUDIO/09 Longue Route.flac | 1:04
+10 | 2006/AUDIO/10 She Rains.flac | 1:22
+11 | 2006/AUDIO/11 Freedom.flac | 1:36
+12 | 2006/AUDIO/12 Everything In Its Right Place.flac | 0:56
+13 | 2006/AUDIO/13 Skinflowers.flac | 0:56
+14 | 2006/AUDIO/14 Stay With Us.flac | 1:44
+15 | 2006/AUDIO/01 Introduction.flac | 2:19
+16 | 2006/AUDIO/02 Our House.flac | 5:02
+17 | 2006/AUDIO/03 Everythere.flac | 4:17
+18 | 2006/AUDIO/04 Im The Drug.flac | 2:32
+19 | 2006/AUDIO/05 Gasoline Man.flac | 4:54
+20 | 2006/AUDIO/06 Speak Low.flac | 4:29
+21 | 2006/AUDIO/07 Charlotte.flac | 1:51
+22 | 2006/AUDIO/08 Gardez Les Esprits - Ghost Rider.flac | 11:46
+23 | 2006/AUDIO/09 Longue Route.flac | 4:22
+24 | 2006/AUDIO/10 She Rains.flac | 5:37
+25 | 2006/AUDIO/11 Freedom.flac | 6:35
+26 | 2006/AUDIO/12 Everything In Its Right Place.flac | 3:51
+27 | 2006/AUDIO/13 Skinflowers.flac | 3:53
+28 | 2006/AUDIO/14 Stay With Us.flac | 7:06
+29 | 2006/AUDIO/01 Introduction.flac | 1:14
+30 | 2006/AUDIO/02 Our House.flac | 2:41
+31 | 2006/AUDIO/03 Everythere.flac | 2:17
+32 | 2006/AUDIO/04 Im The Drug.flac | 1:21
+33 | 2006/AUDIO/05 Gasoline Man.flac | 2:37
+34 | 2006/AUDIO/06 Speak Low.flac | 2:23
+35 | 2006/AUDIO/07 Charlotte.flac | 0:59
+36 | 2006/AUDIO/08 Gardez Les Esprits - Ghost Rider.flac | 6:16
+37 | 2006/AUDIO/09 Longue Route.flac | 2:19
+38 | 2006/AUDIO/10 She Rains.flac | 3:00
+39 | 2006/AUDIO/11 Freedom.flac | 3:30
+40 | 2006/AUDIO/12 Everything In Its Right Place.flac | 2:03
+41 | 2006/AUDIO/13 Skinflowers.flac | 2:04
+42 | 2006/AUDIO/14 Stay With Us.flac | 3:47
+43 | 2006/AUDIO/01 Introduction.flac | 0:09
+44 | 2006/AUDIO/02 Our House.flac | 0:19
+45 | 2006/AUDIO/03 Everythere.flac | 0:16
+46 | 2006/AUDIO/04 Im The Drug.flac | 0:10
+47 | 2006/AUDIO/05 Gasoline Man.flac | 0:19
+48 | 2006/AUDIO/06 Speak Low.flac | 0:17
+49 | 2006/AUDIO/07 Charlotte.flac | 0:07
+50 | 2006/AUDIO/08 Gardez Les Esprits - Ghost Rider.flac | 0:46
+51 | 2006/AUDIO/09 Longue Route.flac | 0:17
+52 | 2006/AUDIO/10 She Rains.flac | 0:22
+53 | 2006/AUDIO/11 Freedom.flac | 0:26
+54 | 2006/AUDIO/12 Everything In Its Right Place.flac | 0:15
+55 | 2006/AUDIO/13 Skinflowers.flac | 0:15
+56 | 2006/AUDIO/14 Stay With Us.flac | 0:28
+57 | 2006/AUDIO/01 Introduction.flac | 1:54
+58 | 2006/AUDIO/02 Our House.flac | 4:08
+59 | 2006/AUDIO/03 Everythere.flac | 3:31
+60 | 2006/AUDIO/04 Im The Drug.flac | 2:05
+61 | 2006/AUDIO/05 Gasoline Man.flac | 4:02
+62 | 2006/AUDIO/06 Speak Low.flac | 3:41
+63 | 2006/AUDIO/07 Charlotte.flac | 1:31
+64 | 2006/AUDIO/08 Gardez Les Esprits - Ghost Rider.flac | 9:40
+65 | 2006/AUDIO/09 Longue Route.flac | 3:35
+66 | 2006/AUDIO/10 She Rains.flac | 4:37
+67 | 2006/AUDIO/11 Freedom.flac | 5:24
+68 | 2006/AUDIO/12 Everything In Its Right Place.flac | 3:09
+69 | 2006/AUDIO/13 Skinflowers.flac | 3:11
+70 | 2006/AUDIO/14 Stay With Us.flac | 5:50
+71 | 2006/AUDIO/01 Introduction.flac | 0:49
+72 | 2006/AUDIO/02 Our House.flac | 1:47
+73 | 2006/AUDIO/03 Everythere.flac | 1:31
+74 | 2006/AUDIO/04 Im The Drug.flac | 0:54
+75 | 2006/AUDIO/05 Gasoline Man.flac | 1:44
+76 | 2006/AUDIO/06 Speak Low.flac | 1:35

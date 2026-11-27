@@ -1,76 +1,76 @@
-01 | 2010/Young Gods 2010-08-14 Zofingen/01 Young Gods-Heitere 2010.flac | 2:08
-02 | 2010/Young Gods 2010-08-14 Zofingen/03 Young Gods-Heitere 2010.flac | 1:52
-03 | 2010/Young Gods 2010-08-14 Zofingen/05 Young Gods-Heitere 2010.flac | 2:25
-04 | 2010/Young Gods 2010-08-14 Zofingen/06 Young Gods-Heitere 2010.flac | 2:10
-05 | 2010/Young Gods 2010-08-14 Zofingen/08 Young Gods-Heitere 2010.flac | 1:43
-06 | 2010/Young Gods 2010-08-14 Zofingen/10 Young Gods-Heitere 2010.flac | 3:23
-07 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t02.flac | 1:54
-08 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t04.flac | 2:14
-09 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t05.flac | 2:07
-10 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t07.flac | 1:41
-11 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t09.flac | 2:15
-12 | 2010/Young Gods 2010-11-16 Lausanne/03-blooming.flac | 2:05
-13 | 2010/Young Gods 2010-11-16 Lausanne/05-supersonic.flac | 1:52
-14 | 2010/Young Gods 2010-11-16 Lausanne/07-mister sunshine.flac | 2:47
-15 | 2010/Young Gods 2010-11-16 Lausanne/08-tenter le grillage.flac | 2:48
-16 | 2010/Young Gods 2010-11-16 Lausanne/10-once again - encore.flac | 4:15
-17 | 2010/Young Gods 2010-11-16 Lausanne/12-kissing the sun.flac | 2:04
-18 | 2010/Young Gods 2010-08-14 Zofingen/02 Young Gods-Heitere 2010.flac | 2:44
-19 | 2010/Young Gods 2010-08-14 Zofingen/04 Young Gods-Heitere 2010.flac | 1:50
-20 | 2010/Young Gods 2010-08-14 Zofingen/07 Young Gods-Heitere 2010.flac | 1:41
-21 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t01.flac | 2:24
-22 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t06.flac | 5:07
-23 | 2010/Young Gods 2010-11-16 Lausanne/04-no land's man.flac | 2:16
-24 | 2010/Young Gods 2010-11-16 Lausanne/06-about time.flac | 2:36
-25 | 2010/Young Gods 2010-11-16 Lausanne/09-everythere.flac | 1:55
-26 | 2010/Young Gods 2010-11-16 Lausanne/11-skinflower.flac | 2:07
-27 | 2010/Young Gods 2010-08-14 Zofingen/01 Young Gods-Heitere 2010.flac | 4:18
-28 | 2010/Young Gods 2010-08-14 Zofingen/03 Young Gods-Heitere 2010.flac | 3:46
-29 | 2010/Young Gods 2010-08-14 Zofingen/05 Young Gods-Heitere 2010.flac | 4:53
-30 | 2010/Young Gods 2010-08-14 Zofingen/06 Young Gods-Heitere 2010.flac | 4:22
-31 | 2010/Young Gods 2010-08-14 Zofingen/08 Young Gods-Heitere 2010.flac | 3:28
-32 | 2010/Young Gods 2010-08-14 Zofingen/10 Young Gods-Heitere 2010.flac | 6:48
-33 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t02.flac | 3:49
-34 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t04.flac | 4:29
-35 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t05.flac | 4:15
-36 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t07.flac | 3:23
-37 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t09.flac | 4:31
-38 | 2010/Young Gods 2010-11-16 Lausanne/03-blooming.flac | 4:11
-39 | 2010/Young Gods 2010-11-16 Lausanne/05-supersonic.flac | 3:47
-40 | 2010/Young Gods 2010-11-16 Lausanne/07-mister sunshine.flac | 5:36
-41 | 2010/Young Gods 2010-11-16 Lausanne/08-tenter le grillage.flac | 5:38
-42 | 2010/Young Gods 2010-11-16 Lausanne/10-once again - encore.flac | 8:33
-43 | 2010/Young Gods 2010-11-16 Lausanne/12-kissing the sun.flac | 4:11
-44 | 2010/Young Gods 2010-08-14 Zofingen/02 Young Gods-Heitere 2010.flac | 5:30
-45 | 2010/Young Gods 2010-08-14 Zofingen/04 Young Gods-Heitere 2010.flac | 3:43
-46 | 2010/Young Gods 2010-08-14 Zofingen/07 Young Gods-Heitere 2010.flac | 3:24
-47 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t01.flac | 4:51
-48 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t06.flac | 10:18
-49 | 2010/Young Gods 2010-11-16 Lausanne/02-sirius business.flac | 0:27
-50 | 2010/Young Gods 2010-11-16 Lausanne/04-no land's man.flac | 4:33
-51 | 2010/Young Gods 2010-11-16 Lausanne/06-about time.flac | 5:14
-52 | 2010/Young Gods 2010-11-16 Lausanne/09-everythere.flac | 3:51
-53 | 2010/Young Gods 2010-11-16 Lausanne/11-skinflower.flac | 4:16
-54 | 2010/Young Gods 2010-08-14 Zofingen/10 Young Gods-Heitere 2010.flac | 0:36
-55 | 2010/Young Gods 2010-11-16 Lausanne/10-once again - encore.flac | 0:45
-56 | 2010/Young Gods 2010-08-14 Zofingen/09 Young Gods-Heitere 2010.flac | 0:14
-57 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t03.flac | 0:12
-58 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t06.flac | 0:55
-59 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t08.flac | 0:13
-60 | 2010/Young Gods 2010-08-14 Zofingen/10 Young Gods-Heitere 2010.flac | 4:01
-61 | 2010/Young Gods 2010-11-16 Lausanne/10-once again - encore.flac | 5:03
-62 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t06.flac | 6:05
-63 | 2010/Young Gods 2010-08-14 Zofingen/10 Young Gods-Heitere 2010.flac | 2:18
-64 | 2010/Young Gods 2010-11-16 Lausanne/10-once again - encore.flac | 2:54
-65 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t06.flac | 3:30
-66 | 2010/Young Gods 2010-08-14 Zofingen/10 Young Gods-Heitere 2010.flac | 5:44
-67 | 2010/Young Gods 2010-11-16 Lausanne/10-once again - encore.flac | 7:12
-68 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t06.flac | 8:40
-69 | 2010/Young Gods 2010-08-14 Zofingen/10 Young Gods-Heitere 2010.flac | 1:27
-70 | 2010/Young Gods 2010-11-16 Lausanne/10-once again - encore.flac | 1:50
-71 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t06.flac | 2:12
-72 | 2010/Young Gods 2010-08-14 Zofingen/10 Young Gods-Heitere 2010.flac | 4:52
-73 | 2010/Young Gods 2010-11-16 Lausanne/10-once again - encore.flac | 6:08
-74 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t06.flac | 7:23
-75 | 2010/Young Gods 2010-08-14 Zofingen/10 Young Gods-Heitere 2010.flac | 3:10
-76 | 2010/Young Gods 2010-11-16 Lausanne/10-once again - encore.flac | 3:59
+01 | 2020/AUDIO/20200919_label CH_TYG_LD.wav | 14:12
+02 | 2020/AUDIO/did you miss me (DS&TH_version) premaster.wav | 0:47
+03 | 2020/AUDIO/younggodsremix_final_1.wav | 1:06
+04 | 2020/AUDIO/20200919_label CH_TYG_LD.wav | 58:07
+05 | 2020/AUDIO/did you miss me (DS&TH_version) premaster.wav | 3:14
+06 | 2020/AUDIO/younggodsremix_final_1.wav | 4:31
+07 | 2020/AUDIO/20200919_label CH_TYG_LD.wav | 30:58
+08 | 2020/AUDIO/did you miss me (DS&TH_version) premaster.wav | 1:43
+09 | 2020/AUDIO/younggodsremix_final_1.wav | 2:24
+10 | 2020/AUDIO/20200919_label CH_TYG_LD.wav | 3:50
+11 | 2020/AUDIO/did you miss me (DS&TH_version) premaster.wav | 0:12
+12 | 2020/AUDIO/younggodsremix_final_1.wav | 0:17
+13 | 2020/AUDIO/20200919_label CH_TYG_LD.wav | 47:44
+14 | 2020/AUDIO/did you miss me (DS&TH_version) premaster.wav | 2:40
+15 | 2020/AUDIO/younggodsremix_final_1.wav | 3:42
+16 | 2020/AUDIO/20200919_label CH_TYG_LD.wav | 20:36
+17 | 2020/AUDIO/did you miss me (DS&TH_version) premaster.wav | 1:09
+18 | 2020/AUDIO/younggodsremix_final_1.wav | 1:36
+19 | 2020/AUDIO/20200919_label CH_TYG_LD.wav | 64:30
+20 | 2020/AUDIO/did you miss me (DS&TH_version) premaster.wav | 3:36
+21 | 2020/AUDIO/younggodsremix_final_1.wav | 5:01
+22 | 2020/AUDIO/20200919_label CH_TYG_LD.wav | 37:22
+23 | 2020/AUDIO/did you miss me (DS&TH_version) premaster.wav | 2:05
+24 | 2020/AUDIO/younggodsremix_final_1.wav | 2:54
+25 | 2020/AUDIO/20200919_label CH_TYG_LD.wav | 10:13
+26 | 2020/AUDIO/did you miss me (DS&TH_version) premaster.wav | 0:34
+27 | 2020/AUDIO/younggodsremix_final_1.wav | 0:47
+28 | 2020/AUDIO/20200919_label CH_TYG_LD.wav | 54:08
+29 | 2020/AUDIO/did you miss me (DS&TH_version) premaster.wav | 3:01
+30 | 2020/AUDIO/younggodsremix_final_1.wav | 4:12
+31 | 2020/AUDIO/20200919_label CH_TYG_LD.wav | 26:59
+32 | 2020/AUDIO/did you miss me (DS&TH_version) premaster.wav | 1:30
+33 | 2020/AUDIO/younggodsremix_final_1.wav | 2:06
+34 | 2020/AUDIO/20200919_label CH_TYG_LD.wav | 70:54
+35 | 2020/AUDIO/did you miss me (DS&TH_version) premaster.wav | 3:57
+36 | 2020/AUDIO/younggodsremix_final_1.wav | 5:31
+37 | 2020/AUDIO/20200919_label CH_TYG_LD.wav | 43:46
+38 | 2020/AUDIO/did you miss me (DS&TH_version) premaster.wav | 2:26
+39 | 2020/AUDIO/younggodsremix_final_1.wav | 3:24
+40 | 2020/AUDIO/20200919_label CH_TYG_LD.wav | 16:37
+41 | 2020/AUDIO/did you miss me (DS&TH_version) premaster.wav | 0:55
+42 | 2020/AUDIO/younggodsremix_final_1.wav | 1:17
+43 | 2020/AUDIO/20200919_label CH_TYG_LD.wav | 60:32
+44 | 2020/AUDIO/did you miss me (DS&TH_version) premaster.wav | 3:23
+45 | 2020/AUDIO/younggodsremix_final_1.wav | 4:42
+46 | 2020/AUDIO/20200919_label CH_TYG_LD.wav | 33:23
+47 | 2020/AUDIO/did you miss me (DS&TH_version) premaster.wav | 1:52
+48 | 2020/AUDIO/younggodsremix_final_1.wav | 2:35
+49 | 2020/AUDIO/20200919_label CH_TYG_LD.wav | 6:15
+50 | 2020/AUDIO/did you miss me (DS&TH_version) premaster.wav | 0:20
+51 | 2020/AUDIO/younggodsremix_final_1.wav | 0:29
+52 | 2020/AUDIO/20200919_label CH_TYG_LD.wav | 50:09
+53 | 2020/AUDIO/did you miss me (DS&TH_version) premaster.wav | 2:48
+54 | 2020/AUDIO/younggodsremix_final_1.wav | 3:54
+55 | 2020/AUDIO/20200919_label CH_TYG_LD.wav | 23:01
+56 | 2020/AUDIO/did you miss me (DS&TH_version) premaster.wav | 1:17
+57 | 2020/AUDIO/younggodsremix_final_1.wav | 1:47
+58 | 2020/AUDIO/20200919_label CH_TYG_LD.wav | 66:55
+59 | 2020/AUDIO/did you miss me (DS&TH_version) premaster.wav | 3:44
+60 | 2020/AUDIO/younggodsremix_final_1.wav | 5:12
+61 | 2020/AUDIO/20200919_label CH_TYG_LD.wav | 39:47
+62 | 2020/AUDIO/did you miss me (DS&TH_version) premaster.wav | 2:13
+63 | 2020/AUDIO/younggodsremix_final_1.wav | 3:05
+64 | 2020/AUDIO/20200919_label CH_TYG_LD.wav | 12:38
+65 | 2020/AUDIO/did you miss me (DS&TH_version) premaster.wav | 0:42
+66 | 2020/AUDIO/younggodsremix_final_1.wav | 0:59
+67 | 2020/AUDIO/20200919_label CH_TYG_LD.wav | 56:33
+68 | 2020/AUDIO/did you miss me (DS&TH_version) premaster.wav | 3:09
+69 | 2020/AUDIO/younggodsremix_final_1.wav | 4:24
+70 | 2020/AUDIO/20200919_label CH_TYG_LD.wav | 29:24
+71 | 2020/AUDIO/did you miss me (DS&TH_version) premaster.wav | 1:38
+72 | 2020/AUDIO/younggodsremix_final_1.wav | 2:17
+73 | 2020/AUDIO/20200919_label CH_TYG_LD.wav | 2:16
+74 | 2020/AUDIO/did you miss me (DS&TH_version) premaster.wav | 0:07
+75 | 2020/AUDIO/younggodsremix_final_1.wav | 0:10
+76 | 2020/AUDIO/20200919_label CH_TYG_LD.wav | 46:11

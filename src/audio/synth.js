@@ -147,12 +147,214 @@ const voices = new Map(); // note → voix en cours
 const display = new Map();
 let volume = 1;           // réglage du panneau Ctrl (0 → 1)
 
+// BUG DU SON (molette « destruction ») : la hauteur et le timbre ne changent pas,
+// mais le son « bugge » pendant qu'il joue, comme un vieux poste mal réglé :
+//   creux     : le son baisse d'un coup une fraction de seconde (sans claquer, jamais à zéro)
+//   hachures  : le son « tremble » en rafale (fort / faible / fort / faible)
+//   craquements : petits parasites étouffés
+//   sauts (vidéos) : la vidéo recule d'un petit bout et rejoue, comme une bande qui accroche
+// Plus la molette est haute, plus les bugs sont fréquents et longs.
+// Une saturation s'ajoute aussi (sans couper les aigus).
+// Le son des vidéos passe par le même chemin (attachVideo) :
+//   sampler → master ─┐
+//   vidéos → volume ──┴→ gate (coupures) ─┬─ dry ─────────────┬─→ sortie
+//                                         └─ shaper → wet ─────┘
+let distortion = 0;
+let gate = null;
+let dry = null;
+let wet = null;
+let glitchTimer = 0;
+const DISTORT_WET_MAX = 0.2;  // part de son saturé au maximum
+const GLITCH_RATE = 5;        // nombre de bugs par seconde (environ) molette en haut
+const CRACKLE_VOLUME = 0.15;  // force des craquements
+const VIDEO_SKIP_CHANCE = 0.2; // part des bugs qui font sauter une vidéo en arrière
+const videos = new Map();     // <video> branchée en ce moment → { source, volume }
+const routed = new WeakMap(); // toutes les <video> déjà branchées une fois (le branchement est définitif)
+
+function saturationCurve(drive) {
+  const n = 2048;
+  const curve = new Float32Array(n);
+  for (let i = 0; i < n; i++) {
+    const x = (i / (n - 1)) * 2 - 1;
+    curve[i] = Math.tanh(drive * x) / Math.tanh(drive);
+  }
+  return curve;
+}
+
+function applyDistortion() {
+  if (!ctx) return;
+  const now = ctx.currentTime;
+  wet.gain.setTargetAtTime(distortion * DISTORT_WET_MAX, now, 0.05);
+  dry.gain.setTargetAtTime(1 - distortion * DISTORT_WET_MAX * 0.7, now, 0.05);
+}
+
+// Creux de volume arrondi (pas de coupure sèche qui claque) :
+// le son descend à « depth » en FADE secondes, y reste, puis remonte.
+const FADE = 0.008;
+const DIP_DEPTH = [0.12, 0.4]; // le son ne disparaît jamais complètement (0 = silence, 1 = rien)
+function dip(at, length, depth) {
+  const g = gate.gain;
+  g.setValueAtTime(1, at);
+  g.linearRampToValueAtTime(depth, at + FADE);
+  g.setValueAtTime(depth, at + FADE + length);
+  g.linearRampToValueAtTime(1, at + 2 * FADE + length);
+}
+
+function randomDepth() {
+  const [low, high] = DIP_DEPTH;
+  return low + Math.random() * (high - low);
+}
+
+// Petit craquement étouffé (bruit court filtré : pas de clic aigu).
+function crackle(at) {
+  const length = Math.ceil(ctx.sampleRate * (0.006 + Math.random() * 0.014));
+  const buffer = ctx.createBuffer(1, length, ctx.sampleRate);
+  const data = buffer.getChannelData(0);
+  for (let i = 0; i < length; i++) {
+    const envelope = Math.sin((Math.PI * i) / length); // monte et descend en douceur
+    data[i] = (Math.random() * 2 - 1) * envelope;
+  }
+  const source = ctx.createBufferSource();
+  source.buffer = buffer;
+  const filter = ctx.createBiquadFilter();
+  filter.type = "lowpass";
+  filter.frequency.value = 2200;
+  const amp = ctx.createGain();
+  amp.gain.value = CRACKLE_VOLUME * (0.4 + 0.6 * distortion);
+  source.connect(filter);
+  filter.connect(amp);
+  amp.connect(gate);
+  source.start(at);
+  source.onended = () => amp.disconnect();
+}
+
+function playingVideos() {
+  return [...videos.keys()].filter((video) => !video.paused && !video.ended && !video.muted);
+}
+
+// Saut de bande : la vidéo recule d'un petit bout, une ou plusieurs fois (elle « accroche »).
+// Le son baisse un court instant autour de chaque saut pour qu'il ne claque pas.
+function skipVideo(video) {
+  const back = 0.04 + Math.random() * 0.12 * distortion;
+  const repeats = 1 + Math.floor(Math.random() * (1 + distortion));
+  for (let i = 0; i < repeats; i++) {
+    setTimeout(() => {
+      if (video.paused) return;
+      dip(ctx.currentTime, 0.03, 0.15);
+      setTimeout(() => {
+        video.currentTime = Math.max(0, video.currentTime - back);
+      }, FADE * 1000);
+    }, i * back * 1000);
+  }
+}
+
+// Un bug : creux, hachure douce, craquement ou saut de vidéo (choisi au hasard).
+function glitchOnce() {
+  const playing = playingVideos();
+  if (playing.length && Math.random() < VIDEO_SKIP_CHANCE) {
+    skipVideo(playing[Math.floor(Math.random() * playing.length)]);
+    return;
+  }
+  const now = ctx.currentTime + 0.005;
+  gate.gain.cancelScheduledValues(now);
+  gate.gain.setValueAtTime(1, now);
+  const kind = Math.random();
+  if (kind < 0.45) {
+    dip(now, 0.015 + Math.random() * 0.07 * distortion, randomDepth());
+  } else if (kind < 0.8) {
+    const cuts = 2 + Math.floor(Math.random() * (1 + 2 * distortion));
+    const step = 0.025 + Math.random() * 0.03;
+    const depth = randomDepth();
+    for (let i = 0; i < cuts; i++) dip(now + i * 2 * step, step - 2 * FADE, depth);
+  } else {
+    crackle(now);
+    if (Math.random() < 0.4) crackle(now + 0.02 + Math.random() * 0.05);
+  }
+}
+
+// Boucle des bugs : tourne tant que la destruction est au-dessus du normal.
+// Ne bugge que si un extrait est en train de sonner.
+function scheduleGlitches() {
+  clearTimeout(glitchTimer);
+  glitchTimer = 0;
+  if (distortion <= 0) return;
+  const wait = 120 + Math.random() * (2000 / (GLITCH_RATE * distortion));
+  glitchTimer = setTimeout(() => {
+    if (ctx && ctx.state === "running" && (voices.size > 0 || playingVideos().length > 0)) glitchOnce();
+    scheduleGlitches();
+  }, wait);
+}
+
+// Branche le son d'une vidéo sur le chemin des bugs. Renvoie une fonction de débranchement.
+// Le volume passe alors par setVideoVolume (et non plus par video.volume).
+export function attachVideo(video) {
+  if (!videos.has(video)) {
+    try {
+      const ac = getContext();
+      // Une vidéo ne peut être branchée qu'une fois : on garde le branchement pour le réutiliser.
+      let entry = routed.get(video);
+      if (!entry) {
+        const source = ac.createMediaElementSource(video);
+        const volumeNode = ac.createGain();
+        volumeNode.gain.value = video.volume;
+        video.volume = 1;
+        source.connect(volumeNode);
+        // Le son ne sort que si l'audio est réveillé : on le réveille au lancement de la vidéo.
+        video.addEventListener("play", () => ac.state === "suspended" && ac.resume());
+        entry = { source, volume: volumeNode };
+        routed.set(video, entry);
+      }
+      entry.volume.connect(gate);
+      videos.set(video, entry);
+    } catch {
+      // Web Audio indisponible : la vidéo garde son son normal (sans bugs)
+    }
+  }
+  return () => detachVideo(video);
+}
+
+function detachVideo(video) {
+  const entry = videos.get(video);
+  if (!entry) return;
+  entry.volume.disconnect();
+  videos.delete(video);
+}
+
+export function setVideoVolume(video, value) {
+  const entry = routed.get(video);
+  if (entry) entry.volume.gain.value = value;
+  else video.volume = value;
+}
+
+export function setSynthDistortion(amount) {
+  distortion = Math.max(0, Math.min(1, amount));
+  applyDistortion();
+  if (distortion <= 0 && gate && ctx) {
+    gate.gain.cancelScheduledValues(ctx.currentTime);
+    gate.gain.setValueAtTime(1, ctx.currentTime);
+  }
+  scheduleGlitches();
+}
+
 function getContext() {
   if (!ctx) {
     ctx = new (window.AudioContext || window.webkitAudioContext)();
     master = ctx.createGain();
     master.gain.value = VOLUME * volume;
-    master.connect(ctx.destination);
+    gate = ctx.createGain();
+    master.connect(gate);
+    dry = ctx.createGain();
+    gate.connect(dry);
+    dry.connect(ctx.destination);
+    const shaper = ctx.createWaveShaper();
+    shaper.curve = saturationCurve(4);
+    shaper.oversample = "2x";
+    wet = ctx.createGain();
+    wet.gain.value = 0;
+    gate.connect(shaper);
+    shaper.connect(wet);
+    wet.connect(ctx.destination);
+    applyDistortion();
     analyser = ctx.createAnalyser();
     analyser.fftSize = 1024;
     levelData = new Float32Array(analyser.fftSize);

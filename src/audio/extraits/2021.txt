@@ -1,76 +1,76 @@
-01 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t06.flac | 4:48
-02 | 2010/Young Gods 2010-08-14 Zofingen/10 Young Gods-Heitere 2010.flac | 6:35
-03 | 2010/Young Gods 2010-11-16 Lausanne/10-once again - encore.flac | 8:16
-04 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t06.flac | 9:58
-05 | 2010/Young Gods 2010-08-14 Zofingen/10 Young Gods-Heitere 2010.flac | 1:02
-06 | 2010/Young Gods 2010-11-16 Lausanne/10-once again - encore.flac | 1:17
-07 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t06.flac | 1:33
-08 | 2010/Young Gods 2010-08-14 Zofingen/10 Young Gods-Heitere 2010.flac | 4:27
-09 | 2010/Young Gods 2010-11-16 Lausanne/10-once again - encore.flac | 5:35
-10 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t06.flac | 6:44
-11 | 2010/Young Gods 2010-08-14 Zofingen/10 Young Gods-Heitere 2010.flac | 2:44
-12 | 2010/Young Gods 2010-11-16 Lausanne/10-once again - encore.flac | 3:26
-13 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t06.flac | 4:09
-14 | 2010/Young Gods 2010-08-14 Zofingen/10 Young Gods-Heitere 2010.flac | 6:09
-15 | 2010/Young Gods 2010-11-16 Lausanne/10-once again - encore.flac | 7:44
-16 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t06.flac | 9:19
-17 | 2010/Young Gods 2010-08-14 Zofingen/10 Young Gods-Heitere 2010.flac | 1:53
-18 | 2010/Young Gods 2010-11-16 Lausanne/10-once again - encore.flac | 2:22
-19 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t06.flac | 2:51
-20 | 2010/Young Gods 2010-08-14 Zofingen/10 Young Gods-Heitere 2010.flac | 5:18
-21 | 2010/Young Gods 2010-11-16 Lausanne/10-once again - encore.flac | 6:40
-22 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t06.flac | 8:02
-23 | 2010/Young Gods 2010-08-14 Zofingen/10 Young Gods-Heitere 2010.flac | 3:35
-24 | 2010/Young Gods 2010-11-16 Lausanne/10-once again - encore.flac | 4:31
-25 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t06.flac | 5:26
-26 | 2010/Young Gods 2010-08-14 Zofingen/10 Young Gods-Heitere 2010.flac | 7:00
-27 | 2010/Young Gods 2010-11-16 Lausanne/10-once again - encore.flac | 8:49
-28 | 2010/Young Gods 2010-08-14 Zofingen/09 Young Gods-Heitere 2010.flac | 2:43
-29 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t03.flac | 2:27
-30 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t06.flac | 10:37
-31 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t08.flac | 2:37
-32 | 2010/Young Gods 2010-08-14 Zofingen/01 Young Gods-Heitere 2010.flac | 0:18
-33 | 2010/Young Gods 2010-08-14 Zofingen/05 Young Gods-Heitere 2010.flac | 0:21
-34 | 2010/Young Gods 2010-08-14 Zofingen/06 Young Gods-Heitere 2010.flac | 0:19
-35 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t04.flac | 0:19
-36 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t05.flac | 0:18
-37 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t09.flac | 0:19
-38 | 2010/Young Gods 2010-11-16 Lausanne/03-blooming.flac | 0:18
-39 | 2010/Young Gods 2010-11-16 Lausanne/07-mister sunshine.flac | 0:24
-40 | 2010/Young Gods 2010-11-16 Lausanne/08-tenter le grillage.flac | 0:24
-41 | 2010/Young Gods 2010-11-16 Lausanne/12-kissing the sun.flac | 0:18
-42 | 2010/Young Gods 2010-08-14 Zofingen/02 Young Gods-Heitere 2010.flac | 0:24
-43 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t01.flac | 0:21
-44 | 2010/Young Gods 2010-11-16 Lausanne/04-no land's man.flac | 0:20
-45 | 2010/Young Gods 2010-11-16 Lausanne/06-about time.flac | 0:23
-46 | 2010/Young Gods 2010-11-16 Lausanne/11-skinflower.flac | 0:18
-47 | 2008/Young Gods 2008-04-26 Zurich/06.flac | 3:26
-48 | 2008/Young Gods 2008-04-26 Zurich/08.flac | 8:19
-49 | 2008/Young Gods 2008-04-26 Zurich/09.flac | 7:12
-50 | 2008/Young Gods 2008-04-26 Zurich/10.flac | 3:16
-51 | 2008/Young Gods 2008-04-26 Zurich/11.flac | 2:59
-52 | 2008/Young Gods 2008-04-26 Zurich/12.flac | 3:37
-53 | 2008/Young Gods 2008-04-26 Zurich/13.flac | 2:51
-54 | 2008/Young Gods 2008-04-26 Zurich/14.flac | 2:32
-55 | 2008/Young Gods 2008-04-26 Zurich/01.flac | 2:31
-56 | 2008/Young Gods 2008-04-26 Zurich/02.flac | 2:07
-57 | 2008/Young Gods 2008-04-26 Zurich/05.flac | 2:25
-58 | 2008/Young Gods 2008-04-26 Zurich/06.flac | 2:17
-59 | 2008/Young Gods 2008-04-26 Zurich/08.flac | 5:32
-60 | 2008/Young Gods 2008-04-26 Zurich/09.flac | 4:47
-61 | 2008/Young Gods 2008-04-26 Zurich/10.flac | 2:10
-62 | 2008/Young Gods 2008-04-26 Zurich/11.flac | 1:59
-63 | 2008/Young Gods 2008-04-26 Zurich/12.flac | 2:24
-64 | 2008/Young Gods 2008-04-26 Zurich/13.flac | 1:53
-65 | 2008/Young Gods 2008-04-26 Zurich/14.flac | 1:41
-66 | 2008/Young Gods 2008-04-26 Zurich/01.flac | 5:05
-67 | 2008/Young Gods 2008-04-26 Zurich/02.flac | 4:16
-68 | 2008/Young Gods 2008-04-26 Zurich/05.flac | 4:51
-69 | 2008/Young Gods 2008-04-26 Zurich/06.flac | 4:36
-70 | 2008/Young Gods 2008-04-26 Zurich/08.flac | 11:07
-71 | 2008/Young Gods 2008-04-26 Zurich/09.flac | 9:37
-72 | 2008/Young Gods 2008-04-26 Zurich/10.flac | 4:22
-73 | 2008/Young Gods 2008-04-26 Zurich/11.flac | 4:00
-74 | 2008/Young Gods 2008-04-26 Zurich/12.flac | 4:50
-75 | 2008/Young Gods 2008-04-26 Zurich/13.flac | 3:48
-76 | 2008/Young Gods 2008-04-26 Zurich/14.flac | 3:24
+01 | 2021/AUDIO/20211022 Batida The Young Gods Concert.wav | 13:58
+02 | 2021/AUDIO/20211022 Batida The Young Gods Filage.wav | 12:46
+03 | 2021/AUDIO/In C TYG_Batida première rencontre.WAV | 13:13
+04 | 2021/AUDIO/In C première rencontre.WAV | 13:13
+05 | 2021/AUDIO/20211022 Batida The Young Gods Concert.wav | 57:10
+06 | 2021/AUDIO/20211022 Batida The Young Gods Filage.wav | 52:13
+07 | 2021/AUDIO/In C TYG_Batida première rencontre.WAV | 54:04
+08 | 2021/AUDIO/In C première rencontre.WAV | 54:04
+09 | 2021/AUDIO/20211022 Batida The Young Gods Concert.wav | 30:28
+10 | 2021/AUDIO/20211022 Batida The Young Gods Filage.wav | 27:50
+11 | 2021/AUDIO/In C TYG_Batida première rencontre.WAV | 28:49
+12 | 2021/AUDIO/In C première rencontre.WAV | 28:49
+13 | 2021/AUDIO/20211022 Batida The Young Gods Concert.wav | 3:46
+14 | 2021/AUDIO/20211022 Batida The Young Gods Filage.wav | 3:26
+15 | 2021/AUDIO/In C TYG_Batida première rencontre.WAV | 3:34
+16 | 2021/AUDIO/In C première rencontre.WAV | 3:34
+17 | 2021/AUDIO/20211022 Batida The Young Gods Concert.wav | 46:58
+18 | 2021/AUDIO/20211022 Batida The Young Gods Filage.wav | 42:54
+19 | 2021/AUDIO/In C TYG_Batida première rencontre.WAV | 44:25
+20 | 2021/AUDIO/In C première rencontre.WAV | 44:25
+21 | 2021/AUDIO/20211022 Batida The Young Gods Concert.wav | 20:16
+22 | 2021/AUDIO/20211022 Batida The Young Gods Filage.wav | 18:30
+23 | 2021/AUDIO/In C TYG_Batida première rencontre.WAV | 19:10
+24 | 2021/AUDIO/In C première rencontre.WAV | 19:10
+25 | 2021/AUDIO/20211022 Batida The Young Gods Concert.wav | 63:28
+26 | 2021/AUDIO/20211022 Batida The Young Gods Filage.wav | 57:58
+27 | 2021/AUDIO/In C TYG_Batida première rencontre.WAV | 60:01
+28 | 2021/AUDIO/In C première rencontre.WAV | 60:01
+29 | 2021/AUDIO/20211022 Batida The Young Gods Concert.wav | 36:46
+30 | 2021/AUDIO/20211022 Batida The Young Gods Filage.wav | 33:34
+31 | 2021/AUDIO/In C TYG_Batida première rencontre.WAV | 34:46
+32 | 2021/AUDIO/In C première rencontre.WAV | 34:46
+33 | 2021/AUDIO/20211022 Batida The Young Gods Concert.wav | 10:03
+34 | 2021/AUDIO/20211022 Batida The Young Gods Filage.wav | 9:11
+35 | 2021/AUDIO/In C TYG_Batida première rencontre.WAV | 9:31
+36 | 2021/AUDIO/In C première rencontre.WAV | 9:31
+37 | 2021/AUDIO/20211022 Batida The Young Gods Concert.wav | 53:15
+38 | 2021/AUDIO/20211022 Batida The Young Gods Filage.wav | 48:38
+39 | 2021/AUDIO/In C TYG_Batida première rencontre.WAV | 50:22
+40 | 2021/AUDIO/In C première rencontre.WAV | 50:22
+41 | 2021/AUDIO/20211022 Batida The Young Gods Concert.wav | 26:33
+42 | 2021/AUDIO/20211022 Batida The Young Gods Filage.wav | 24:15
+43 | 2021/AUDIO/In C TYG_Batida première rencontre.WAV | 25:07
+44 | 2021/AUDIO/In C première rencontre.WAV | 25:07
+45 | 2021/AUDIO/20211022 Batida The Young Gods Concert.wav | 69:45
+46 | 2021/AUDIO/20211022 Batida The Young Gods Filage.wav | 63:42
+47 | 2021/AUDIO/In C TYG_Batida première rencontre.WAV | 65:58
+48 | 2021/AUDIO/In C première rencontre.WAV | 65:58
+49 | 2021/AUDIO/20211022 Batida The Young Gods Concert.wav | 43:03
+50 | 2021/AUDIO/20211022 Batida The Young Gods Filage.wav | 39:19
+51 | 2021/AUDIO/In C TYG_Batida première rencontre.WAV | 40:43
+52 | 2021/AUDIO/In C première rencontre.WAV | 40:43
+53 | 2021/AUDIO/20211022 Batida The Young Gods Concert.wav | 16:21
+54 | 2021/AUDIO/20211022 Batida The Young Gods Filage.wav | 14:56
+55 | 2021/AUDIO/In C TYG_Batida première rencontre.WAV | 15:28
+56 | 2021/AUDIO/In C première rencontre.WAV | 15:28
+57 | 2021/AUDIO/20211022 Batida The Young Gods Concert.wav | 59:33
+58 | 2021/AUDIO/20211022 Batida The Young Gods Filage.wav | 54:23
+59 | 2021/AUDIO/In C TYG_Batida première rencontre.WAV | 56:19
+60 | 2021/AUDIO/In C première rencontre.WAV | 56:19
+61 | 2021/AUDIO/20211022 Batida The Young Gods Concert.wav | 32:51
+62 | 2021/AUDIO/20211022 Batida The Young Gods Filage.wav | 30:00
+63 | 2021/AUDIO/In C TYG_Batida première rencontre.WAV | 31:04
+64 | 2021/AUDIO/In C première rencontre.WAV | 31:04
+65 | 2021/AUDIO/20211022 Batida The Young Gods Concert.wav | 6:09
+66 | 2021/AUDIO/20211022 Batida The Young Gods Filage.wav | 5:37
+67 | 2021/AUDIO/In C TYG_Batida première rencontre.WAV | 5:49
+68 | 2021/AUDIO/In C première rencontre.WAV | 5:49
+69 | 2021/AUDIO/20211022 Batida The Young Gods Concert.wav | 49:21
+70 | 2021/AUDIO/20211022 Batida The Young Gods Filage.wav | 45:04
+71 | 2021/AUDIO/In C TYG_Batida première rencontre.WAV | 46:40
+72 | 2021/AUDIO/In C première rencontre.WAV | 46:40
+73 | 2021/AUDIO/20211022 Batida The Young Gods Concert.wav | 22:38
+74 | 2021/AUDIO/20211022 Batida The Young Gods Filage.wav | 20:41
+75 | 2021/AUDIO/In C TYG_Batida première rencontre.WAV | 21:25
+76 | 2021/AUDIO/In C première rencontre.WAV | 21:25

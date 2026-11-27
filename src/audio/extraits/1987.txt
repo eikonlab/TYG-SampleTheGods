@@ -16,7 +16,7 @@
 16 | 1987/AUDIO/06. Percussionne.flac | 2:30
 17 | 1987/AUDIO/10. Did You Miss Me.flac | 1:47
 18 | 1987/AUDIO/Amsterdam 7-6-87.wav | 21:17
-19 | 1987/AUDIO/Bad Blue Fest Burgdorf 14-3-87.wav | 22:48
+19 | 1987/AUDIO/01 - Young Gods.flac | 1:09
 20 | 1987/AUDIO/Biel 12-3-87.wav | 26:09
 21 | 1987/AUDIO/Constanz Roxy Club 6-10-87.wav | 22:47
 22 | 1987/AUDIO/Copenhagen Barbue 21-5-87.wav | 25:31

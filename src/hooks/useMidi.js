@@ -8,11 +8,12 @@ import { synthNoteOff, synthNoteOn } from "../audio/synth.js";
  * Se connecte aux claviers MIDI et traduit leurs messages en actions :
  *   note enfoncée → noteOn     note relâchée → noteOff
  *   molette pitch bend → setWheel
+ *   molette de modulation (CC1) → onModWheel(0 à 1) : intensité générale des effets
  * Retourne { status, params, connected } : status = clé du texte affiché en haut (voir i18n.js).
  * Utilisé par : App.jsx.
  * Web MIDI est disponible dans Chrome et Edge.
  */
-export function useMidi(dispatch, isVideoKey = () => false, onActivity = () => {}) {
+export function useMidi(dispatch, isVideoKey = () => false, onActivity = () => {}, onModWheel = () => {}) {
   const [midi, setMidi] = useState({ status: "midiSearching", connected: false });
 
   useEffect(() => {
@@ -30,6 +31,7 @@ export function useMidi(dispatch, isVideoKey = () => false, onActivity = () => {
     //   0x80 = note relâchée
     //   0xE0 = pitch bend : valeur sur 14 bits (0 à 16383, 8192 = repos),
     //          convertie ici en nombre de -1 à +1.
+    //   0xB0 = contrôleur (donnée 1 = numéro, donnée 2 = valeur 0 à 127) ; n° 1 = molette de modulation
     function handleMessage(event) {
       const [status, data1, data2] = event.data;
       // Tout message MIDI joué (note, relâchement, pitch bend, potards, pédale…) compte
@@ -48,6 +50,8 @@ export function useMidi(dispatch, isVideoKey = () => false, onActivity = () => {
         dispatch({ type: "noteOff", key, time: performance.now() });
       } else if (type === 0xe0) {
         dispatch({ type: "setWheel", value: (((data2 << 7) | data1) - 8192) / 8192 });
+      } else if (type === 0xb0 && data1 === 1) {
+        onModWheel(data2 / 127);
       }
     }
 

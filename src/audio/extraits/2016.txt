@@ -1,76 +1,76 @@
-01 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr11.flac | 3:09
-02 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_06.flac | 1:08
-03 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_08.flac | 2:19
-04 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_11.flac | 1:36
-05 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_13.flac | 1:30
-06 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_15.flac | 1:31
-07 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr05.flac | 1:33
-08 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr07.flac | 2:33
-09 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr10.flac | 1:40
-10 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr12.flac | 1:46
-11 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr14.flac | 3:14
-12 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_02.flac | 1:30
-13 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_12.flac | 2:14
-14 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_14.flac | 1:57
-15 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr01.flac | 1:48
-16 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr03.flac | 1:32
-17 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr06.flac | 2:14
-18 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr11.flac | 1:53
-19 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_08.flac | 5:27
-20 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_11.flac | 3:47
-21 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_13.flac | 3:32
-22 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_15.flac | 3:34
-23 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr05.flac | 3:39
-24 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr07.flac | 6:00
-25 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr10.flac | 3:55
-26 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr12.flac | 4:09
-27 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr14.flac | 7:37
-28 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_02.flac | 3:31
-29 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_12.flac | 5:17
-30 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_14.flac | 4:36
-31 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr01.flac | 4:15
-32 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr03.flac | 3:37
-33 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr06.flac | 5:17
-34 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr11.flac | 4:25
-35 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_08.flac | 1:32
-36 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_11.flac | 1:04
-37 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_13.flac | 0:59
-38 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_15.flac | 1:00
-39 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr05.flac | 1:01
-40 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr07.flac | 1:41
-41 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr10.flac | 1:06
-42 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr12.flac | 1:10
-43 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr14.flac | 2:08
-44 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_02.flac | 0:59
-45 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_12.flac | 1:29
-46 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_14.flac | 1:17
-47 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr01.flac | 1:11
-48 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr03.flac | 1:01
-49 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr06.flac | 1:29
-50 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr11.flac | 1:14
-51 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_08.flac | 4:40
-52 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_11.flac | 3:14
-53 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_13.flac | 3:02
-54 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_15.flac | 3:03
-55 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr05.flac | 3:08
-56 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr07.flac | 5:08
-57 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr10.flac | 3:21
-58 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr12.flac | 3:33
-59 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr14.flac | 6:31
-60 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_02.flac | 3:01
-61 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_12.flac | 4:31
-62 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_14.flac | 3:56
-63 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr01.flac | 3:38
-64 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr03.flac | 3:06
-65 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr06.flac | 4:31
-66 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr11.flac | 3:47
-67 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_08.flac | 3:06
-68 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_11.flac | 2:09
-69 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_13.flac | 2:01
-70 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_15.flac | 2:01
-71 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr05.flac | 2:05
-72 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr07.flac | 3:24
-73 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr10.flac | 2:13
-74 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr12.flac | 2:22
-75 | 2014/Young Gods 2014-09-21 Le Garric/young gods 2014-09-21 RIO tr14.flac | 4:20
-76 | 2014/Young Gods 2014-09-20 Lausanne/Young Gods 2014-09-20 Lausanne FM_02.flac | 2:00
+01 | 2016/AUDIO/DV0001_TYG:NZ_SIDEA.wav | 2:40
+02 | 2016/AUDIO/DV0001_TYG:NZ_SIDEB.wav | 2:54
+03 | 2016/AUDIO/Estival_MicLR.WAV | 14:37
+04 | 2016/AUDIO/ZOOM0002_Tr1.WAV | 14:37
+05 | 2016/AUDIO/ZOOM0002_Tr2.WAV | 14:37
+06 | 2016/AUDIO/DV0001_TYG:NZ_SIDEA.wav | 10:57
+07 | 2016/AUDIO/DV0001_TYG:NZ_SIDEB.wav | 11:54
+08 | 2016/AUDIO/Estival_MicLR.WAV | 59:49
+09 | 2016/AUDIO/ZOOM0002_Tr1.WAV | 59:49
+10 | 2016/AUDIO/ZOOM0002_Tr2.WAV | 59:49
+11 | 2016/AUDIO/DV0001_TYG:NZ_SIDEA.wav | 5:50
+12 | 2016/AUDIO/DV0001_TYG:NZ_SIDEB.wav | 6:21
+13 | 2016/AUDIO/Estival_MicLR.WAV | 31:53
+14 | 2016/AUDIO/ZOOM0002_Tr1.WAV | 31:53
+15 | 2016/AUDIO/ZOOM0002_Tr2.WAV | 31:53
+16 | 2016/AUDIO/DV0001_TYG:NZ_SIDEA.wav | 0:43
+17 | 2016/AUDIO/DV0001_TYG:NZ_SIDEB.wav | 0:47
+18 | 2016/AUDIO/Estival_MicLR.WAV | 3:56
+19 | 2016/AUDIO/ZOOM0002_Tr1.WAV | 3:56
+20 | 2016/AUDIO/ZOOM0002_Tr2.WAV | 3:56
+21 | 2016/AUDIO/DV0001_TYG:NZ_SIDEA.wav | 9:00
+22 | 2016/AUDIO/DV0001_TYG:NZ_SIDEB.wav | 9:47
+23 | 2016/AUDIO/Estival_MicLR.WAV | 49:09
+24 | 2016/AUDIO/ZOOM0002_Tr1.WAV | 49:09
+25 | 2016/AUDIO/ZOOM0002_Tr2.WAV | 49:09
+26 | 2016/AUDIO/DV0001_TYG:NZ_SIDEA.wav | 3:53
+27 | 2016/AUDIO/DV0001_TYG:NZ_SIDEB.wav | 4:13
+28 | 2016/AUDIO/Estival_MicLR.WAV | 21:12
+29 | 2016/AUDIO/ZOOM0002_Tr1.WAV | 21:12
+30 | 2016/AUDIO/ZOOM0002_Tr2.WAV | 21:12
+31 | 2016/AUDIO/DV0001_TYG:NZ_SIDEA.wav | 12:10
+32 | 2016/AUDIO/DV0001_TYG:NZ_SIDEB.wav | 13:13
+33 | 2016/AUDIO/Estival_MicLR.WAV | 66:24
+34 | 2016/AUDIO/ZOOM0002_Tr1.WAV | 66:24
+35 | 2016/AUDIO/ZOOM0002_Tr2.WAV | 66:24
+36 | 2016/AUDIO/DV0001_TYG:NZ_SIDEA.wav | 7:02
+37 | 2016/AUDIO/DV0001_TYG:NZ_SIDEB.wav | 7:39
+38 | 2016/AUDIO/Estival_MicLR.WAV | 38:28
+39 | 2016/AUDIO/ZOOM0002_Tr1.WAV | 38:28
+40 | 2016/AUDIO/ZOOM0002_Tr2.WAV | 38:28
+41 | 2016/AUDIO/DV0001_TYG:NZ_SIDEA.wav | 1:55
+42 | 2016/AUDIO/DV0001_TYG:NZ_SIDEB.wav | 2:05
+43 | 2016/AUDIO/Estival_MicLR.WAV | 10:31
+44 | 2016/AUDIO/ZOOM0002_Tr1.WAV | 10:31
+45 | 2016/AUDIO/ZOOM0002_Tr2.WAV | 10:31
+46 | 2016/AUDIO/DV0001_TYG:NZ_SIDEA.wav | 10:12
+47 | 2016/AUDIO/DV0001_TYG:NZ_SIDEB.wav | 11:05
+48 | 2016/AUDIO/Estival_MicLR.WAV | 55:44
+49 | 2016/AUDIO/ZOOM0002_Tr1.WAV | 55:44
+50 | 2016/AUDIO/ZOOM0002_Tr2.WAV | 55:44
+51 | 2016/AUDIO/DV0001_TYG:NZ_SIDEA.wav | 5:05
+52 | 2016/AUDIO/DV0001_TYG:NZ_SIDEB.wav | 5:32
+53 | 2016/AUDIO/Estival_MicLR.WAV | 27:47
+54 | 2016/AUDIO/ZOOM0002_Tr1.WAV | 27:47
+55 | 2016/AUDIO/ZOOM0002_Tr2.WAV | 27:47
+56 | 2016/AUDIO/DV0001_TYG:NZ_SIDEA.wav | 13:22
+57 | 2016/AUDIO/DV0001_TYG:NZ_SIDEB.wav | 14:32
+58 | 2016/AUDIO/Estival_MicLR.WAV | 72:59
+59 | 2016/AUDIO/ZOOM0002_Tr1.WAV | 72:59
+60 | 2016/AUDIO/ZOOM0002_Tr2.WAV | 72:59
+61 | 2016/AUDIO/DV0001_TYG:NZ_SIDEA.wav | 8:15
+62 | 2016/AUDIO/DV0001_TYG:NZ_SIDEB.wav | 8:58
+63 | 2016/AUDIO/Estival_MicLR.WAV | 45:03
+64 | 2016/AUDIO/ZOOM0002_Tr1.WAV | 45:03
+65 | 2016/AUDIO/ZOOM0002_Tr2.WAV | 45:03
+66 | 2016/AUDIO/DV0001_TYG:NZ_SIDEA.wav | 3:08
+67 | 2016/AUDIO/DV0001_TYG:NZ_SIDEB.wav | 3:24
+68 | 2016/AUDIO/Estival_MicLR.WAV | 17:06
+69 | 2016/AUDIO/ZOOM0002_Tr1.WAV | 17:06
+70 | 2016/AUDIO/ZOOM0002_Tr2.WAV | 17:06
+71 | 2016/AUDIO/DV0001_TYG:NZ_SIDEA.wav | 11:25
+72 | 2016/AUDIO/DV0001_TYG:NZ_SIDEB.wav | 12:24
+73 | 2016/AUDIO/Estival_MicLR.WAV | 62:19
+74 | 2016/AUDIO/ZOOM0002_Tr1.WAV | 62:19
+75 | 2016/AUDIO/ZOOM0002_Tr2.WAV | 62:19
+76 | 2016/AUDIO/DV0001_TYG:NZ_SIDEA.wav | 6:17

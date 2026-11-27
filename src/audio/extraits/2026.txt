@@ -1,76 +1,76 @@
-01 | 2005/Young Gods 2005-09-04 Willisau/11. Soul sacrifice.flac | 1:23
-02 | 2005/Young Gods 2005-09-04 Willisau/12. Unknown C.flac | 0:33
-03 | 2005/Young Gods 2005-09-04 Willisau/14. Joe Hill.flac | 0:30
-04 | 2005/Young Gods 2005-09-04 Willisau/16. The End.flac | 0:31
-05 | 2005/Young Gods 2005-09-04 Willisau/17. I want to take you higher.flac | 1:12
-06 | 2005/Young Gods 2005-11-19 Prague/CD01/01. The Young Gods - Intro + Secret.flac | 0:51
-07 | 2005/Young Gods 2005-11-19 Prague/CD01/02. The Young Gods - Lucidogen.flac | 0:40
-08 | 2005/Young Gods 2005-11-19 Prague/CD01/03. The Young Gods - Supersonic.flac | 0:40
-09 | 2005/Young Gods 2005-11-19 Prague/CD01/05. The Young Gods - C'est Quoi C'est Ca.flac | 0:42
-10 | 2005/Young Gods 2005-11-19 Prague/CD01/06. The Young Gods - El Magnifico.flac | 0:32
-11 | 2005/Young Gods 2005-11-19 Prague/CD01/07. The Young Gods - Super Ready-FragmentÇ.flac | 1:34
-12 | 2005/Young Gods 2005-11-19 Prague/CD01/09. The Young Gods - Skinflowers.flac | 0:49
-13 | 2005/Young Gods 2005-11-19 Prague/CD01/10. The Young Gods - Kissing The Sun.flac | 0:38
-14 | 2005/Young Gods 2005-11-19 Prague/CD01/11. The Young Gods - Everythere.flac | 0:43
-15 | 2005/Young Gods 2005-11-19 Prague/CD01/13. The Young Gods - EnvoyÇ!.flac | 0:50
-16 | 2005/Young Gods 2005-11-19 Prague/CD02/01. The Young Gods - Speed of Night.flac | 0:58
-17 | 2005/Young Gods 2005-11-19 Prague/CD02/02. The Young Gods - Astronomic.flac | 0:54
-18 | 2005/Young Gods 2005-11-19 Prague/CD02/04. The Young Gods - Gasoline Man.flac | 0:45
-19 | 2005/Young Gods 2005-11-19 Prague/CD02/05. The Young Gods - L'Amourir.flac | 1:00
-20 | 2005/Young Gods 2005-11-19 Prague/CD02/06. The Young Gods - September Song.flac | 0:43
-21 | 2005/AUDIO/01. Secret.flac | 2:20
-22 | 2005/AUDIO/05. Cest Quoi Cest ca.flac | 2:38
-23 | 2005/AUDIO/09. Everywhere.flac | 2:26
-24 | 2005/AUDIO/13. September Song.flac | 1:55
-25 | 2005/Young Gods 2005-07-14 Montreux/03. L'Eau Rouge.flac | 2:11
-26 | 2005/Young Gods 2005-07-14 Montreux/07. Seeraeuber Jenny.flac | 3:24
-27 | 2005/Young Gods 2005-07-14 Montreux/11. Astronomic.flac | 3:37
-28 | 2005/Young Gods 2005-07-14 Montreux/15. Purple Haze.flac | 4:14
-29 | 2005/Young Gods 2005-09-04 Willisau/04. See me feel me.flac | 3:34
-30 | 2005/Young Gods 2005-09-04 Willisau/08. Thunderstorm.flac | 2:17
-31 | 2005/Young Gods 2005-09-04 Willisau/13. Suite Judy blue eyes.flac | 3:22
-32 | 2005/Young Gods 2005-09-04 Willisau/19. Purple haZe.flac | 5:03
-33 | 2005/Young Gods 2005-11-19 Prague/CD01/04. The Young Gods - Jimmy.flac | 1:37
-34 | 2005/Young Gods 2005-11-19 Prague/CD01/08. The Young Gods - Child In A Tree.flac | 1:19
-35 | 2005/Young Gods 2005-11-19 Prague/CD01/12. The Young Gods - I'm The Drug.flac | 1:45
-36 | 2005/Young Gods 2005-11-19 Prague/CD02/03. The Young Gods - Fait La Mouette.flac | 3:46
-37 | 2005/Young Gods 2005-11-19 Prague/CD02/07. The Young Gods - Did You Miss Me.flac | 2:47
-38 | 2005/AUDIO/02. Lucidogen.flac | 2:28
-39 | 2005/AUDIO/03. Supersonic.flac | 2:36
-40 | 2005/AUDIO/04. Jimmy.flac | 1:36
-41 | 2005/AUDIO/06. El Magnifico.flac | 2:01
-42 | 2005/AUDIO/07. Super Ready Fragmente.flac | 5:58
-43 | 2005/AUDIO/08. Child In The Tree.flac | 2:00
-44 | 2005/AUDIO/10. Im The Drug.flac | 1:44
-45 | 2005/AUDIO/11. Un Point Cest Tout.flac | 3:45
-46 | 2005/AUDIO/12. Gasoline Man.flac | 2:56
-47 | 2005/AUDIO/15. Skinflowers.flac | 2:46
-48 | 2005/Young Gods 2005-07-14 Montreux/01. Lucidogen.flac | 2:21
-49 | 2005/Young Gods 2005-07-14 Montreux/02. La Fille De La Mort.flac | 4:55
-50 | 2005/Young Gods 2005-07-14 Montreux/04. Kissing The Sun.flac | 2:28
-51 | 2005/Young Gods 2005-07-14 Montreux/05. Jimmy.flac | 1:36
-52 | 2005/Young Gods 2005-07-14 Montreux/06. She Rains.flac | 3:07
-53 | 2005/Young Gods 2005-07-14 Montreux/08. Moon Revolutions.flac | 6:35
-54 | 2005/Young Gods 2005-07-14 Montreux/09. Child In The Tree.flac | 1:37
-55 | 2005/Young Gods 2005-07-14 Montreux/10. Skinflowers.flac | 3:11
-56 | 2005/Young Gods 2005-07-14 Montreux/12. L'Amourir.flac | 3:16
-57 | 2005/Young Gods 2005-07-14 Montreux/13. Did You Miss Me.flac | 2:11
-58 | 2005/Young Gods 2005-07-14 Montreux/14. September Song.flac | 3:00
-59 | 2005/Young Gods 2005-07-14 Montreux/16. Charlotte.flac | 1:16
-60 | 2005/Young Gods 2005-09-04 Willisau/02. Unknown A.flac | 5:06
-61 | 2005/Young Gods 2005-09-04 Willisau/03. Freedom.flac | 2:58
-62 | 2005/Young Gods 2005-09-04 Willisau/05. Gasoline man.flac | 2:34
-63 | 2005/Young Gods 2005-09-04 Willisau/06. Unknown B.flac | 2:47
-64 | 2005/Young Gods 2005-09-04 Willisau/07. With a little help from my friends.flac | 3:57
-65 | 2005/Young Gods 2005-09-04 Willisau/10. I'm going home.flac | 4:18
-66 | 2005/Young Gods 2005-09-04 Willisau/11. Soul sacrifice.flac | 5:11
-67 | 2005/Young Gods 2005-09-04 Willisau/12. Unknown C.flac | 2:06
-68 | 2005/Young Gods 2005-09-04 Willisau/14. Joe Hill.flac | 1:52
-69 | 2005/Young Gods 2005-09-04 Willisau/16. The End.flac | 1:58
-70 | 2005/Young Gods 2005-09-04 Willisau/17. I want to take you higher.flac | 4:30
-71 | 2005/Young Gods 2005-11-19 Prague/CD01/01. The Young Gods - Intro + Secret.flac | 3:13
-72 | 2005/Young Gods 2005-11-19 Prague/CD01/02. The Young Gods - Lucidogen.flac | 2:32
-73 | 2005/Young Gods 2005-11-19 Prague/CD01/03. The Young Gods - Supersonic.flac | 2:31
-74 | 2005/Young Gods 2005-11-19 Prague/CD01/05. The Young Gods - C'est Quoi C'est Ca.flac | 2:37
-75 | 2005/Young Gods 2005-11-19 Prague/CD01/06. The Young Gods - El Magnifico.flac | 2:01
-76 | 2005/Young Gods 2005-11-19 Prague/CD01/07. The Young Gods - Super Ready-FragmentÇ.flac | 5:54
+01 | 2026/AUDIO/005335d7-c813-cd3c-f074-1a3d00000090.wav | 1:16
+02 | 2026/AUDIO/030b0e99-f2e9-7806-9c52-17850000009d.wav | 0:49
+03 | 2026/AUDIO/03c144d5-4e16-b4db-4384-2a1b00000090.wav | 0:02
+04 | 2026/AUDIO/05ab19aa-eb5c-fbed-408e-6b3400000090.wav | 1:02
+05 | 2026/AUDIO/0697a9e2-ce67-dc8b-0a72-a41300000090.wav | 0:02
+06 | 2026/AUDIO/093490d9-84be-0c93-2454-5e1b00000083.wav | 0:01
+07 | 2026/AUDIO/0a6b6b82-579b-4eea-2e40-1b4b00000090.wav | 1:11
+08 | 2026/AUDIO/1 APPEAR DISAPPEAR LIVE 1.wav | 0:41
+09 | 2026/AUDIO/1 APPEAR DISAPPEAR v2_44_1khz_16bit.wav | 0:43
+10 | 2026/AUDIO/10 MES YEUX DE TOUS v2_44_1khz_16bit.wav | 1:08
+11 | 2026/AUDIO/10e8c13d-a15f-f52e-f123-ddc800000083.wav | 0:01
+12 | 2026/AUDIO/11 SHINE THAT DRONE v2_44_1khz_16bit.wav | 1:56
+13 | 2026/AUDIO/113631ce-a0a3-23df-dd7f-d5c400000090.wav | 0:49
+14 | 2026/AUDIO/11730ad4-7ba6-adaf-41c7-2ffd00000090.wav | 0:02
+15 | 2026/AUDIO/12 GASOLINE MAN v2_44_1khz_16bit.wav | 0:54
+16 | 2026/AUDIO/15384e17-b9bd-66d5-c133-1ebe00000083.wav | 0:02
+17 | 2026/AUDIO/15b7b0f1-8661-b27e-f1fc-f4fe00000083.wav | 0:41
+18 | 2026/AUDIO/183d0a06-cf83-c112-2d33-76070000009d.wav | 1:11
+19 | 2026/AUDIO/186a91ed-801a-e1fc-b74e-8dd000000090.wav | 1:07
+20 | 2026/AUDIO/1963d769-5196-e2bf-c91d-d4900000009d.wav | 0:02
+21 | 2026/AUDIO/1a1c50ee-a47e-806a-9153-46cb00000090.wav | 0:56
+22 | 2026/AUDIO/1b4df5a3-900b-d24c-c2d3-7fb400000090.wav | 0:07
+23 | 2026/AUDIO/1dc175a5-6af7-ae47-f553-b02200000083.wav | 0:01
+24 | 2026/AUDIO/1f1a6570-171e-5926-574e-9ca600000090.wav | 0:02
+25 | 2026/AUDIO/2 SYSTEMIZED LIVE 1.wav | 0:39
+26 | 2026/AUDIO/2 SYSTEMIZED v2_44_1khz_16bit.wav | 0:44
+27 | 2026/AUDIO/2193bae3-07c2-484b-f2e6-182700000090.wav | 1:02
+28 | 2026/AUDIO/22469ac8-7362-8d4c-1739-f1710000009d.wav | 0:00
+29 | 2026/AUDIO/246f9b7f-ed68-2a86-3d9c-161800000090.wav | 1:16
+30 | 2026/AUDIO/26e83ce9-5be2-750e-6970-256c00000083.wav | 0:02
+31 | 2026/AUDIO/2859950a-6a41-8706-5528-35ff0000009d.wav | 2:01
+32 | 2026/AUDIO/28fadf95-a3e7-363c-0789-3f1600000083.wav | 0:01
+33 | 2026/AUDIO/29dc2397-7412-a36d-ea1e-7ee500000090.wav | 0:03
+34 | 2026/AUDIO/2a301136-7c87-11d4-4a9c-8f6c00000090.wav | 0:07
+35 | 2026/AUDIO/2cbada6d-d70a-ceb3-eb4b-d60900000083.wav | 0:02
+36 | 2026/AUDIO/3 HEY AMOUR LIVE 1.wav | 0:57
+37 | 2026/AUDIO/3 HEY AMOUR v2_44_1khz_16bit.wav | 0:59
+38 | 2026/AUDIO/33ecedd0-30fc-27df-2c9c-f1f000000090.wav | 1:11
+39 | 2026/AUDIO/375d82e3-e6a5-e02a-b296-478500000083.wav | 0:02
+40 | 2026/AUDIO/3949d499-6593-3112-e998-5c0600000090.wav | 0:00
+41 | 2026/AUDIO/3b1f41a8-699e-ba61-2726-d21300000090.wav | 0:43
+42 | 2026/AUDIO/3ba71c43-b64e-8653-a547-209800000083.wav | 0:00
+43 | 2026/AUDIO/3c501571-4c75-85c0-c9da-9e4d0000009d.wav | 1:28
+44 | 2026/AUDIO/3ccc9a5a-1960-4738-99c4-4f2300000090.wav | 0:56
+45 | 2026/AUDIO/3d6d63f2-f56f-8dad-37bf-07170000009d.wav | 1:58
+46 | 2026/AUDIO/3f35b231-ab1a-870f-6351-442d00000090.wav | 0:00
+47 | 2026/AUDIO/4 BLACK WATER LIVE 1.wav | 1:26
+48 | 2026/AUDIO/4 BLACK WATER v2_44_1khz_16bit.wav | 1:26
+49 | 2026/AUDIO/40af3c13-2e28-912f-ff2c-f3a400000083.wav | 0:00
+50 | 2026/AUDIO/40af3edc-e676-a22e-6fe7-141200000083.wav | 0:00
+51 | 2026/AUDIO/471c048a-ab75-93dd-4d40-c7b50000009d.wav | 0:00
+52 | 2026/AUDIO/481cbf30-e3dc-7e84-4d5c-0e560000009d.wav | 0:01
+53 | 2026/AUDIO/4835a252-c4e3-99a4-f2c2-b96400000090.wav | 0:02
+54 | 2026/AUDIO/4873ee05-336a-1ae9-8bec-933a0000009d.wav | 1:28
+55 | 2026/AUDIO/49301115-e2cb-fa72-7dc4-d5cb00000090.wav | 1:04
+56 | 2026/AUDIO/4a096b8f-49aa-a166-9097-a43500000083.wav | 0:01
+57 | 2026/AUDIO/4afed5e5-10a0-5ed9-6604-2fec00000090.wav | 1:58
+58 | 2026/AUDIO/4c411665-eb06-23a0-1efa-73a800000090.wav | 0:02
+59 | 2026/AUDIO/5 ALL MY SKIN STANDING  LIVE 1.wav | 1:59
+60 | 2026/AUDIO/5 ALL MY SKIN STANDING v2_44_1khz_16bit.wav | 1:59
+61 | 2026/AUDIO/54aadafb-223c-bbd7-a622-356a0000009d.wav | 1:29
+62 | 2026/AUDIO/559d6654-a01c-7769-5cc3-085900000083.wav | 0:02
+63 | 2026/AUDIO/56fe023d-e6f2-bd1c-707a-39e200000083.wav | 0:24
+64 | 2026/AUDIO/5b70917a-463c-9782-81d5-192b00000090.wav | 1:16
+65 | 2026/AUDIO/5b90487d-3f18-2b82-9249-113d0000009d.wav | 0:49
+66 | 2026/AUDIO/5e46e9e2-4910-6238-a377-21cd00000083.wav | 0:01
+67 | 2026/AUDIO/5e9787d1-e217-fbc5-0f14-cd9e0000009d.wav | 0:02
+68 | 2026/AUDIO/6 BLUE ME AWAY LIVE 1 2.wav | 0:48
+69 | 2026/AUDIO/6 THE NIGHT DANCE v2_44_1khz_16bit.wav | 0:50
+70 | 2026/AUDIO/600ca580-9e63-13ab-aa12-58b800000083.wav | 0:01
+71 | 2026/AUDIO/61c6649d-ed15-65f4-6697-40210000009d.wav | 2:03
+72 | 2026/AUDIO/637cb04e-96cd-8be1-11c4-a70700000083.wav | 0:00
+73 | 2026/AUDIO/64269e7e-38bd-2c58-c5ba-10fa00000083.wav | 0:41
+74 | 2026/AUDIO/64b724fb-3001-1821-669b-561300000083.wav | 0:00
+75 | 2026/AUDIO/66f5c0bb-7921-3742-1b1c-2e3e00000090.wav | 0:41
+76 | 2026/AUDIO/67926aad-fbb9-360a-a94c-64d900000090.wav | 0:07

@@ -1,76 +1,76 @@
-01 | 2008/Young Gods 2008-04-26 Zurich/01.flac | 2:51
-02 | 2008/Young Gods 2008-04-26 Zurich/02.flac | 2:23
-03 | 2008/Young Gods 2008-04-26 Zurich/03.flac | 1:27
-04 | 2008/Young Gods 2008-04-26 Zurich/04.flac | 0:30
-05 | 2008/Young Gods 2008-04-26 Zurich/05.flac | 2:43
-06 | 2008/Young Gods 2008-04-26 Zurich/06.flac | 2:34
-07 | 2008/Young Gods 2008-04-26 Zurich/07.flac | 0:56
-08 | 2008/Young Gods 2008-04-26 Zurich/08.flac | 6:13
-09 | 2008/Young Gods 2008-04-26 Zurich/09.flac | 5:23
-10 | 2008/Young Gods 2008-04-26 Zurich/10.flac | 2:27
-11 | 2008/Young Gods 2008-04-26 Zurich/11.flac | 2:14
-12 | 2008/Young Gods 2008-04-26 Zurich/12.flac | 2:42
-13 | 2008/Young Gods 2008-04-26 Zurich/13.flac | 2:08
-14 | 2008/Young Gods 2008-04-26 Zurich/14.flac | 1:54
-15 | 2008/Young Gods 2008-04-26 Zurich/01.flac | 1:34
-16 | 2008/Young Gods 2008-04-26 Zurich/02.flac | 1:19
-17 | 2008/Young Gods 2008-04-26 Zurich/03.flac | 0:48
-18 | 2008/Young Gods 2008-04-26 Zurich/04.flac | 0:16
-19 | 2008/Young Gods 2008-04-26 Zurich/05.flac | 1:30
-20 | 2008/Young Gods 2008-04-26 Zurich/06.flac | 1:25
-21 | 2008/Young Gods 2008-04-26 Zurich/07.flac | 0:31
-22 | 2008/Young Gods 2008-04-26 Zurich/08.flac | 3:26
-23 | 2008/Young Gods 2008-04-26 Zurich/09.flac | 2:58
-24 | 2008/Young Gods 2008-04-26 Zurich/10.flac | 1:21
-25 | 2008/Young Gods 2008-04-26 Zurich/11.flac | 1:14
-26 | 2008/Young Gods 2008-04-26 Zurich/12.flac | 1:29
-27 | 2008/Young Gods 2008-04-26 Zurich/13.flac | 1:10
-28 | 2008/Young Gods 2008-04-26 Zurich/14.flac | 1:03
-29 | 2008/Young Gods 2008-04-26 Zurich/01.flac | 4:07
-30 | 2008/Young Gods 2008-04-26 Zurich/02.flac | 3:28
-31 | 2008/Young Gods 2008-04-26 Zurich/03.flac | 2:07
-32 | 2008/Young Gods 2008-04-26 Zurich/04.flac | 0:43
-33 | 2008/Young Gods 2008-04-26 Zurich/05.flac | 3:56
-34 | 2008/Young Gods 2008-04-26 Zurich/06.flac | 3:44
-35 | 2008/Young Gods 2008-04-26 Zurich/07.flac | 1:21
-36 | 2008/Young Gods 2008-04-26 Zurich/08.flac | 9:01
-37 | 2008/Young Gods 2008-04-26 Zurich/09.flac | 7:48
-38 | 2008/Young Gods 2008-04-26 Zurich/10.flac | 3:33
-39 | 2008/Young Gods 2008-04-26 Zurich/11.flac | 3:14
-40 | 2008/Young Gods 2008-04-26 Zurich/12.flac | 3:55
-41 | 2008/Young Gods 2008-04-26 Zurich/13.flac | 3:05
-42 | 2008/Young Gods 2008-04-26 Zurich/14.flac | 2:45
-43 | 2008/Young Gods 2008-04-26 Zurich/01.flac | 0:55
-44 | 2008/Young Gods 2008-04-26 Zurich/02.flac | 0:47
-45 | 2008/Young Gods 2008-04-26 Zurich/03.flac | 0:28
-46 | 2008/Young Gods 2008-04-26 Zurich/05.flac | 0:53
-47 | 2008/Young Gods 2008-04-26 Zurich/06.flac | 0:50
-48 | 2008/Young Gods 2008-04-26 Zurich/07.flac | 0:18
-49 | 2008/Young Gods 2008-04-26 Zurich/08.flac | 2:02
-50 | 2008/Young Gods 2008-04-26 Zurich/09.flac | 1:45
-51 | 2008/Young Gods 2008-04-26 Zurich/10.flac | 0:48
-52 | 2008/Young Gods 2008-04-26 Zurich/11.flac | 0:44
-53 | 2008/Young Gods 2008-04-26 Zurich/12.flac | 0:53
-54 | 2008/Young Gods 2008-04-26 Zurich/13.flac | 0:41
-55 | 2008/Young Gods 2008-04-26 Zurich/14.flac | 0:37
-56 | 2008/Young Gods 2008-04-26 Zurich/01.flac | 3:29
-57 | 2008/Young Gods 2008-04-26 Zurich/02.flac | 2:55
-58 | 2008/Young Gods 2008-04-26 Zurich/03.flac | 1:47
-59 | 2008/Young Gods 2008-04-26 Zurich/05.flac | 3:20
-60 | 2008/Young Gods 2008-04-26 Zurich/06.flac | 3:09
-61 | 2008/Young Gods 2008-04-26 Zurich/07.flac | 1:08
-62 | 2008/Young Gods 2008-04-26 Zurich/08.flac | 7:37
-63 | 2008/Young Gods 2008-04-26 Zurich/09.flac | 6:36
-64 | 2008/Young Gods 2008-04-26 Zurich/10.flac | 3:00
-65 | 2008/Young Gods 2008-04-26 Zurich/11.flac | 2:44
-66 | 2008/Young Gods 2008-04-26 Zurich/12.flac | 3:18
-67 | 2008/Young Gods 2008-04-26 Zurich/13.flac | 2:37
-68 | 2008/Young Gods 2008-04-26 Zurich/14.flac | 2:20
-69 | 2008/Young Gods 2008-04-26 Zurich/01.flac | 2:12
-70 | 2008/Young Gods 2008-04-26 Zurich/02.flac | 1:51
-71 | 2008/Young Gods 2008-04-26 Zurich/03.flac | 1:08
-72 | 2008/Young Gods 2008-04-26 Zurich/05.flac | 2:06
-73 | 2008/Young Gods 2008-04-26 Zurich/06.flac | 2:00
-74 | 2008/Young Gods 2008-04-26 Zurich/07.flac | 0:43
-75 | 2008/Young Gods 2008-04-26 Zurich/08.flac | 4:50
-76 | 2008/Young Gods 2008-04-26 Zurich/09.flac | 4:10
+01 | 2008/AUDIO/01.flac | 1:10
+02 | 2008/AUDIO/02.flac | 0:59
+03 | 2008/AUDIO/03.flac | 0:36
+04 | 2008/AUDIO/04.flac | 0:12
+05 | 2008/AUDIO/05.flac | 1:07
+06 | 2008/AUDIO/06.flac | 1:03
+07 | 2008/AUDIO/07.flac | 0:23
+08 | 2008/AUDIO/08.flac | 2:34
+09 | 2008/AUDIO/09.flac | 2:13
+10 | 2008/AUDIO/10.flac | 1:00
+11 | 2008/AUDIO/11.flac | 0:55
+12 | 2008/AUDIO/12.flac | 1:07
+13 | 2008/AUDIO/13.flac | 0:52
+14 | 2008/AUDIO/14.flac | 0:47
+15 | 2008/AUDIO/01.flac | 4:48
+16 | 2008/AUDIO/02.flac | 4:02
+17 | 2008/AUDIO/03.flac | 2:28
+18 | 2008/AUDIO/04.flac | 0:51
+19 | 2008/AUDIO/05.flac | 4:35
+20 | 2008/AUDIO/06.flac | 4:21
+21 | 2008/AUDIO/07.flac | 1:34
+22 | 2008/AUDIO/08.flac | 10:30
+23 | 2008/AUDIO/09.flac | 9:05
+24 | 2008/AUDIO/10.flac | 4:08
+25 | 2008/AUDIO/11.flac | 3:46
+26 | 2008/AUDIO/12.flac | 4:34
+27 | 2008/AUDIO/13.flac | 3:36
+28 | 2008/AUDIO/14.flac | 3:13
+29 | 2008/AUDIO/01.flac | 2:33
+30 | 2008/AUDIO/02.flac | 2:09
+31 | 2008/AUDIO/03.flac | 1:18
+32 | 2008/AUDIO/04.flac | 0:27
+33 | 2008/AUDIO/05.flac | 2:26
+34 | 2008/AUDIO/06.flac | 2:19
+35 | 2008/AUDIO/07.flac | 0:50
+36 | 2008/AUDIO/08.flac | 5:36
+37 | 2008/AUDIO/09.flac | 4:50
+38 | 2008/AUDIO/10.flac | 2:12
+39 | 2008/AUDIO/11.flac | 2:00
+40 | 2008/AUDIO/12.flac | 2:26
+41 | 2008/AUDIO/13.flac | 1:55
+42 | 2008/AUDIO/14.flac | 1:42
+43 | 2008/AUDIO/01.flac | 0:19
+44 | 2008/AUDIO/02.flac | 0:16
+45 | 2008/AUDIO/03.flac | 0:09
+46 | 2008/AUDIO/04.flac | 0:03
+47 | 2008/AUDIO/05.flac | 0:18
+48 | 2008/AUDIO/06.flac | 0:17
+49 | 2008/AUDIO/07.flac | 0:06
+50 | 2008/AUDIO/08.flac | 0:41
+51 | 2008/AUDIO/09.flac | 0:36
+52 | 2008/AUDIO/10.flac | 0:16
+53 | 2008/AUDIO/11.flac | 0:14
+54 | 2008/AUDIO/12.flac | 0:18
+55 | 2008/AUDIO/13.flac | 0:14
+56 | 2008/AUDIO/14.flac | 0:12
+57 | 2008/AUDIO/01.flac | 3:56
+58 | 2008/AUDIO/02.flac | 3:19
+59 | 2008/AUDIO/03.flac | 2:01
+60 | 2008/AUDIO/04.flac | 0:42
+61 | 2008/AUDIO/05.flac | 3:46
+62 | 2008/AUDIO/06.flac | 3:34
+63 | 2008/AUDIO/07.flac | 1:17
+64 | 2008/AUDIO/08.flac | 8:38
+65 | 2008/AUDIO/09.flac | 7:28
+66 | 2008/AUDIO/10.flac | 3:24
+67 | 2008/AUDIO/11.flac | 3:06
+68 | 2008/AUDIO/12.flac | 3:45
+69 | 2008/AUDIO/13.flac | 2:57
+70 | 2008/AUDIO/14.flac | 2:38
+71 | 2008/AUDIO/01.flac | 1:42
+72 | 2008/AUDIO/02.flac | 1:25
+73 | 2008/AUDIO/03.flac | 0:52
+74 | 2008/AUDIO/04.flac | 0:18
+75 | 2008/AUDIO/05.flac | 1:37
+76 | 2008/AUDIO/06.flac | 1:32

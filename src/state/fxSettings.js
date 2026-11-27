@@ -24,6 +24,35 @@ export const EFFECTS = [
 ];
 export const EFFECT_MAX = 2; // 200 %
 
+// DESTRUCTION (molette de modulation MIDI, ou 1 = moins / 2 = plus) : de 0 à 1.
+//   0                → propre : aucun tremblement, aucune distorsion
+//   DESTROY_DEFAULT  → réglage normal (tremblement d'origine)
+//   1                → écran détruit : tremblement continu très fort, distorsion, séparation
+//                      rouge/vert/bleu des images, neige, bandes de bug au hasard
+// Les autres effets cathodiques (curseurs du panneau) ne changent pas.
+export const DESTROY = { id: "destroy", label: "destruction (molette)" };
+export const DESTROY_DEFAULT = 0.15;
+export const DESTROY_STEP = 0.05; // pas des touches 1 / 2 (20 crans du propre au détruit)
+const SHAKE_MAX = 14; // tremblement / distorsion × 14 en haut de la molette
+// Courbe choisie pour que DESTROY_DEFAULT donne exactement ×1.
+const SHAKE_CURVE = Math.log(SHAKE_MAX) / Math.log(1 / DESTROY_DEFAULT);
+const SCALED = ["jitter", "distort"];
+
+function clamp01(value) {
+  return Math.min(1, Math.max(0, value));
+}
+
+// Multiplicateur du tremblement et de la distorsion : 0 (propre) → 1 (normal) → SHAKE_MAX.
+export function shakeAmount(settings) {
+  return SHAKE_MAX * Math.pow(clamp01(settings.destroy), SHAKE_CURVE);
+}
+
+// Effets de destruction en plus (RGB, neige, bandes…) : 0 jusqu'au réglage normal, puis → 1.
+export function wreckLevel(settings) {
+  const d = (clamp01(settings.destroy) - DESTROY_DEFAULT) / (1 - DESTROY_DEFAULT);
+  return Math.pow(Math.max(0, d), 1.3);
+}
+
 export const SOUNDS = [
   { id: "master", label: "volume general" },
   { id: "videos", label: "son des videos" },
@@ -37,6 +66,7 @@ const STORAGE_KEY = "archives-fx-settings";
 export function defaultSettings() {
   const settings = {};
   for (const { id } of [...EFFECTS, ...SOUNDS]) settings[id] = 1;
+  settings.destroy = DESTROY_DEFAULT;
   return settings;
 }
 
@@ -50,6 +80,7 @@ export function loadSettings() {
   } catch {
     // stockage indisponible : on garde les valeurs par défaut
   }
+  settings.destroy = clamp01(settings.destroy);
   return settings;
 }
 
@@ -61,9 +92,15 @@ export function saveSettings(settings) {
   }
 }
 
-// Variables CSS posées sur <main> : --fx-scanlines, --fx-mask, …
+// Intensité réelle d'un effet = son curseur (× la destruction pour tremblement / distorsion).
+export function effectValue(settings, id) {
+  return SCALED.includes(id) ? settings[id] * shakeAmount(settings) : settings[id];
+}
+
+// Variables CSS posées sur <main> : --fx-scanlines, --fx-mask, … et --fx-destroy (0 → 1).
 export function effectCssVars(settings) {
   const vars = {};
-  for (const { id } of EFFECTS) vars[`--fx-${id}`] = settings[id];
+  for (const { id } of EFFECTS) vars[`--fx-${id}`] = effectValue(settings, id);
+  vars["--fx-destroy"] = wreckLevel(settings).toFixed(3);
   return vars;
 }

@@ -1,76 +1,76 @@
-01 | 2010/Young Gods 2010-08-14 Zofingen/05 Young Gods-Heitere 2010.flac | 4:16
-02 | 2010/Young Gods 2010-08-14 Zofingen/06 Young Gods-Heitere 2010.flac | 3:49
-03 | 2010/Young Gods 2010-08-14 Zofingen/08 Young Gods-Heitere 2010.flac | 3:01
-04 | 2010/Young Gods 2010-08-14 Zofingen/10 Young Gods-Heitere 2010.flac | 5:56
-05 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t02.flac | 3:20
-06 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t04.flac | 3:55
-07 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t05.flac | 3:43
-08 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t07.flac | 2:58
-09 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t09.flac | 3:57
-10 | 2010/Young Gods 2010-11-16 Lausanne/03-blooming.flac | 3:40
-11 | 2010/Young Gods 2010-11-16 Lausanne/05-supersonic.flac | 3:18
-12 | 2010/Young Gods 2010-11-16 Lausanne/07-mister sunshine.flac | 4:54
-13 | 2010/Young Gods 2010-11-16 Lausanne/08-tenter le grillage.flac | 4:56
-14 | 2010/Young Gods 2010-11-16 Lausanne/10-once again - encore.flac | 7:28
-15 | 2010/Young Gods 2010-11-16 Lausanne/12-kissing the sun.flac | 3:39
-16 | 2010/Young Gods 2010-08-14 Zofingen/02 Young Gods-Heitere 2010.flac | 4:48
-17 | 2010/Young Gods 2010-08-14 Zofingen/04 Young Gods-Heitere 2010.flac | 3:15
-18 | 2010/Young Gods 2010-08-14 Zofingen/07 Young Gods-Heitere 2010.flac | 2:58
-19 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t01.flac | 4:14
-20 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t06.flac | 9:00
-21 | 2010/Young Gods 2010-11-16 Lausanne/04-no land's man.flac | 3:59
-22 | 2010/Young Gods 2010-11-16 Lausanne/06-about time.flac | 4:34
-23 | 2010/Young Gods 2010-11-16 Lausanne/09-everythere.flac | 3:22
-24 | 2010/Young Gods 2010-11-16 Lausanne/11-skinflower.flac | 3:44
-25 | 2010/Young Gods 2010-08-14 Zofingen/01 Young Gods-Heitere 2010.flac | 1:03
-26 | 2010/Young Gods 2010-08-14 Zofingen/03 Young Gods-Heitere 2010.flac | 0:55
-27 | 2010/Young Gods 2010-08-14 Zofingen/05 Young Gods-Heitere 2010.flac | 1:12
-28 | 2010/Young Gods 2010-08-14 Zofingen/06 Young Gods-Heitere 2010.flac | 1:04
-29 | 2010/Young Gods 2010-08-14 Zofingen/08 Young Gods-Heitere 2010.flac | 0:51
-30 | 2010/Young Gods 2010-08-14 Zofingen/10 Young Gods-Heitere 2010.flac | 1:40
-31 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t02.flac | 0:56
-32 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t04.flac | 1:06
-33 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t05.flac | 1:02
-34 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t07.flac | 0:50
-35 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t09.flac | 1:06
-36 | 2010/Young Gods 2010-11-16 Lausanne/03-blooming.flac | 1:02
-37 | 2010/Young Gods 2010-11-16 Lausanne/05-supersonic.flac | 0:55
-38 | 2010/Young Gods 2010-11-16 Lausanne/07-mister sunshine.flac | 1:22
-39 | 2010/Young Gods 2010-11-16 Lausanne/08-tenter le grillage.flac | 1:23
-40 | 2010/Young Gods 2010-11-16 Lausanne/10-once again - encore.flac | 2:06
-41 | 2010/Young Gods 2010-11-16 Lausanne/12-kissing the sun.flac | 1:01
-42 | 2010/Young Gods 2010-08-14 Zofingen/02 Young Gods-Heitere 2010.flac | 1:21
-43 | 2010/Young Gods 2010-08-14 Zofingen/04 Young Gods-Heitere 2010.flac | 0:54
-44 | 2010/Young Gods 2010-08-14 Zofingen/07 Young Gods-Heitere 2010.flac | 0:50
-45 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t01.flac | 1:11
-46 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t06.flac | 2:32
-47 | 2010/Young Gods 2010-11-16 Lausanne/04-no land's man.flac | 1:07
-48 | 2010/Young Gods 2010-11-16 Lausanne/06-about time.flac | 1:17
-49 | 2010/Young Gods 2010-11-16 Lausanne/09-everythere.flac | 0:57
-50 | 2010/Young Gods 2010-11-16 Lausanne/11-skinflower.flac | 1:03
-51 | 2010/Young Gods 2010-08-14 Zofingen/01 Young Gods-Heitere 2010.flac | 3:13
-52 | 2010/Young Gods 2010-08-14 Zofingen/03 Young Gods-Heitere 2010.flac | 2:49
-53 | 2010/Young Gods 2010-08-14 Zofingen/05 Young Gods-Heitere 2010.flac | 3:39
-54 | 2010/Young Gods 2010-08-14 Zofingen/06 Young Gods-Heitere 2010.flac | 3:16
-55 | 2010/Young Gods 2010-08-14 Zofingen/08 Young Gods-Heitere 2010.flac | 2:35
-56 | 2010/Young Gods 2010-08-14 Zofingen/10 Young Gods-Heitere 2010.flac | 5:05
-57 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t02.flac | 2:51
-58 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t04.flac | 3:22
-59 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t05.flac | 3:11
-60 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t07.flac | 2:32
-61 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t09.flac | 3:23
-62 | 2010/Young Gods 2010-11-16 Lausanne/03-blooming.flac | 3:08
-63 | 2010/Young Gods 2010-11-16 Lausanne/05-supersonic.flac | 2:50
-64 | 2010/Young Gods 2010-11-16 Lausanne/07-mister sunshine.flac | 4:11
-65 | 2010/Young Gods 2010-11-16 Lausanne/08-tenter le grillage.flac | 4:13
-66 | 2010/Young Gods 2010-11-16 Lausanne/10-once again - encore.flac | 6:24
-67 | 2010/Young Gods 2010-11-16 Lausanne/12-kissing the sun.flac | 3:08
-68 | 2010/Young Gods 2010-08-14 Zofingen/02 Young Gods-Heitere 2010.flac | 4:07
-69 | 2010/Young Gods 2010-08-14 Zofingen/04 Young Gods-Heitere 2010.flac | 2:47
-70 | 2010/Young Gods 2010-08-14 Zofingen/07 Young Gods-Heitere 2010.flac | 2:32
-71 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t01.flac | 3:38
-72 | 2010/Young Gods 2010-09-19 Lausanne/younggods2010-09-19t06.flac | 7:42
-73 | 2010/Young Gods 2010-11-16 Lausanne/04-no land's man.flac | 3:24
-74 | 2010/Young Gods 2010-11-16 Lausanne/06-about time.flac | 3:55
-75 | 2010/Young Gods 2010-11-16 Lausanne/09-everythere.flac | 2:53
-76 | 2010/Young Gods 2010-11-16 Lausanne/11-skinflower.flac | 3:12
+01 | 2019/AUDIO/01 Entre En Matiere (vox up) 131118.wav | 1:24
+02 | 2019/AUDIO/01.Entre En Matiere (vox up) B.wav | 1:24
+03 | 2019/AUDIO/02 Tear Up The Red Sky A 131118.wav | 1:27
+04 | 2019/AUDIO/02.Tear Up The Red Sky A.wav | 1:27
+05 | 2019/AUDIO/03 Figure Sans Nom (vox up) 131118.wav | 1:12
+06 | 2019/AUDIO/03.Figure Sans Nom (vox up) B.wav | 1:12
+07 | 2019/AUDIO/04 Moon Above (instrumental) A 131118.wav | 1:10
+08 | 2019/AUDIO/04 Moon Above (vox up) A 131118.wav | 1:10
+09 | 2019/AUDIO/04.Moon Above (vox up) A.wav | 1:10
+10 | 2019/AUDIO/05.All My Skin Standing (vox up) Av3 2.wav | 2:12
+11 | 2019/AUDIO/05.All My Skin Standing (vox up) Av3.wav | 2:12
+12 | 2019/AUDIO/06 You Gave Me A Name 131118.wav | 1:33
+13 | 2019/AUDIO/06.You Gave Me A Name B.wav | 1:33
+14 | 2019/AUDIO/07 Every Them 131118.wav | 1:28
+15 | 2019/AUDIO/07.Every Them Bv2.wav | 1:28
+16 | 2019/AUDIO/2019.02.15 TYG@srf 3 schweizer musiktag.WAV | 6:25
+17 | 2019/AUDIO/2019.04.25 TYGLuganoL-R LV-1_Loop 25.04.19.wav | 13:50
+18 | 2019/AUDIO/2019.05.19 TYC In C Paradiso.WAV | 6:29
+19 | 2019/AUDIO/2019.08.15_YoungGods_PalpFestival_JP _{EED3FEF0-030F-443A-9598-308BBE3A9E7A}.wav | 17:55
+20 | 2019/AUDIO/Entre En Matiere (instrumental) 131118.wav | 1:24
+21 | 2019/AUDIO/Every Them (instrumental) 131118.wav | 1:28
+22 | 2019/AUDIO/FSN Bernard Trontin Remix MST.wav | 1:02
+23 | 2019/AUDIO/FSN Cristian Vogel Remix Instrumental MST.wav | 1:19
+24 | 2019/AUDIO/FSN Cristian Vogel Remix MST.wav | 1:19
+25 | 2019/AUDIO/FSN Stewart Walkder Remix Instrumental MST.wav | 1:14
+26 | 2019/AUDIO/FSN Stewart Walkder Remix MST.wav | 1:14
+27 | 2019/AUDIO/Figure Sans Nom (instrumental)131118.wav | 1:12
+28 | 2019/AUDIO/FigureSansNomRadioEdit11 WithMastering 3'32'' 16_44.wav | 0:40
+29 | 2019/AUDIO/FigureSansNomRadioEdit11 WithMastering 3'32'' 16_48.wav | 0:40
+30 | 2019/AUDIO/THE YOUNG GODS showcase remix 20190425.wav | 18:26
+31 | 2019/AUDIO/TYG_MASTER_PARIS.wav | 18:52
+32 | 2019/AUDIO/Tear Up The Red Sky (instrumental) A 131118.wav | 1:27
+33 | 2019/AUDIO/TearUpTheRedSkyRadioEdit11 WithMastering 3'43'' 16_44.wav | 0:42
+34 | 2019/AUDIO/TearUpTheRedSkyRadioEdit11 WithMastering 3'43'' 16_48.wav | 0:42
+35 | 2019/AUDIO/TearUpTheRedSkyRemix.wav | 0:58
+36 | 2019/AUDIO/You Gave Me A Name (instrumental) 131118.wav | 1:33
+37 | 2019/AUDIO/01 Entre En Matiere (vox up) 131118.wav | 5:45
+38 | 2019/AUDIO/01.Entre En Matiere (vox up) B.wav | 5:45
+39 | 2019/AUDIO/02 Tear Up The Red Sky A 131118.wav | 5:58
+40 | 2019/AUDIO/02.Tear Up The Red Sky A.wav | 5:58
+41 | 2019/AUDIO/03 Figure Sans Nom (vox up) 131118.wav | 4:56
+42 | 2019/AUDIO/03.Figure Sans Nom (vox up) B.wav | 4:56
+43 | 2019/AUDIO/04 Moon Above (instrumental) A 131118.wav | 4:46
+44 | 2019/AUDIO/04 Moon Above (vox up) A 131118.wav | 4:47
+45 | 2019/AUDIO/04.Moon Above (vox up) A.wav | 4:47
+46 | 2019/AUDIO/05.All My Skin Standing (vox up) Av3 2.wav | 9:03
+47 | 2019/AUDIO/05.All My Skin Standing (vox up) Av3.wav | 9:03
+48 | 2019/AUDIO/06 You Gave Me A Name 131118.wav | 6:22
+49 | 2019/AUDIO/06.You Gave Me A Name B.wav | 6:22
+50 | 2019/AUDIO/07 Every Them 131118.wav | 6:02
+51 | 2019/AUDIO/07.Every Them Bv2.wav | 6:02
+52 | 2019/AUDIO/2019.02.15 TYG@srf 3 schweizer musiktag.WAV | 26:17
+53 | 2019/AUDIO/2019.04.25 TYGLuganoL-R LV-1_Loop 25.04.19.wav | 56:35
+54 | 2019/AUDIO/2019.05.19 TYC In C Paradiso.WAV | 26:32
+55 | 2019/AUDIO/2019.08.15_YoungGods_PalpFestival_JP _{EED3FEF0-030F-443A-9598-308BBE3A9E7A}.wav | 73:17
+56 | 2019/AUDIO/Entre En Matiere (instrumental) 131118.wav | 5:45
+57 | 2019/AUDIO/Every Them (instrumental) 131118.wav | 6:01
+58 | 2019/AUDIO/FSN Bernard Trontin Remix MST.wav | 4:14
+59 | 2019/AUDIO/FSN Cristian Vogel Remix Instrumental MST.wav | 5:23
+60 | 2019/AUDIO/FSN Cristian Vogel Remix MST.wav | 5:23
+61 | 2019/AUDIO/FSN Stewart Walkder Remix Instrumental MST.wav | 5:04
+62 | 2019/AUDIO/FSN Stewart Walkder Remix MST.wav | 5:04
+63 | 2019/AUDIO/Figure Sans Nom (instrumental)131118.wav | 4:55
+64 | 2019/AUDIO/FigureSansNomRadioEdit11 WithMastering 3'32'' 16_44.wav | 2:44
+65 | 2019/AUDIO/FigureSansNomRadioEdit11 WithMastering 3'32'' 16_48.wav | 2:44
+66 | 2019/AUDIO/THE YOUNG GODS showcase remix 20190425.wav | 75:26
+67 | 2019/AUDIO/TYG_MASTER_PARIS.wav | 77:13
+68 | 2019/AUDIO/Tear Up The Red Sky (instrumental) A 131118.wav | 5:58
+69 | 2019/AUDIO/TearUpTheRedSkyRadioEdit11 WithMastering 3'43'' 16_44.wav | 2:54
+70 | 2019/AUDIO/TearUpTheRedSkyRadioEdit11 WithMastering 3'43'' 16_48.wav | 2:54
+71 | 2019/AUDIO/TearUpTheRedSkyRemix.wav | 3:59
+72 | 2019/AUDIO/You Gave Me A Name (instrumental) 131118.wav | 6:22
+73 | 2019/AUDIO/01 Entre En Matiere (vox up) 131118.wav | 3:03
+74 | 2019/AUDIO/01.Entre En Matiere (vox up) B.wav | 3:03
+75 | 2019/AUDIO/02 Tear Up The Red Sky A 131118.wav | 3:11
+76 | 2019/AUDIO/02.Tear Up The Red Sky A.wav | 3:11

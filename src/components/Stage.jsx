@@ -5,6 +5,7 @@ import PromptIcon from "./PromptIcon.jsx";
 import { LangContext, useT } from "../i18n.js";
 import SleepScreen from "./SleepScreen.jsx";
 import { SLEEP_PROMPT } from "../constants.js";
+import { attachVideo, setVideoVolume } from "../audio/synth.js";
 
 /*
  * Stage.jsx — LA SCÈNE (un terminal)
@@ -63,9 +64,16 @@ function MediaBox({ item, aspect, sound, volume, onAspect, onFailed }) {
     };
   }, [sound]);
 
+  // Son de la vidéo branché sur le même chemin que le sampler (bugs du son, molette « destruction »).
+  useEffect(() => {
+    const video = videoRef.current;
+    if (!video) return;
+    return attachVideo(video);
+  }, []);
+
   // Volume de la vidéo (panneau Ctrl : volume général × son des vidéos).
   useEffect(() => {
-    if (videoRef.current) videoRef.current.volume = Math.max(0, Math.min(1, volume));
+    if (videoRef.current) setVideoVolume(videoRef.current, Math.max(0, Math.min(1, volume)));
   }, [volume]);
 
   let footer;

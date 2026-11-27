@@ -1,76 +1,76 @@
-01 | 2005/Young Gods 2005-07-14 Montreux/10. Skinflowers.flac | 3:46
-02 | 2005/Young Gods 2005-07-14 Montreux/12. L'Amourir.flac | 3:52
-03 | 2005/Young Gods 2005-07-14 Montreux/13. Did You Miss Me.flac | 2:35
-04 | 2005/Young Gods 2005-07-14 Montreux/14. September Song.flac | 3:33
-05 | 2005/Young Gods 2005-07-14 Montreux/16. Charlotte.flac | 1:30
-06 | 2005/Young Gods 2005-09-04 Willisau/02. Unknown A.flac | 6:03
-07 | 2005/Young Gods 2005-09-04 Willisau/03. Freedom.flac | 3:31
-08 | 2005/Young Gods 2005-09-04 Willisau/05. Gasoline man.flac | 3:02
-09 | 2005/Young Gods 2005-09-04 Willisau/06. Unknown B.flac | 3:18
-10 | 2005/Young Gods 2005-09-04 Willisau/07. With a little help from my friends.flac | 4:40
-11 | 2005/Young Gods 2005-09-04 Willisau/10. I'm going home.flac | 5:05
-12 | 2005/Young Gods 2005-09-04 Willisau/11. Soul sacrifice.flac | 6:08
-13 | 2005/Young Gods 2005-09-04 Willisau/12. Unknown C.flac | 2:29
-14 | 2005/Young Gods 2005-09-04 Willisau/14. Joe Hill.flac | 2:13
-15 | 2005/Young Gods 2005-09-04 Willisau/16. The End.flac | 2:19
-16 | 2005/Young Gods 2005-09-04 Willisau/17. I want to take you higher.flac | 5:19
-17 | 2005/Young Gods 2005-11-19 Prague/CD01/01. The Young Gods - Intro + Secret.flac | 3:49
-18 | 2005/Young Gods 2005-11-19 Prague/CD01/02. The Young Gods - Lucidogen.flac | 3:00
-19 | 2005/Young Gods 2005-11-19 Prague/CD01/03. The Young Gods - Supersonic.flac | 2:58
-20 | 2005/Young Gods 2005-11-19 Prague/CD01/05. The Young Gods - C'est Quoi C'est Ca.flac | 3:06
-21 | 2005/Young Gods 2005-11-19 Prague/CD01/06. The Young Gods - El Magnifico.flac | 2:24
-22 | 2005/Young Gods 2005-11-19 Prague/CD01/07. The Young Gods - Super Ready-FragmentÇ.flac | 6:59
-23 | 2005/Young Gods 2005-11-19 Prague/CD01/09. The Young Gods - Skinflowers.flac | 3:40
-24 | 2005/Young Gods 2005-11-19 Prague/CD01/10. The Young Gods - Kissing The Sun.flac | 2:50
-25 | 2005/Young Gods 2005-11-19 Prague/CD01/11. The Young Gods - Everythere.flac | 3:11
-26 | 2005/Young Gods 2005-11-19 Prague/CD01/13. The Young Gods - EnvoyÇ!.flac | 3:42
-27 | 2005/Young Gods 2005-11-19 Prague/CD02/01. The Young Gods - Speed of Night.flac | 4:18
-28 | 2005/Young Gods 2005-11-19 Prague/CD02/02. The Young Gods - Astronomic.flac | 4:00
-29 | 2005/Young Gods 2005-11-19 Prague/CD02/04. The Young Gods - Gasoline Man.flac | 3:20
-30 | 2005/Young Gods 2005-11-19 Prague/CD02/05. The Young Gods - L'Amourir.flac | 4:26
-31 | 2005/Young Gods 2005-11-19 Prague/CD02/06. The Young Gods - September Song.flac | 3:10
-32 | 2005/AUDIO/01. Secret.flac | 0:37
-33 | 2005/AUDIO/05. Cest Quoi Cest ca.flac | 0:42
-34 | 2005/AUDIO/09. Everywhere.flac | 0:39
-35 | 2005/AUDIO/13. September Song.flac | 0:30
-36 | 2005/Young Gods 2005-07-14 Montreux/03. L'Eau Rouge.flac | 0:35
-37 | 2005/Young Gods 2005-07-14 Montreux/07. Seeraeuber Jenny.flac | 0:54
-38 | 2005/Young Gods 2005-07-14 Montreux/11. Astronomic.flac | 0:58
-39 | 2005/Young Gods 2005-07-14 Montreux/15. Purple Haze.flac | 1:08
-40 | 2005/Young Gods 2005-09-04 Willisau/04. See me feel me.flac | 0:57
-41 | 2005/Young Gods 2005-09-04 Willisau/08. Thunderstorm.flac | 0:36
-42 | 2005/Young Gods 2005-09-04 Willisau/13. Suite Judy blue eyes.flac | 0:54
-43 | 2005/Young Gods 2005-09-04 Willisau/19. Purple haZe.flac | 1:21
-44 | 2005/Young Gods 2005-11-19 Prague/CD01/04. The Young Gods - Jimmy.flac | 0:26
-45 | 2005/Young Gods 2005-11-19 Prague/CD01/08. The Young Gods - Child In A Tree.flac | 0:21
-46 | 2005/Young Gods 2005-11-19 Prague/CD01/12. The Young Gods - I'm The Drug.flac | 0:28
-47 | 2005/Young Gods 2005-11-19 Prague/CD02/03. The Young Gods - Fait La Mouette.flac | 1:00
-48 | 2005/Young Gods 2005-11-19 Prague/CD02/07. The Young Gods - Did You Miss Me.flac | 0:44
-49 | 2005/AUDIO/02. Lucidogen.flac | 0:39
-50 | 2005/AUDIO/03. Supersonic.flac | 0:41
-51 | 2005/AUDIO/04. Jimmy.flac | 0:25
-52 | 2005/AUDIO/06. El Magnifico.flac | 0:32
-53 | 2005/AUDIO/07. Super Ready Fragmente.flac | 1:35
-54 | 2005/AUDIO/08. Child In The Tree.flac | 0:32
-55 | 2005/AUDIO/10. Im The Drug.flac | 0:27
-56 | 2005/AUDIO/11. Un Point Cest Tout.flac | 1:00
-57 | 2005/AUDIO/12. Gasoline Man.flac | 0:47
-58 | 2005/AUDIO/15. Skinflowers.flac | 0:44
-59 | 2005/Young Gods 2005-07-14 Montreux/01. Lucidogen.flac | 0:37
-60 | 2005/Young Gods 2005-07-14 Montreux/02. La Fille De La Mort.flac | 1:19
-61 | 2005/Young Gods 2005-07-14 Montreux/04. Kissing The Sun.flac | 0:39
-62 | 2005/Young Gods 2005-07-14 Montreux/05. Jimmy.flac | 0:25
-63 | 2005/Young Gods 2005-07-14 Montreux/06. She Rains.flac | 0:50
-64 | 2005/Young Gods 2005-07-14 Montreux/08. Moon Revolutions.flac | 1:45
-65 | 2005/Young Gods 2005-07-14 Montreux/09. Child In The Tree.flac | 0:26
-66 | 2005/Young Gods 2005-07-14 Montreux/10. Skinflowers.flac | 0:51
-67 | 2005/Young Gods 2005-07-14 Montreux/12. L'Amourir.flac | 0:52
-68 | 2005/Young Gods 2005-07-14 Montreux/13. Did You Miss Me.flac | 0:35
-69 | 2005/Young Gods 2005-07-14 Montreux/14. September Song.flac | 0:48
-70 | 2005/Young Gods 2005-07-14 Montreux/16. Charlotte.flac | 0:20
-71 | 2005/Young Gods 2005-09-04 Willisau/02. Unknown A.flac | 1:22
-72 | 2005/Young Gods 2005-09-04 Willisau/03. Freedom.flac | 0:47
-73 | 2005/Young Gods 2005-09-04 Willisau/05. Gasoline man.flac | 0:41
-74 | 2005/Young Gods 2005-09-04 Willisau/06. Unknown B.flac | 0:44
-75 | 2005/Young Gods 2005-09-04 Willisau/07. With a little help from my friends.flac | 1:03
-76 | 2005/Young Gods 2005-09-04 Willisau/10. I'm going home.flac | 1:09
+01 | 2025/AUDIO/01Italy_TYG test cut Side A_88k24b.wav | 3:55
+02 | 2025/AUDIO/02Optimal_TYG test cut Side A_88k24b.wav | 3:55
+03 | 2025/AUDIO/Bernard_03.wav | 1:28
+04 | 2025/AUDIO/Bernard_04.wav | 12:16
+05 | 2025/AUDIO/Cesare_03.wav | 1:28
+06 | 2025/AUDIO/Cesare_04.wav | 12:16
+07 | 2025/AUDIO/Franz_03.wav | 1:28
+08 | 2025/AUDIO/Franz_04.wav | 12:16
+09 | 2025/AUDIO/GENEVE LIVE TYG.wav | 17:58
+10 | 2025/AUDIO/TYG LIVE - VINYL 1 SIDE A.wav | 3:52
+11 | 2025/AUDIO/TYG LIVE - VINYL 1 SIDE B.wav | 2:49
+12 | 2025/AUDIO/TYG LIVE - VINYL 2 SIDE A.wav | 3:52
+13 | 2025/AUDIO/TYG LIVE - VINYL 2 SIDE B.wav | 4:05
+14 | 2025/AUDIO/Yann_03.wav | 1:28
+15 | 2025/AUDIO/Yann_04.wav | 12:16
+16 | 2025/AUDIO/01Italy_TYG test cut Side A_88k24b.wav | 16:01
+17 | 2025/AUDIO/02Optimal_TYG test cut Side A_88k24b.wav | 16:01
+18 | 2025/AUDIO/Bernard_03.wav | 6:01
+19 | 2025/AUDIO/Bernard_04.wav | 50:13
+20 | 2025/AUDIO/Cesare_03.wav | 6:01
+21 | 2025/AUDIO/Cesare_04.wav | 50:13
+22 | 2025/AUDIO/Franz_03.wav | 6:01
+23 | 2025/AUDIO/Franz_04.wav | 50:13
+24 | 2025/AUDIO/GENEVE LIVE TYG.wav | 73:30
+25 | 2025/AUDIO/TYG LIVE - VINYL 1 SIDE A.wav | 15:50
+26 | 2025/AUDIO/TYG LIVE - VINYL 1 SIDE B.wav | 11:35
+27 | 2025/AUDIO/TYG LIVE - VINYL 2 SIDE A.wav | 15:50
+28 | 2025/AUDIO/TYG LIVE - VINYL 2 SIDE B.wav | 16:45
+29 | 2025/AUDIO/Yann_03.wav | 6:01
+30 | 2025/AUDIO/Yann_04.wav | 50:13
+31 | 2025/AUDIO/01Italy_TYG test cut Side A_88k24b.wav | 8:32
+32 | 2025/AUDIO/02Optimal_TYG test cut Side A_88k24b.wav | 8:32
+33 | 2025/AUDIO/Bernard_03.wav | 3:12
+34 | 2025/AUDIO/Bernard_04.wav | 26:46
+35 | 2025/AUDIO/Cesare_03.wav | 3:12
+36 | 2025/AUDIO/Cesare_04.wav | 26:46
+37 | 2025/AUDIO/Franz_03.wav | 3:12
+38 | 2025/AUDIO/Franz_04.wav | 26:46
+39 | 2025/AUDIO/GENEVE LIVE TYG.wav | 39:10
+40 | 2025/AUDIO/TYG LIVE - VINYL 1 SIDE A.wav | 8:26
+41 | 2025/AUDIO/TYG LIVE - VINYL 1 SIDE B.wav | 6:10
+42 | 2025/AUDIO/TYG LIVE - VINYL 2 SIDE A.wav | 8:26
+43 | 2025/AUDIO/TYG LIVE - VINYL 2 SIDE B.wav | 8:55
+44 | 2025/AUDIO/Yann_03.wav | 3:12
+45 | 2025/AUDIO/Yann_04.wav | 26:46
+46 | 2025/AUDIO/01Italy_TYG test cut Side A_88k24b.wav | 1:03
+47 | 2025/AUDIO/02Optimal_TYG test cut Side A_88k24b.wav | 1:03
+48 | 2025/AUDIO/Bernard_03.wav | 0:23
+49 | 2025/AUDIO/Bernard_04.wav | 3:18
+50 | 2025/AUDIO/Cesare_03.wav | 0:23
+51 | 2025/AUDIO/Cesare_04.wav | 3:18
+52 | 2025/AUDIO/Franz_03.wav | 0:23
+53 | 2025/AUDIO/Franz_04.wav | 3:18
+54 | 2025/AUDIO/GENEVE LIVE TYG.wav | 4:51
+55 | 2025/AUDIO/TYG LIVE - VINYL 1 SIDE A.wav | 1:02
+56 | 2025/AUDIO/TYG LIVE - VINYL 1 SIDE B.wav | 0:45
+57 | 2025/AUDIO/TYG LIVE - VINYL 2 SIDE A.wav | 1:02
+58 | 2025/AUDIO/TYG LIVE - VINYL 2 SIDE B.wav | 1:06
+59 | 2025/AUDIO/Yann_03.wav | 0:23
+60 | 2025/AUDIO/Yann_04.wav | 3:18
+61 | 2025/AUDIO/01Italy_TYG test cut Side A_88k24b.wav | 13:10
+62 | 2025/AUDIO/02Optimal_TYG test cut Side A_88k24b.wav | 13:10
+63 | 2025/AUDIO/Bernard_03.wav | 4:57
+64 | 2025/AUDIO/Bernard_04.wav | 41:15
+65 | 2025/AUDIO/Cesare_03.wav | 4:57
+66 | 2025/AUDIO/Cesare_04.wav | 41:15
+67 | 2025/AUDIO/Franz_03.wav | 4:57
+68 | 2025/AUDIO/Franz_04.wav | 41:15
+69 | 2025/AUDIO/GENEVE LIVE TYG.wav | 60:23
+70 | 2025/AUDIO/TYG LIVE - VINYL 1 SIDE A.wav | 13:00
+71 | 2025/AUDIO/TYG LIVE - VINYL 1 SIDE B.wav | 9:31
+72 | 2025/AUDIO/TYG LIVE - VINYL 2 SIDE A.wav | 13:00
+73 | 2025/AUDIO/TYG LIVE - VINYL 2 SIDE B.wav | 13:45
+74 | 2025/AUDIO/Yann_03.wav | 4:57
+75 | 2025/AUDIO/Yann_04.wav | 41:15
+76 | 2025/AUDIO/01Italy_TYG test cut Side A_88k24b.wav | 5:41

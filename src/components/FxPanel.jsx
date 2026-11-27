@@ -1,4 +1,4 @@
-import { EFFECTS, EFFECT_MAX, SOUNDS, SOUND_MAX } from "../state/fxSettings.js";
+import { DESTROY, DESTROY_DEFAULT, EFFECTS, EFFECT_MAX, SOUNDS, SOUND_MAX } from "../state/fxSettings.js";
 import { toAscii } from "./format.js";
 import { LANG_MODES } from "../i18n.js";
 
@@ -10,21 +10,21 @@ import { LANG_MODES } from "../i18n.js";
  * Les touches tapées dans le panneau ne déclenchent pas le piano / la molette.
  */
 
-function Slider({ id, label, value, max, onChange }) {
+function Slider({ id, label, value, min = 0, max, normal = 1, onChange }) {
   const percent = Math.round(value * 100);
   return (
     <label className="fx-row">
       <span className="fx-label">{toAscii(label)}</span>
       <input
         type="range"
-        min="0"
+        min={min * 100}
         max={max * 100}
         step="5"
         value={percent}
         onChange={(event) => onChange(id, Number(event.target.value) / 100)}
-        onDoubleClick={() => onChange(id, 1)}
+        onDoubleClick={() => onChange(id, normal)}
       />
-      <span className={`fx-value${value === 0 ? " is-off" : value !== 1 ? " is-changed" : ""}`}>
+      <span className={`fx-value${value === 0 ? " is-off" : value !== normal ? " is-changed" : ""}`}>
         {value === 0 ? "off" : `${percent}%`}
       </span>
     </label>
@@ -61,6 +61,8 @@ export default function FxPanel({ settings, crt, perf, langMode, onChange, onRes
             [{crt ? "x" : " "}] cathodique
           </button>
         </div>
+        <Slider id={DESTROY.id} label={DESTROY.label} value={settings[DESTROY.id]} max={1} normal={DESTROY_DEFAULT} onChange={onChange} />
+        <div className="dim">0 = propre - 15 = normal - 100 = detruit : molette modulation (midi) ou 1 / 2</div>
         {EFFECTS.map(({ id, label }) => (
           <Slider key={id} id={id} label={label} value={settings[id]} max={EFFECT_MAX} onChange={onChange} />
         ))}
