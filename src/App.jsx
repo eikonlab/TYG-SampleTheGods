@@ -654,8 +654,9 @@ export default function App() {
     return () => clearTimeout(timer);
   }, [wrecked]); // eslint-disable-line react-hooks/exhaustive-deps
 
-  // Le son du sampler sature aussi (coupé avec l'effet cathodique, touche §).
-  useEffect(() => setSynthDistortion(crt ? wreckLevel(fx) : 0), [crt, fx.destroy]); // eslint-disable-line react-hooks/exhaustive-deps
+  // Bugs du son : molette en bas = 0 %, molette en haut = 100 %, progressivement
+  // (coupé avec l'effet cathodique, touche §).
+  useEffect(() => setSynthDistortion(crt ? fx.destroy : 0), [crt, fx.destroy]); // eslint-disable-line react-hooks/exhaustive-deps
   useEffect(() => {
     if (!shake.current.frame) setRgbSplit(wreckLevel(fx) * WRECK_RGB_PX * 0.3);
   }, [fx.destroy]); // eslint-disable-line react-hooks/exhaustive-deps

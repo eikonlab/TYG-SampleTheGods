@@ -163,10 +163,12 @@ let distortion = 0;
 let gate = null;
 let dry = null;
 let wet = null;
+let shaper = null;
+let shaperDrive = 0;
 let glitchTimer = 0;
-const DISTORT_WET_MAX = 0.2;  // part de son saturé au maximum
-const GLITCH_RATE = 5;        // nombre de bugs par seconde (environ) molette en haut
-const CRACKLE_VOLUME = 0.15;  // force des craquements
+const DISTORT_WET_MAX = 0.5;  // part de son saturé au maximum
+const GLITCH_RATE = 9;        // nombre de bugs par seconde (environ) molette en haut
+const CRACKLE_VOLUME = 0.3;   // force des craquements
 const VIDEO_SKIP_CHANCE = 0.2; // part des bugs qui font sauter une vidéo en arrière
 const videos = new Map();     // <video> branchée en ce moment → { source, volume }
 const routed = new WeakMap(); // toutes les <video> déjà branchées une fois (le branchement est définitif)
@@ -181,9 +183,19 @@ function saturationCurve(drive) {
   return curve;
 }
 
+// Tout monte progressivement avec la molette (distortion de 0 à 1) :
+//   quantité de son saturé, dureté de la saturation, fréquence des bugs,
+//   profondeur des creux, force des craquements, sauts de vidéo.
+// Juste au-dessus du normal : de rares petits accrocs à peine audibles ; en haut : son très abîmé.
 function applyDistortion() {
   if (!ctx) return;
   const now = ctx.currentTime;
+  // Dureté de la saturation : douce au début, plus dure en montant (courbe recalculée par paliers).
+  const drive = Math.round((1 + 8 * distortion) * 4) / 4;
+  if (drive !== shaperDrive) {
+    shaper.curve = saturationCurve(drive);
+    shaperDrive = drive;
+  }
   wet.gain.setTargetAtTime(distortion * DISTORT_WET_MAX, now, 0.05);
   dry.gain.setTargetAtTime(1 - distortion * DISTORT_WET_MAX * 0.7, now, 0.05);
 }
@@ -191,7 +203,7 @@ function applyDistortion() {
 // Creux de volume arrondi (pas de coupure sèche qui claque) :
 // le son descend à « depth » en FADE secondes, y reste, puis remonte.
 const FADE = 0.008;
-const DIP_DEPTH = [0.12, 0.4]; // le son ne disparaît jamais complètement (0 = silence, 1 = rien)
+const DIP_DEPTH = [0.04, 0.3]; // le son ne disparaît jamais complètement (0 = silence, 1 = rien)
 function dip(at, length, depth) {
   const g = gate.gain;
   g.setValueAtTime(1, at);
@@ -200,9 +212,11 @@ function dip(at, length, depth) {
   g.linearRampToValueAtTime(1, at + 2 * FADE + length);
 }
 
+// Profondeur d'un creux : à peine marqué juste au-dessus du normal, jusqu'à DIP_DEPTH en haut.
 function randomDepth() {
   const [low, high] = DIP_DEPTH;
-  return low + Math.random() * (high - low);
+  const full = low + Math.random() * (high - low);
+  return 1 - (1 - full) * (0.2 + 0.8 * distortion);
 }
 
 // Petit craquement étouffé (bruit court filtré : pas de clic aigu).
@@ -220,7 +234,7 @@ function crackle(at) {
   filter.type = "lowpass";
   filter.frequency.value = 2200;
   const amp = ctx.createGain();
-  amp.gain.value = CRACKLE_VOLUME * (0.4 + 0.6 * distortion);
+  amp.gain.value = CRACKLE_VOLUME * (0.15 + 0.85 * distortion);
   source.connect(filter);
   filter.connect(amp);
   amp.connect(gate);
@@ -251,7 +265,7 @@ function skipVideo(video) {
 // Un bug : creux, hachure douce, craquement ou saut de vidéo (choisi au hasard).
 function glitchOnce() {
   const playing = playingVideos();
-  if (playing.length && Math.random() < VIDEO_SKIP_CHANCE) {
+  if (playing.length && Math.random() < VIDEO_SKIP_CHANCE * distortion) {
     skipVideo(playing[Math.floor(Math.random() * playing.length)]);
     return;
   }
@@ -326,9 +340,39 @@ export function setVideoVolume(video, value) {
   else video.volume = value;
 }
 
+// Molette qu'on bouge = potentiomètre encrassé : le son craque, se creuse et sature d'un coup,
+// d'autant plus fort qu'on la bouge vite. Les messages de la molette arrivent en rafale :
+// au plus un « grattement » toutes les KNOB_MIN_MS millisecondes.
+const KNOB_MIN_MS = 35;
+const KNOB_SENSITIVITY = 25; // plus grand = réagit plus fort à un petit mouvement
+let lastKnob = 0;
+let knobMoved = 0; // mouvement accumulé depuis le dernier grattement
+
+function knobScratch() {
+  const nowMs = performance.now();
+  if (nowMs - lastKnob < KNOB_MIN_MS) return;
+  lastKnob = nowMs;
+  const strength = Math.min(1, knobMoved * KNOB_SENSITIVITY);
+  knobMoved = 0;
+  const now = ctx.currentTime + 0.003;
+  if (Math.random() < 0.4 + 0.5 * strength) crackle(now);
+  gate.gain.cancelScheduledValues(now);
+  gate.gain.setValueAtTime(1, now);
+  dip(now, 0.015 + 0.04 * strength * Math.random(), 1 - strength * (0.3 + 0.5 * Math.random()));
+  // Bouffée de saturation qui retombe vers le niveau réglé.
+  const resting = distortion * DISTORT_WET_MAX;
+  wet.gain.cancelScheduledValues(now);
+  wet.gain.setValueAtTime(wet.gain.value, now);
+  wet.gain.linearRampToValueAtTime(Math.min(1, resting + 0.6 * strength), now + 0.01);
+  wet.gain.setTargetAtTime(resting, now + 0.04, 0.09);
+}
+
 export function setSynthDistortion(amount) {
+  const previous = distortion;
   distortion = Math.max(0, Math.min(1, amount));
   applyDistortion();
+  knobMoved += Math.abs(distortion - previous);
+  if (knobMoved > 0 && ctx && ctx.state === "running" && gate) knobScratch();
   if (distortion <= 0 && gate && ctx) {
     gate.gain.cancelScheduledValues(ctx.currentTime);
     gate.gain.setValueAtTime(1, ctx.currentTime);
@@ -346,8 +390,7 @@ function getContext() {
     dry = ctx.createGain();
     gate.connect(dry);
     dry.connect(ctx.destination);
-    const shaper = ctx.createWaveShaper();
-    shaper.curve = saturationCurve(4);
+    shaper = ctx.createWaveShaper();
     shaper.oversample = "2x";
     wet = ctx.createGain();
     wet.gain.value = 0;
