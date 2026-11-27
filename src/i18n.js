@@ -30,6 +30,7 @@ const STRINGS = {
     midiRefused: "MIDI refuse - clavier actif",
     midiNone: "MIDI : aucun clavier - clavier actif",
     midiConnected: "MIDI : {names}",
+    sleepHint: "joue une note pour commencer",
   },
   de: {
     media: "Medium",
@@ -44,6 +45,7 @@ const STRINGS = {
     midiRefused: "MIDI verweigert - Tastatur aktiv",
     midiNone: "MIDI: kein Keyboard - Tastatur aktiv",
     midiConnected: "MIDI: {names}",
+    sleepHint: "spiel eine Note, um zu beginnen",
   },
   en: {
     media: "item",
@@ -58,6 +60,7 @@ const STRINGS = {
     midiRefused: "MIDI denied - computer keyboard active",
     midiNone: "MIDI: no keyboard - computer keyboard active",
     midiConnected: "MIDI: {names}",
+    sleepHint: "play a note to start",
   },
 };
 

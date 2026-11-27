@@ -200,6 +200,47 @@ button {
   animation: term-cursor-blink 1s steps(1, end) infinite;
 }
 
+/* ÉCRAN DE VEILLE (SleepScreen.jsx) : photo d'archive dessinée en caractères */
+.sleep-art {
+  flex-shrink: 0;
+  margin: 6px 0 2px;
+  font-family: var(--mono);
+  font-size: 8px;
+  line-height: 8px;
+  letter-spacing: 0;
+  white-space: pre;
+  overflow: hidden;
+  color: var(--text);
+  opacity: 0.88;
+}
+
+/* Ligne de balayage (et lignes qui accrochent) : le seul accent jaune */
+.sleep-art-scan {
+  color: var(--accent);
+  text-shadow: 0 0 6px rgba(236, 191, 41, 0.55);
+}
+
+.sleep-caption {
+  min-height: 1.4em;
+}
+
+/* « joue une note pour commencer » : apparaît et disparaît lentement */
+.sleep-hint {
+  color: var(--dim);
+  animation: sleep-hint 3.2s ease-in-out infinite;
+}
+
+@keyframes sleep-hint {
+  0%, 100% { opacity: 0.25; }
+  50%      { opacity: 1; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .sleep-hint {
+    animation: none;
+  }
+}
+
 @keyframes term-cursor-blink {
   50% {
     opacity: 0;
