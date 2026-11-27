@@ -19,7 +19,7 @@ import { archivesReducer, createInitialState, itemForKey } from "./state/archive
 import { DESTROY_STEP, defaultSettings, effectCssVars, effectValue, loadSettings, saveSettings, wreckLevel } from "./state/fxSettings.js";
 
 /*F
- * App.jsx — LE CHEF D'ORCHESTRE
+
  * ------------------------------------------------------------
  * Relie toutes les pièces entre elles.
  *   1. ENTRÉES  : clavier (useKeyboard), MIDI (useMidi), souris, molette (useWheelRepeat)
