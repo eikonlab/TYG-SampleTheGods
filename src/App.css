@@ -297,6 +297,39 @@ button {
   object-fit: contain;
 }
 
+/* Apparition (très courte), dans le style du terminal : l'image s'imprime de haut en bas
+   par à-coups (comme les lignes du terminal, steps), sous une barre grise de la couleur
+   du curseur █. Le cache noir sous la barre descend avec elle et découvre l'image. */
+.term-box::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: linear-gradient(
+    to bottom,
+    transparent 0%,
+    transparent 50%,
+    var(--text) 50%,
+    var(--text) calc(50% + 2px),
+    #000000 calc(50% + 2px),
+    #000000 100%
+  );
+  background-size: 100% 200%;
+  background-position: 0 0;
+  animation: term-img-scan 0.28s steps(7, end);
+}
+
+@keyframes term-img-scan {
+  0%   { background-position: 0 100%; }
+  100% { background-position: 0 0; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .term-box::after {
+    animation: none;
+  }
+}
+
 /* Frise des années */
 .timeline {
   display: flex;
